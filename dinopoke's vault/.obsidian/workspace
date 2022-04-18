@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "2e376b7b13da147a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c837a3524983d040",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08f04a2b291d2608",
+    "type": "split",
+    "children": [
+      {
+        "id": "62555d23b7af65db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d018f4ef139f61a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "041b4f68d32a0612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2079f9ff4213efb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bec91418ae64698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3675812a7ad277",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c837a3524983d040",
+  "lastOpenFiles": [
+    "Test Folder/Untitled.md"
+  ]
+}
