@@ -7,8 +7,12 @@
         "id": "041a1e9210ac27f4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Hub/Game Making.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Hub/Game Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,11 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
+    "1. Hub/Game Making.md",
+    "1. Hub/Game Ideation.md",
+    "Templates/Map of Content.md",
+    "Templates/Note Template.md",
+    "Untitled.md",
     "Permanent Notes/Main Page.md"
   ]
 }
