@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Hub/Game Making.md",
+            "file": "1. Hub/Self.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Hub/Game Making.md",
+                "file": "1. Hub/Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,15 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
+    "1. Hub/Self.md",
+    "1. Hub/_Dashboard.md",
+    "1. Hub/Game Writing.md",
+    "1. Hub/Game Playing.md",
+    "1. Hub/Game Community.md",
+    "0. Fleeting Thoughts/2022-04-29.md",
+    "1. Hub/Recreation.md",
     "1. Hub/Game Making.md",
     "1. Hub/Game Ideation.md",
-    "Templates/Map of Content.md",
-    "Templates/Note Template.md",
-    "Untitled.md",
-    "Permanent Notes/Main Page.md"
+    "Templates/Map of Content.md"
   ]
 }
