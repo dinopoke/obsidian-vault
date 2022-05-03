@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Hub/Self.md",
+            "file": "0. Fleeting Thoughts/2022-04-29.md",
             "mode": "source",
             "source": false
           }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "37491bae810262e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Hub/Self.md",
+                "file": "0. Fleeting Thoughts/2022-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,6 +85,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a7483768994e526",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,10 +107,10 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
+    "0. Fleeting Thoughts/2022-04-29.md",
     "1. Hub/Self.md",
     "4. Projects/Driftsurge.md",
     "4. Projects/Dungeon Breakers.md",
-    "0. Fleeting Thoughts/2022-04-29.md",
     "Templates/Map of Content.md",
     "1. Hub/_Dashboard.md",
     "1. Hub/Game Writing.md",
