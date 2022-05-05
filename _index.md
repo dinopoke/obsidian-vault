@@ -1,5 +1,5 @@
 ---
-title: 🪴 dino's vault
+title:  dino's vault
 ---
 
 Hello! From git
