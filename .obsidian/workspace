@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Fleeting Thoughts/2022-05-06.md",
+            "file": "templates/Map of Content.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Fleeting Thoughts/2022-05-06.md",
+                "file": "templates/Map of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +109,12 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "templates/Map of Content.md",
+    "templates/post.md",
     "0. Fleeting Thoughts/2022-05-06.md",
     "_index.md",
-    "pprivate/privvy.md",
-    "ttemplates/_Note Template.md",
-    "ttemplates/Map of Content.md",
-    "ttemplates/post.md",
+    "private/privvy.md",
+    "templates/_Note Template.md",
     "0. Fleeting Thoughts/Creative Spaces Notes.md",
     "README.md",
     "Attachments/mu Essentials.jpg",
