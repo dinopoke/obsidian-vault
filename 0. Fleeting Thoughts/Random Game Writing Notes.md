@@ -9,6 +9,3 @@ Created: 2022-05-05 16:12
 -   NMS Pet Peeves
 -   Proc gen vs dynamic
 
-## References
-1. 
-
