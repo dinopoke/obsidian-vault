@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private/privvy.md",
+            "file": "Templates/post.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/privvy.md",
+                "file": "Templates/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Templates/post.md",
     "Private/privvy.md",
-    "post.md.md",
     "_index.md",
     "README.md",
     "Attachments/mu Essentials.jpg",
