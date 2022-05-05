@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "041a1e9210ac27f4",
+        "id": "25e4083532389030",
         "type": "leaf",
         "state": {
           "type": "image",
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#game",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,23 +97,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "041a1e9210ac27f4",
+  "active": "25e4083532389030",
   "lastOpenFiles": [
     "Attachments/mu Essentials.jpg",
-    "3. Literature Notes/Holding On.md",
-    "3. Literature Notes/Game Design Concepts.md",
-    "2. Permanent Notes/Solo Roleplaying.md",
-    "Templates/Map of Content.md",
-    "Templates/_Note Template.md",
-    "1. Hub/Self.md",
     "1. Hub/Game Writing.md",
-    "1. Hub/Recreation.md",
-    "2. Permanent Notes/Film.md"
+    "1. Hub/Game Playing.md",
+    "1. Hub/Game Making.md",
+    "2. Permanent Notes/Web Comics.md",
+    "0. Fleeting Thoughts/Random Game Writing Notes.md",
+    "0. Fleeting Thoughts/Random Game Mini Projects.md",
+    "3. Literature Notes/Game Design Concepts.md",
+    "2. Permanent Notes/Sydney Games Studios.md",
+    "3. Literature Notes/Holding On.md"
   ]
 }
