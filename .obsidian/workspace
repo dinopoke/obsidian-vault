@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Fleeting Thoughts/Creative Spaces Notes.md",
+            "file": "2. Permanent Notes/Music.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Fleeting Thoughts/Creative Spaces Notes.md",
+                "file": "2. Permanent Notes/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
-    "0. Fleeting Thoughts/Creative Spaces Notes.md",
-    "0. Fleeting Thoughts/Game Collective Notes.md",
-    "0. Fleeting Thoughts/Doable Game Ideas.md",
-    "0. Fleeting Thoughts/Game Production Notes.md",
-    "0. Fleeting Thoughts/Note Making.md",
-    "0. Fleeting Thoughts/Programming Notes.md",
-    "0. Fleeting Thoughts/Random Games.md",
-    "0. Fleeting Thoughts/Random Game Writing Notes.md",
-    "0. Fleeting Thoughts/Random Game Mini Projects.md",
-    "0. Fleeting Thoughts/Random AIE Notes.md"
+    "2. Permanent Notes/Music.md",
+    "Attachments/mu Essentials.jpg",
+    "2. Permanent Notes/Literature.md",
+    "1. Hub/Recreation.md",
+    "2. Permanent Notes/Sydney Games Studios.md",
+    "2. Permanent Notes/Solo Roleplaying.md",
+    "2. Permanent Notes/Go.md",
+    "2. Permanent Notes/Film.md",
+    "2. Permanent Notes/Dust.md",
+    "2. Permanent Notes/Dire Destiny.md"
   ]
 }
