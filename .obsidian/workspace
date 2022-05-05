@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Permanent Notes/Solo Roleplaying.md",
+            "file": "2. Permanent Notes/Music.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sci f",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Permanent Notes/Solo Roleplaying.md",
+                "file": "2. Permanent Notes/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -108,15 +107,15 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
-    "2. Permanent Notes/Solo Roleplaying.md",
-    "2. Permanent Notes/Go.md",
-    "2. Permanent Notes/Film.md",
-    "1. Hub/Recreation.md",
-    "1. Hub/Self.md",
     "2. Permanent Notes/Music.md",
-    "Attachments/mu Essentials.jpg",
-    "2. Permanent Notes/Literature.md",
-    "2. Permanent Notes/Sydney Games Studios.md",
-    "2. Permanent Notes/Dust.md"
+    "2. Permanent Notes/mu Essentials.jpg",
+    "2. Permanent Notes/Web Comics.md",
+    "3. Literature Notes/Red Mars.md",
+    "3. Literature Notes/Worm.md",
+    "3. Literature Notes/Ultimate Toolbox.md",
+    "3. Literature Notes/Thousand Year Old Vampire.md",
+    "3. Literature Notes/The Quiet Year.md",
+    "3. Literature Notes/Is Killing an Inhibitor Worth It.md",
+    "3. Literature Notes/Holding On.md"
   ]
 }

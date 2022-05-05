@@ -1,7 +1,7 @@
 # Thousand Year Old Vampire
 
 Created: 2022-05-04 20:49
-#ttrpg #soloroleplaying #game
+#game #soloroleplaying #ttrpg 
 
 ## References
 1. https://thousandyearoldvampire.com/
