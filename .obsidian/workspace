@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "privvy.md",
+            "file": "Private/privvy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "privvy.md",
+                "file": "Private/privvy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "privvy.md",
+    "Private/privvy.md",
     "post.md.md",
     "_index.md",
     "README.md",
