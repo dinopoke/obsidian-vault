@@ -4,5 +4,7 @@
   "spellcheck": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
 }

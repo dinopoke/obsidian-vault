@@ -7,9 +7,12 @@
         "id": "25e4083532389030",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachments/mu Essentials.jpg"
+            "file": "privvy.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/mu Essentials.jpg",
+                "file": "privvy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "privvy.md",
+    "post.md.md",
+    "_index.md",
+    "README.md",
     "Attachments/mu Essentials.jpg",
     "1. Hub/Game Writing.md",
     "1. Hub/Game Playing.md",
     "1. Hub/Game Making.md",
     "2. Permanent Notes/Web Comics.md",
-    "0. Fleeting Thoughts/Random Game Writing Notes.md",
-    "0. Fleeting Thoughts/Random Game Mini Projects.md",
-    "3. Literature Notes/Game Design Concepts.md",
-    "2. Permanent Notes/Sydney Games Studios.md",
-    "3. Literature Notes/Holding On.md"
+    "0. Fleeting Thoughts/Random Game Writing Notes.md"
   ]
 }
