@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Permanent Notes/Music.md",
+            "file": "2. Permanent Notes/Solo Roleplaying.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "sci f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Permanent Notes/Music.md",
+                "file": "2. Permanent Notes/Solo Roleplaying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +108,15 @@
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
-    "2. Permanent Notes/Music.md",
-    "Attachments/mu Essentials.jpg",
-    "2. Permanent Notes/Literature.md",
-    "1. Hub/Recreation.md",
-    "2. Permanent Notes/Sydney Games Studios.md",
     "2. Permanent Notes/Solo Roleplaying.md",
     "2. Permanent Notes/Go.md",
     "2. Permanent Notes/Film.md",
-    "2. Permanent Notes/Dust.md",
-    "2. Permanent Notes/Dire Destiny.md"
+    "1. Hub/Recreation.md",
+    "1. Hub/Self.md",
+    "2. Permanent Notes/Music.md",
+    "Attachments/mu Essentials.jpg",
+    "2. Permanent Notes/Literature.md",
+    "2. Permanent Notes/Sydney Games Studios.md",
+    "2. Permanent Notes/Dust.md"
   ]
 }

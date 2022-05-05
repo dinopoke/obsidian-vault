@@ -1,6 +1,4 @@
 {
   "baseFontSize": 16,
-  "enabledCssSnippets": [
-    "enlarge-image"
-  ]
+  "enabledCssSnippets": []
 }
