@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Literature Notes/The Quiet Year.md",
+            "file": "0. Fleeting Thoughts/Programming Notes.md",
             "mode": "source",
             "source": false
           }
@@ -19,103 +19,89 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08f04a2b291d2608",
-    "type": "split",
+    "id": "f20ef4ef0e1b5320",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "62555d23b7af65db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d018f4ef139f61a5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "041b4f68d32a0612",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "37491bae810262e1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "8a93c268bc5c1076",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1b5219ee5b8cd5fa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "31782e0a7e3f8899",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fe6df44da065ccc0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "2079f9ff4213efb0",
-    "type": "split",
+    "id": "21e086518cacfd27",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0bec91418ae64698",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b3675812a7ad277",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "3. Literature Notes/The Quiet Year.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8a7483768994e526",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "a458ce011c58397a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0. Fleeting Thoughts/Programming Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "041a1e9210ac27f4",
   "lastOpenFiles": [
-    "3. Literature Notes/The Quiet Year.md",
-    "3. Literature Notes/Thousand Year Old Vampire.md",
-    "3. Literature Notes/Is Killing an Inhibitor Worth It.md",
-    "3. Literature Notes/Ultimate Toolbox.md",
-    "0. Fleeting Thoughts/2022-05-04.md",
-    "Templates/Map of Content.md",
-    "Templates/_Note Template.md",
-    "0. Fleeting Thoughts/2022-04-29.md",
-    "2. Permanent Notes/Solo Roleplaying.md",
-    "1. Hub/Self.md"
+    "0. Fleeting Thoughts/Programming Notes.md",
+    "0. Fleeting Thoughts/Doable Game Ideas.md",
+    "2. Permanent Notes/Dire Destiny.md",
+    "1. Hub/Game Community.md",
+    "3. Literature Notes/Game Design Concepts.md",
+    "3. Literature Notes/Holding On.md",
+    "0. Fleeting Thoughts/Random Game Mini Projects.md",
+    "0. Fleeting Thoughts/Random Game Writing Notes.md",
+    "0. Fleeting Thoughts/Random Game Notes.md",
+    "0. Fleeting Thoughts/Random Games.md"
   ]
 }

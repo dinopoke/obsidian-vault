@@ -1,2 +1,2 @@
-# Game Community
+# Game Communities
 1. 
