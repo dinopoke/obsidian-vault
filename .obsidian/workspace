@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/post.md",
+            "file": "_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/post.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,12 +109,12 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "templates/post.md",
-    "templates/Map of Content.md",
-    "templates/_Note Template.md",
     "_index.md",
-    "0. Fleeting Thoughts/Creative Spaces Notes.md",
     "private/privvy.md",
+    "templates/_Note Template.md",
+    "templates/Map of Content.md",
+    "templates/post.md",
+    "0. Fleeting Thoughts/Creative Spaces Notes.md",
     "README.md",
     "Attachments/mu Essentials.jpg",
     "1. Hub/Game Writing.md",

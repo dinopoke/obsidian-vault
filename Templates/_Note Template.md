@@ -1,3 +1,7 @@
+---
+title: "{{title}}"
+---
+
 # {{title}}
 
 Created: {{date}} {{time}}
