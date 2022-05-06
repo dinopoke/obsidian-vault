@@ -2,4 +2,4 @@
 title:  dino's vault
 ---
 
-Hello! From git
+Hello! This is to show if the index is working!

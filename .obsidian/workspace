@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Fleeting Thoughts/Random Games.md",
+            "file": "_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Fleeting Thoughts/Random Games.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "_index.md",
     "0. Fleeting Thoughts/Random Games.md",
     "0. Fleeting Thoughts/2022-05-06.md",
     "templates/post.md",
-    "_index.md",
     "0. Fleeting Thoughts/Doable Game Ideas.md",
     "1. Hub/Game Playing.md",
     "1. Hub/Game Writing.md",
