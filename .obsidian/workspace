@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Fleeting Thoughts/Creative Spaces Notes.md",
+            "file": "2. Permanent Notes/Solo Roleplaying.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Fleeting Thoughts/Creative Spaces Notes.md",
+                "file": "2. Permanent Notes/Solo Roleplaying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "0. Fleeting Thoughts/Creative Spaces Notes.md",
-    "0. Fleeting Thoughts/Doable Game Ideas.md",
-    "0. Fleeting Thoughts/Game Collective Notes.md",
-    "templates/post.md",
-    "templates/Map of Content.md",
-    "templates/_Note Template.md",
-    "_index.md",
-    "0. Fleeting Thoughts/Random Games.md",
-    "0. Fleeting Thoughts/2022-05-06.md",
-    "1. Hub/Game Playing.md"
+    "2. Permanent Notes/Solo Roleplaying.md",
+    "2. Permanent Notes/Music.md",
+    "2. Permanent Notes/Literature.md",
+    "2. Permanent Notes/Go.md",
+    "2. Permanent Notes/Film.md",
+    "2. Permanent Notes/Dust.md",
+    "2. Permanent Notes/Dire Destiny.md",
+    "1. Hub/Game Ideation.md",
+    "1. Hub/Game Community.md",
+    "0. Fleeting Thoughts/Creative Spaces Notes.md"
   ]
 }

@@ -6,5 +6,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments",
   "newLinkFormat": "absolute",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }
