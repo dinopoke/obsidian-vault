@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "4. Projects/Driftsurge.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "4. Projects/Driftsurge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "4. Projects/Driftsurge.md",
+    "4. Projects/Dungeon Breakers.md",
+    "4. Projects/The Master Is Dead.md",
+    "2. Permanent Notes/Literature.md",
+    "1. Hub/Self.md",
+    "1. Hub/Recreation.md",
     "_index.md",
     "templates/Map of Content.md",
     "templates/post.md",
-    "0. Fleeting Thoughts/2022-05-06.md",
-    "private/privvy.md",
-    "templates/_Note Template.md",
-    "0. Fleeting Thoughts/Creative Spaces Notes.md",
-    "README.md",
-    "Attachments/mu Essentials.jpg",
-    "1. Hub/Game Writing.md"
+    "0. Fleeting Thoughts/2022-05-06.md"
   ]
 }
