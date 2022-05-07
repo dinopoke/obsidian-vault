@@ -1,5 +1,5 @@
 ---
-title:  dino's pokey palace
+title:  "🏛 dino's pokey palace 🏛"
 ---
 
 Hello! Welcome to my place!
