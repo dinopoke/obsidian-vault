@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ultimate Toolbox.md",
+            "file": "Is Killing an Inhibitor Worth It.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#game",
+                "query": "tag:#videogametheory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Toolbox.md",
+                "file": "Is Killing an Inhibitor Worth It.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,15 +110,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Ultimate Toolbox.md",
+    "Is Killing an Inhibitor Worth It.md",
+    "Notes/Random Game Mini Projects.md",
+    "README.md",
+    "Music.md",
+    "Literature.md",
     "Web Comics.md",
+    "Ultimate Toolbox.md",
     "Thousand Year Old Vampire.md",
     "The Quiet Year.md",
-    "Television.md",
-    "Sydney Games Studios.md",
-    "Solo Roleplaying.md",
-    "Red Mars.md",
-    "README.md",
-    "Music.md"
+    "Television.md"
   ]
 }

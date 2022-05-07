@@ -1,5 +1,8 @@
 ---
-title: "{{title}}"
+title: "{{Go}}"
+tags:
+- game
+- todo
 ---
 # Go
 

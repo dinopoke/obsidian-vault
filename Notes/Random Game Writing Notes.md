@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "{{Random Game Writing Projects}}"
 ---
 # Random Game Writing Projects
 

@@ -1,5 +1,10 @@
 ---
-title: "{{title}}"
+title: "{{Is Killing an Inhibitor Worth It?}}"
+tags:
+- video
+- leagueoflegends
+- videogametheory
+- todo
 ---
 # Is Killing an Inhibitor Worth It?
 

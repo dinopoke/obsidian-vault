@@ -1,10 +1,13 @@
 ---
-title: "{{title}}"
+title: "{{Sydney Games Studios}}"
+tags:
+- gamestudio
+- sydney
 ---
 # Sydney Games Studios
 
 Created: 2022-05-05 15:38
-#gamestudios #sydney
+#gamestudio #sydney
 
 Wargaming Sydney
 Chaos Theory

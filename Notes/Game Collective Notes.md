@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "{{Game Collective Notes}}"
 ---
 # Game Collective Notes
 

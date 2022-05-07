@@ -1,3 +1,7 @@
+---
+title: "{{The Master Is Dead}}"
+---
+
 # The Master Is Dead
 
 use tables as a code for each innocent 

@@ -1,8 +1,12 @@
 ---
-title: "{{title}}"
+title: "{{Web Comics}}"
+tags:
+- reading
+- webcomic
 ---
 # Web Comics
-#reading #todo #webcomic 
+#reading #webcomic 
+
 [[Literature]]
 
 - [http://achewood.com/](http://achewood.com/)

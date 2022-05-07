@@ -1,5 +1,7 @@
 ---
-title: "{{title}}"
+title: "{{Music}}"
+tags:
+- todo
 ---
 # Music
 

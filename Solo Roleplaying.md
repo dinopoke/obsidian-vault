@@ -1,5 +1,7 @@
 ---
-title: "{{title}}"
+title: "{{Solo Roleplaying}}"
+tags:
+- soloroleplaying
 ---
 # Solo Roleplaying
 

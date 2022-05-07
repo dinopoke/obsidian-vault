@@ -1,5 +1,9 @@
 ---
-title: "{{title}}"
+title: "{{Ultimate Toolbox}}"
+tags:
+- dmtables
+- soloroleplaying
+- ttrpg
 ---
 # Ultimate Toolbox
 

@@ -1,5 +1,9 @@
 ---
-title: "{{title}}"
+title: "{{Thousand Year Old Vampire}}"
+tags:
+- game
+- soloroleplaying
+- ttrpg
 ---
 # Thousand Year Old Vampire
 

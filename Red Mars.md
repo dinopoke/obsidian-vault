@@ -1,5 +1,7 @@
 ---
-title: "{{title}}"
+title: "{{Red Mars}}"
+tags:
+- book
 ---
 # Red Mars
 

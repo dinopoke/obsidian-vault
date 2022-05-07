@@ -1,5 +1,7 @@
 ---
-title: "{{title}}"
+title: "{{Doable Game Ideas}}"
+tags:
+- projects
 ---
 # Doable Game Ideas
 
