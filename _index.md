@@ -2,14 +2,9 @@
 title:  🏰 dino's pokey palace 🏰
 ---
 
-Hello! Welcome to my place!
+Hello! Welcome to my palace!
 
-[[Hub/Game Community]]  
-[[Hub/Game Ideation]]  
-[[Hub/Game Making]]  
-[[Hub/Game Playing]]  
-[[Hub/Game Writing]]  
-[[Hub/Recreation]]  
-[[Hub/Self]]  
+[[Hub/Hub|Enter]]...
+
 
 
