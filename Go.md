@@ -1,5 +1,5 @@
 ---
-title: "{{Go}}"
+title: "Go"
 ---
 # Go
 

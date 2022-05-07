@@ -1,5 +1,5 @@
 ---
-title: "{{Self}}"
+title: "Self"
 ---
 # Self 
 1. 

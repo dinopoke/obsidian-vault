@@ -1,5 +1,5 @@
 ---
-title: "{{Literature}}"
+title: "Literature"
 ---
 # Literature
 ## TODO

@@ -1,5 +1,5 @@
 ---
-title: "{{Web Comics}}"
+title: "Web Comics"
 ---
 # Web Comics
 #reading #webcomic 

@@ -1,5 +1,5 @@
 ---
-title: "{{Film}}"
+title: "Film"
 ---
 # Film
 https://letterboxd.com/dinopoke/

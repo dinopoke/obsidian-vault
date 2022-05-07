@@ -1,5 +1,5 @@
 ---
-title: "{{Dungeon Breakers}}"
+title: "Dungeon Breakers"
 ---
 # Dungeon Breakers
 1. 

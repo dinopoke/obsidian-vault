@@ -1,5 +1,5 @@
 ---
-title: "{{Programming Notes}}"
+title: "Programming Notes"
 ---
 # Programming Notes
 

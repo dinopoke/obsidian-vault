@@ -1,5 +1,5 @@
 ---
-title: "{{Holding On}}"
+title: "Holding On"
 ---
 # Holding On
 

@@ -1,5 +1,5 @@
 ---
-title: "{{Random Games}}"
+title: "Random Games"
 ---
 # Random Games
 

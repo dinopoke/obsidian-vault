@@ -1,5 +1,5 @@
 ---
-title: "{{The Quiet Year}}"
+title: "{he Quiet Year"
 ---
 # The Quiet Year
 

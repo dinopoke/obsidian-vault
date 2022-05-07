@@ -1,5 +1,5 @@
 ---
-title: "{{The Master Is Dead}}"
+title: "The Master Is Dead"
 ---
 
 # The Master Is Dead

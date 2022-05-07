@@ -1,5 +1,5 @@
 ---
-title: "{{Random Game Mini Projects}}"
+title: "Random Game Mini Projects"
 ---
 # Random Game Mini Projects
 

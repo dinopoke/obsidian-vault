@@ -1,5 +1,5 @@
 ---
-title: "{{Game Writing }}"
+title: "Game Writing"
 ---
 # Game Writing 
 1. 

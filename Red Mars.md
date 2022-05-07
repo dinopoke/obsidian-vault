@@ -1,5 +1,5 @@
 ---
-title: "{{Red Mars}}"
+title: "Red Mars"
 ---
 # Red Mars
 

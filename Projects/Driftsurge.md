@@ -1,5 +1,5 @@
 ---
-title: "{{Driftsurge}}"
+title: "Driftsurge"
 ---
 # Driftsurge
 Left right drift

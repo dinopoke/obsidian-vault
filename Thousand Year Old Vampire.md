@@ -1,5 +1,5 @@
 ---
-title: "{{Thousand Year Old Vampire}}"
+title: "Thousand Year Old Vampire"
 ---
 # Thousand Year Old Vampire
 

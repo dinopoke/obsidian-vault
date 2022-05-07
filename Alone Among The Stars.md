@@ -1,5 +1,5 @@
 ---
-title: "{{Alone Among The Stars}}"
+title: "Alone Among The Stars"
 ---
 # Alone Among The Stars
 

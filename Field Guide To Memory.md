@@ -1,5 +1,5 @@
 ---
-title: "{{Field Guide To Memory}}"
+title: "Field Guide To Memory"
 ---
 # Field Guide To Memory
 

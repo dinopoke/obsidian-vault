@@ -1,5 +1,5 @@
 ---
-title: "{{Random AIE Notes}}"
+title: "Random AIE Notes"
 ---
 # Random AIE Notes
 

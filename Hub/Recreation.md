@@ -1,5 +1,5 @@
 ---
-title: "{{Recreation}}"
+title: "Recreation"
 ---
 # Recreation
 - [[Music]]

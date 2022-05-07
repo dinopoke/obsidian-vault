@@ -1,5 +1,5 @@
 ---
-title: "{{Game Playing}}"
+title: "Game Playing"
 ---
 # Game Playing 
 1. 

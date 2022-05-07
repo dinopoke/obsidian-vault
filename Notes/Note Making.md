@@ -1,5 +1,5 @@
 ---
-title: "{{Note Making}}"
+title: "Note Making"
 ---
 # Note Making
 

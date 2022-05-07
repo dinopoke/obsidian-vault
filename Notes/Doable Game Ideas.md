@@ -1,5 +1,5 @@
 ---
-title: "{{Doable Game Ideas}}"
+title: "Doable Game Ideas"
 ---
 # Doable Game Ideas
 

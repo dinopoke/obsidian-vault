@@ -1,5 +1,5 @@
 ---
-title: "{{Game Ideation}}"
+title: "Game Ideation"
 ---
 # Game Ideation
 1. 

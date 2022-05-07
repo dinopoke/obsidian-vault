@@ -1,5 +1,5 @@
 ---
-title: "{{Sydney Games Studios}}"
+title: "Sydney Games Studios"
 ---
 # Sydney Games Studios
 

@@ -1,5 +1,5 @@
 ---
-title: "{{Dire Destiny}}"
+title: "Dire Destiny"
 ---
 # Dire Destiny
 

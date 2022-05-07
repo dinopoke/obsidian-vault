@@ -1,5 +1,5 @@
 ---
-title: "{{Dust}}"
+title: "Dust"
 ---
 # Dust
 

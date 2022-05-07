@@ -1,5 +1,5 @@
 ---
-title: "{{Game Design Concepts Course}}"
+title: "Game Design Concepts Course"
 ---
 # Game Design Concepts Course
 

@@ -1,5 +1,5 @@
 ---
-title: "{{Television}}"
+title: "Television"
 ---
 # Television
 1. 

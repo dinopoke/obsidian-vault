@@ -1,5 +1,5 @@
 ---
-title: "{{Is Killing an Inhibitor Worth It?}}"
+title: "Is Killing an Inhibitor Worth It?"
 ---
 # Is Killing an Inhibitor Worth It?
 

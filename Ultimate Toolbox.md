@@ -1,5 +1,5 @@
 ---
-title: "{{Ultimate Toolbox}}"
+title: "Ultimate Toolbox"
 ---
 # Ultimate Toolbox
 
