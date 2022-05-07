@@ -1,9 +1,5 @@
 ---
 title: "{{Field Guide To Memory}}"
-tags:
-- game
-- soloroleplaying
-- ttrpg
 ---
 # Field Guide To Memory
 

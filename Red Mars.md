@@ -1,7 +1,5 @@
 ---
 title: "{{Red Mars}}"
-tags:
-- book
 ---
 # Red Mars
 

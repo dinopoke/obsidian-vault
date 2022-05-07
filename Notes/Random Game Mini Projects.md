@@ -1,7 +1,5 @@
 ---
 title: "{{Random Game Mini Projects}}"
-tags:
-- projects
 ---
 # Random Game Mini Projects
 

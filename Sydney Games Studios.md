@@ -1,8 +1,5 @@
 ---
 title: "{{Sydney Games Studios}}"
-tags:
-- gamestudio
-- sydney
 ---
 # Sydney Games Studios
 

@@ -1,9 +1,5 @@
 ---
 title: "{{Alone Among The Stars}}"
-tags:
-- game
-- soloroleplaying
-- ttrpg
 ---
 # Alone Among The Stars
 

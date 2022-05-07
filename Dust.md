@@ -1,7 +1,5 @@
 ---
 title: "{{Dust}}"
-tags:
-- projects
 ---
 # Dust
 

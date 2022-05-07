@@ -1,7 +1,5 @@
 ---
 title: "{{Random Games}}"
-tags:
-- game
 ---
 # Random Games
 

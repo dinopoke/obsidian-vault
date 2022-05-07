@@ -1,8 +1,5 @@
 ---
 title: "{{Holding On}}"
-tags:
-- game
-- boardgame
 ---
 # Holding On
 

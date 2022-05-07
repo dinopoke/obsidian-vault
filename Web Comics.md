@@ -1,8 +1,5 @@
 ---
 title: "{{Web Comics}}"
-tags:
-- reading
-- webcomic
 ---
 # Web Comics
 #reading #webcomic 
@@ -16,4 +13,3 @@ tags:
 - [http://pbfcomics.com/](http://pbfcomics.com/)
 - [http://xkcd.com](http://xkcd.com)
 - [Worm](https://parahumans.wordpress.com/)
-- 

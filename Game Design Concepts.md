@@ -1,7 +1,5 @@
 ---
 title: "{{Game Design Concepts Course}}"
-tags:
-- learning
 ---
 # Game Design Concepts Course
 

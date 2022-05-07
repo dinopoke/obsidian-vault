@@ -1,8 +1,5 @@
 ---
 title: "{{Go}}"
-tags:
-- game
-- todo
 ---
 # Go
 

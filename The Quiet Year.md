@@ -1,9 +1,5 @@
 ---
 title: "{{The Quiet Year}}"
-tags:
-- game
-- soloroleplaying
-- ttrpg
 ---
 # The Quiet Year
 

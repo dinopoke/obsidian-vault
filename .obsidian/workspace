@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Is Killing an Inhibitor Worth It.md",
+            "file": "Web Comics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#videogametheory",
+                "query": "tag:#webcomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is Killing an Inhibitor Worth It.md",
+                "file": "Web Comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Is Killing an Inhibitor Worth It.md",
-    "Notes/Random Game Mini Projects.md",
-    "README.md",
-    "Music.md",
-    "Literature.md",
     "Web Comics.md",
     "Ultimate Toolbox.md",
     "Thousand Year Old Vampire.md",
     "The Quiet Year.md",
-    "Television.md"
+    "Television.md",
+    "Sydney Games Studios.md",
+    "Solo Roleplaying.md",
+    "Red Mars.md",
+    "README.md",
+    "Music.md"
   ]
 }

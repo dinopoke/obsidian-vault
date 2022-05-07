@@ -1,8 +1,5 @@
 ---
 title: "{{Literature}}"
-tags:
-- reading
-- todo
 ---
 # Literature
 ## TODO

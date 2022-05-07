@@ -1,7 +1,5 @@
 ---
 title: "{{Dire Destiny}}"
-tags:
-- game
 ---
 # Dire Destiny
 
