@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Comics.md",
+            "file": "_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Comics.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +109,7 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "_index.md",
     "Web Comics.md",
     "Ultimate Toolbox.md",
     "Thousand Year Old Vampire.md",
@@ -118,7 +118,6 @@
     "Sydney Games Studios.md",
     "Solo Roleplaying.md",
     "Red Mars.md",
-    "README.md",
-    "Music.md"
+    "README.md"
   ]
 }
