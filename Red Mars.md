@@ -3,7 +3,7 @@ title: "Red Mars"
 ---
 # Red Mars
 
-Created: 2022-05-06 00:52
+Created: 2022-05-06 00:52  
 #book
 
 [[Literature]]

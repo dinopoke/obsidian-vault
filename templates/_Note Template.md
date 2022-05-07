@@ -5,7 +5,7 @@ enableToc: false # do not show a table of contents on this page
 
 # {{title}}
 
-Created: {{date}} {{time}}
+Created: {{date}} {{time}}  
 
 
 

@@ -5,6 +5,7 @@ title: "Sydney Games Studios"
 
 Created: 2022-05-05 15:38
 #gamestudio #sydney
+[[Hub/Game Community]]
 
 Wargaming Sydney
 Chaos Theory

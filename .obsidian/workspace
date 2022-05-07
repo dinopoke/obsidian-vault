@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "templates/post.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#webcomic",
+                "query": "tag:#projects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "templates/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "_index.md",
-    "Web Comics.md",
-    "Ultimate Toolbox.md",
-    "Thousand Year Old Vampire.md",
-    "The Quiet Year.md",
-    "Television.md",
-    "Sydney Games Studios.md",
-    "Solo Roleplaying.md",
+    "templates/post.md",
+    "templates/Map of Content.md",
+    "templates/_Note Template.md",
     "Red Mars.md",
-    "README.md"
+    "Alone Among The Stars.md",
+    "Projects/The Master Is Dead.md",
+    "Projects/Dungeon Breakers.md",
+    "Projects/Driftsurge.md",
+    "Notes/Creative Spaces Notes.md",
+    "Notes/Doable Game Ideas.md"
   ]
 }
