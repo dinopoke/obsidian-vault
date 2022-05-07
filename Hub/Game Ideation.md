@@ -2,4 +2,4 @@
 title: "Game Ideation"
 ---
 # Game Ideation
-1. 
+1. [[Game Design Concepts Course]]  

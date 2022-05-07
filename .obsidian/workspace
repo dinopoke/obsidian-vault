@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/post.md",
+            "file": "Projects/Driftsurge.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/post.md",
+                "file": "Projects/Driftsurge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,15 +108,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "templates/post.md",
-    "templates/Map of Content.md",
-    "templates/_Note Template.md",
-    "Red Mars.md",
-    "Alone Among The Stars.md",
-    "Projects/The Master Is Dead.md",
-    "Projects/Dungeon Breakers.md",
     "Projects/Driftsurge.md",
-    "Notes/Creative Spaces Notes.md",
-    "Notes/Doable Game Ideas.md"
+    "Hub/Game Ideation.md",
+    "Game Design Concepts Course.md",
+    "Hub/Game Making.md",
+    "Notes/Programming Notes.md",
+    "Notes/Note Making.md",
+    "Solo Roleplaying.md",
+    "Alone Among The Stars.md",
+    "Dire Destiny.md",
+    "Dust.md"
   ]
 }
