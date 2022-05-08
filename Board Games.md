@@ -1,9 +1,10 @@
 ---
 title: "Board Games"
+tags:
+- boardgame
 ---
 
 # Board Games
-Created: 2022-05-08 16:51  
 
 [[Deception Murder in Hong Kong]]
 [[Pandemic Legacy]]
@@ -18,6 +19,15 @@ Created: 2022-05-08 16:51
 [[A Fake Artist Goes To New York]]
 [[Tragedy Looper]]
 
-## References
-1. 
+## Resources
+[[The Angry GM]]
+[http://www.enworld.org/](http://www.enworld.org/)  
+[https://www.rpg.net/](https://www.rpg.net/)  
+[https://rpggeek.com](https://rpggeek.com)  
+[https://en.wikipedia.org/wiki/GNS_theory](https://en.wikipedia.org/wiki/GNS_theory)  
+[http://www.story-games.com/](http://www.story-games.com/)  
+
+[http://www.indie-rpgs.com/forge/index.php](http://www.indie-rpgs.com/forge/index.php)  
+[http://www.indie-rpgs.com/_articles/system_does_matter.html](http://www.indie-rpgs.com/_articles/system_does_matter.html)  
+[http://www.indie-rpgs.com/forge/index.php](http://www.indie-rpgs.com/forge/index.php)  
 

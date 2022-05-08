@@ -7,7 +7,6 @@ tags:
 ---
 
 # Ironsworn
-
 Created: 2022-05-08 13:21  
 
 [PDF](https://drive.google.com/uc?export=download&id=1EZshtmYXwZXhazQRCmMYoZ5U_HvN-rlq)

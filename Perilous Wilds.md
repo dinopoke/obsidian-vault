@@ -7,7 +7,6 @@ tags:
 ---
 
 # Perilous Wilds
-
 Created: 2022-05-08 13:32  
 
 Table supplement for Dungeon World  

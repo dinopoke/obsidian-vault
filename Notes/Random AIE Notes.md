@@ -2,7 +2,6 @@
 title: "Random AIE Notes"
 ---
 # Random AIE Notes
-
 Created: 2022-05-05 16:09
 
 heavy and lighten stone

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Notes/DM Ideas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#boardgame",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes/DM Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Is Killing an Inhibitor Worth It.md",
-    "Tragedy Looper.md",
+    "Notes/DM Ideas.md",
+    "Notes/Creative Spaces Notes.md",
+    "Notes/Doable Game Ideas.md",
     "Board Games.md",
-    "A Fake Artist Goes To New York.md",
-    "Descent Journeys in the Dark.md",
-    "One Night Werewolf.md",
-    "Cosmic Encounter.md",
-    "Love Letter.md",
-    "Hub/Game Writing.md"
+    "Tabletop Role Playing Games.md",
+    "Web Comics.md",
+    "Ultimate Toolbox.md",
+    "Tragedy Looper.md",
+    "Thousand Year Old Vampire.md",
+    "The Quiet Year.md"
   ]
 }
