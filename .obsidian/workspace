@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Random Game Mini Projects.md",
+            "file": "The Quiet Year.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Game Mini Projects.md",
+                "file": "The Quiet Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "The Quiet Year.md",
     "Notes/Random Game Mini Projects.md",
     "Dust.md",
     "Notes/Doable Game Ideas.md",
@@ -118,7 +119,6 @@
     "Is Killing an Inhibitor Worth It.md",
     "Call of Cthulhu.md",
     "Ironsworn.md",
-    "Holding On.md",
-    "Go.md"
+    "Holding On.md"
   ]
 }

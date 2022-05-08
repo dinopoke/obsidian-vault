@@ -1,5 +1,5 @@
 ---
-title: "{he Quiet Year"
+title: "The Quiet Year"
 tags:
 - game
 - soloroleplaying
