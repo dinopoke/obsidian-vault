@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hub/Hub.md",
+            "file": "Solo Roleplaying.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hub/Hub.md",
+                "file": "Solo Roleplaying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Solo Roleplaying.md",
+    "templates/_Note Template.md",
+    "Perilous Wilds.md",
+    "Ultimate Toolbox.md",
+    "Ironsworn.md",
     "Hub/Hub.md",
     "_index.md",
     "templates/Map of Content.md",
     "templates/post.md",
-    "private/private-note.md",
-    "Hub/Self.md",
-    "Projects/Driftsurge.md",
-    "Hub/Game Ideation.md",
-    "Game Design Concepts Course.md",
-    "Hub/Game Making.md"
+    "private/private-note.md"
   ]
 }
