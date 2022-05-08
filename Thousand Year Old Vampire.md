@@ -1,10 +1,13 @@
 ---
 title: "Thousand Year Old Vampire"
+tags:
+- game
+- soloroleplaying
+- ttrpg
 ---
 # Thousand Year Old Vampire
 
-Created: 2022-05-04 20:49
-#game #soloroleplaying #ttrpg 
+Created: 2022-05-04 20:49  
 
 ## References
 1. https://thousandyearoldvampire.com/

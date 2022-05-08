@@ -1,10 +1,14 @@
 ---
 title: "Is Killing an Inhibitor Worth It?"
+tags:
+- video
+- leagueoflegends
+- videogametheory
+- todo
 ---
 # Is Killing an Inhibitor Worth It?
 
-Created: 2022-05-03 21:40
-#video #leagueoflegends #videogametheory #todo
+Created: 2022-05-03 21:40  
 
 - A video from Richard Clayton to watch
 

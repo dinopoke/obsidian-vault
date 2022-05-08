@@ -1,10 +1,11 @@
 ---
 title: "Dire Destiny"
+tags:
+- game
 ---
 # Dire Destiny
 
-Created: 2022-05-05 15:44
-#game
+Created: 2022-05-05 15:44  
 
 Priest Boss notes
 covert player cards - when drawing

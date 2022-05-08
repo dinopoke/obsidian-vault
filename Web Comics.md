@@ -1,8 +1,10 @@
 ---
 title: "Web Comics"
+tags:
+- reading
+- webcomic
 ---
-# Web Comics
-#reading #webcomic 
+# Web Comics  
 
 [[Literature]]
 

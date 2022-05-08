@@ -1,10 +1,13 @@
 ---
 title: "Field Guide To Memory"
+tags:
+- game
+- soloroleplaying
+- ttrpg
 ---
 # Field Guide To Memory
 
-Created: 2022-05-04 21:38
-#game #soloroleplaying #ttrpg 
+Created: 2022-05-04 21:38  
 
 
 ## References

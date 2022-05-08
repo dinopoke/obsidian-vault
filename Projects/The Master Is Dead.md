@@ -1,9 +1,10 @@
 ---
 title: "The Master Is Dead"
+tags:
+  - projects
 ---
 
 # The Master Is Dead
-#projects  
 
 use tables as a code for each innocent 
 

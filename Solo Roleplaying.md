@@ -1,10 +1,14 @@
 ---
 title: "Solo Roleplaying"
+tags:
+  - soloroleplaying
+  - ttrpg
 ---
 # Solo Roleplaying
 
 Created: 2022-05-04 17:00  
-#soloroleplaying 
+
+[[Tabletop Role Playing Games]]
 
 ## Solo Games
 [[Alone Among The Stars]]  

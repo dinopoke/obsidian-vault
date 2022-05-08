@@ -1,11 +1,14 @@
 ---
 title: "Ironsworn"
+tags:
+- game
+- soloroleplaying
+- ttrpg
 ---
 
 # Ironsworn
 
 Created: 2022-05-08 13:21  
-#game #soloroleplaying #ttrpg 
 
 [PDF](https://drive.google.com/uc?export=download&id=1EZshtmYXwZXhazQRCmMYoZ5U_HvN-rlq)
 [Local PDF Link](<G:\My Drive\Gam\Tabletop\Role Playing Games\Solo\Games\Ironsworn-Rulebook.pdf>)

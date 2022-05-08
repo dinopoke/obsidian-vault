@@ -1,10 +1,11 @@
 ---
 title: "Random Games"
+tags:
+  - game
 ---
 # Random Games
 
-Created: 2022-05-05 16:08
-#game
+Created: 2022-05-05 16:08  
 
 Birdsketball
 Abduct

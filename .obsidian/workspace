@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solo Roleplaying.md",
+            "file": "Notes/Random Game Mini Projects.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects",
+                "query": "tag:#game",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solo Roleplaying.md",
+                "file": "Notes/Random Game Mini Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,15 +110,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Solo Roleplaying.md",
-    "templates/_Note Template.md",
-    "Perilous Wilds.md",
-    "Ultimate Toolbox.md",
+    "Notes/Random Game Mini Projects.md",
+    "Dust.md",
+    "Notes/Doable Game Ideas.md",
+    "Game Design Concepts Course.md",
+    "Web Comics.md",
+    "Is Killing an Inhibitor Worth It.md",
+    "Call of Cthulhu.md",
     "Ironsworn.md",
-    "Hub/Hub.md",
-    "_index.md",
-    "templates/Map of Content.md",
-    "templates/post.md",
-    "private/private-note.md"
+    "Holding On.md",
+    "Go.md"
   ]
 }

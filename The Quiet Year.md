@@ -1,10 +1,13 @@
 ---
 title: "{he Quiet Year"
+tags:
+- game
+- soloroleplaying
+- ttrpg
 ---
 # The Quiet Year
 
-Created: 2022-05-04 20:50
-#game #soloroleplaying #ttrpg 
+Created: 2022-05-04 20:50  
 
 
 ## References

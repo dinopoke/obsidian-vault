@@ -1,5 +1,9 @@
 ---
 title: "Perilous Wilds"
+tags:
+- dmtables
+- soloroleplaying
+- ttrpg
 ---
 
 # Perilous Wilds
