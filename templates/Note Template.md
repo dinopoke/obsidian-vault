@@ -5,7 +5,6 @@ tags:
 ---
 
 # {{title}}
-
 Created: {{date}} {{time}}  
 
 

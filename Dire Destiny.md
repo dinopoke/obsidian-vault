@@ -2,6 +2,7 @@
 title: "Dire Destiny"
 tags:
 - game
+- videogame
 ---
 # Dire Destiny
 

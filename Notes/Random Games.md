@@ -2,6 +2,7 @@
 title: "Random Games"
 tags:
   - game
+  - videogame
 ---
 # Random Games
 

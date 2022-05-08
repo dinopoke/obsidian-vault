@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sydney Games Studios.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sydney",
+                "query": "tag:#boardgame",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sydney Games Studios.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +109,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Sydney Games Studios.md",
-    "The Quiet Year.md",
-    "Thousand Year Old Vampire.md",
-    "Notes/Random Games.md",
-    "Notes/Random Game Mini Projects.md",
-    "Dust.md",
-    "Notes/Doable Game Ideas.md",
-    "Game Design Concepts Course.md",
-    "Web Comics.md",
-    "Is Killing an Inhibitor Worth It.md"
+    "Untitled.md",
+    "Is Killing an Inhibitor Worth It.md",
+    "Tragedy Looper.md",
+    "Board Games.md",
+    "A Fake Artist Goes To New York.md",
+    "Descent Journeys in the Dark.md",
+    "One Night Werewolf.md",
+    "Cosmic Encounter.md",
+    "Love Letter.md",
+    "Hub/Game Writing.md"
   ]
 }
