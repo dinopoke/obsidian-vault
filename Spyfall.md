@@ -1,7 +1,7 @@
 ---
 title: "Spyfall"
 tags:
-= boardgame
+- boardgame
 - game
 ---
 

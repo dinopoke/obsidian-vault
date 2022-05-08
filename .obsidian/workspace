@@ -9,8 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/DM Ideas.md",
-            "file": "Sydney Games Studios.md",
+            "file": "Spyfall.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -43,7 +42,6 @@
               "type": "search",
               "state": {
                 "query": "",
-                "query": "tag:#sydney",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/DM Ideas.md",
-                "file": "Sydney Games Studios.md",
+                "file": "Spyfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,22 +117,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Spyfall.md",
     "Notes/DM Ideas.md",
     "Notes/Creative Spaces Notes.md",
-    "Sydney Games Studios.md",
-    "The Quiet Year.md",
-    "Thousand Year Old Vampire.md",
-    "Notes/Random Games.md",
-    "Notes/Random Game Mini Projects.md",
-    "Dust.md",
     "Notes/Doable Game Ideas.md",
     "Board Games.md",
     "Tabletop Role Playing Games.md",
     "Web Comics.md",
     "Ultimate Toolbox.md",
     "Tragedy Looper.md",
-    "Thousand Year Old Vampire.md",
-    "The Quiet Year.md"
-    "Is Killing an Inhibitor Worth It.md"
+    "Thousand Year Old Vampire.md"
   ]
 }
