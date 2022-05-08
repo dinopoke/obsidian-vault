@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spyfall.md",
+            "file": "Tabletop Role Playing Games.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#boardgametheory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spyfall.md",
+                "file": "Tabletop Role Playing Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,15 +117,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Tabletop Role Playing Games.md",
+    "Board Games.md",
+    "Untitled.md",
+    "The Angry GM.md",
+    "Hub/Game Writing.md",
+    "Descent Journeys in the Dark.md",
     "Spyfall.md",
     "Notes/DM Ideas.md",
     "Notes/Creative Spaces Notes.md",
-    "Notes/Doable Game Ideas.md",
-    "Board Games.md",
-    "Tabletop Role Playing Games.md",
-    "Web Comics.md",
-    "Ultimate Toolbox.md",
-    "Tragedy Looper.md",
-    "Thousand Year Old Vampire.md"
+    "Notes/Doable Game Ideas.md"
   ]
 }

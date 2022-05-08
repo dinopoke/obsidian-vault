@@ -1,7 +1,7 @@
 ---
 title: "The Angry GM"
 tags:
-- boardgametheory
+- ttrpgtheory
 - website
 ---
 
