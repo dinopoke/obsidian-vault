@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tabletop Role Playing Games.md",
+            "file": "Projects/Dungeon Breakers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tabletop Role Playing Games.md",
+                "file": "Projects/Dungeon Breakers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Tabletop Role Playing Games.md",
+    "Projects/Dungeon Breakers.md",
+    "Projects/Driftsurge.md",
+    "Projects/The Master Is Dead.md",
     "Board Games.md",
+    "Pandemic Legacy.md",
+    "One Night Werewolf.md",
+    "A Fake Artist Goes To New York.md",
+    "Tabletop Role Playing Games.md",
     "Untitled.md",
-    "The Angry GM.md",
-    "Hub/Game Writing.md",
-    "Descent Journeys in the Dark.md",
-    "Spyfall.md",
-    "Notes/DM Ideas.md",
-    "Notes/Creative Spaces Notes.md",
-    "Notes/Doable Game Ideas.md"
+    "The Angry GM.md"
   ]
 }
