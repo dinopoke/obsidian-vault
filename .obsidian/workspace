@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Dungeon Breakers.md",
+            "file": "Perilous Wilds.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -57,6 +57,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cc92bb397dc6cdd4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dungeon Breakers.md",
+                "file": "Perilous Wilds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +125,8 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Perilous Wilds.md",
+    "private/private-note.md",
     "Projects/Dungeon Breakers.md",
     "Projects/Driftsurge.md",
     "Projects/The Master Is Dead.md",
@@ -124,8 +134,6 @@
     "Pandemic Legacy.md",
     "One Night Werewolf.md",
     "A Fake Artist Goes To New York.md",
-    "Tabletop Role Playing Games.md",
-    "Untitled.md",
-    "The Angry GM.md"
+    "Tabletop Role Playing Games.md"
   ]
 }
