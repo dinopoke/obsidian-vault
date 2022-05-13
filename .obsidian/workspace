@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Perilous Wilds.md",
+            "file": "Call of Cthulhu.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#boardgametheory",
+                "query": "tag:#soloroleplaying",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perilous Wilds.md",
+                "file": "Call of Cthulhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Perilous Wilds.md",
-    "private/private-note.md",
-    "Projects/Dungeon Breakers.md",
-    "Projects/Driftsurge.md",
-    "Projects/The Master Is Dead.md",
-    "Board Games.md",
-    "Pandemic Legacy.md",
-    "One Night Werewolf.md",
-    "A Fake Artist Goes To New York.md",
-    "Tabletop Role Playing Games.md"
+    "Call of Cthulhu.md",
+    "Hub/Hub.md",
+    "The Solo Adventurers Toolbox.md",
+    "FlexTale.md",
+    "Untitled.md",
+    "FlexAI.md",
+    "Thinking Like a Solo GM.md",
+    "The Solo GM's Best Friend.md",
+    "templates/Note Template.md",
+    "Perilous Wilds.md"
   ]
 }

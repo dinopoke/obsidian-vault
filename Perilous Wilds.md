@@ -1,6 +1,7 @@
 ---
 title: "Perilous Wilds"
 tags:
+- dungeonworld
 - dmtables
 - soloroleplaying
 - ttrpg

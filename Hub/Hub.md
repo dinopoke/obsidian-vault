@@ -1,8 +1,6 @@
 ---
 title: "Hub"
 ---
-
-# Hub
 - [[Hub/Game Community]]  
 - [[Hub/Game Ideation]]  
 - [[Hub/Game Making]]  
