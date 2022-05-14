@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FlexTale.md",
+            "file": "Music.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#soloroleplaying",
+                "query": "music",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FlexTale.md",
+                "file": "Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Music.md",
     "FlexTale.md",
     "Game Design Concepts Course.md",
     "FlexAI.md",
@@ -133,7 +135,6 @@
     "The Solo Adventurers Toolbox.md",
     "Untitled.md",
     "Thinking Like a Solo GM.md",
-    "The Solo GM's Best Friend.md",
-    "templates/Note Template.md"
+    "The Solo GM's Best Friend.md"
   ]
 }

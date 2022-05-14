@@ -5,7 +5,7 @@ tags:
 ---
 # Music
 
-https://rateyourmusic.com/~dinopoke
+[My RYM profile](https://rateyourmusic.com/~dinopoke)
 
 ## TODO  
 
