@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Call of Cthulhu.md",
+            "file": "FlexTale.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Call of Cthulhu.md",
+                "file": "FlexTale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "FlexTale.md",
+    "Game Design Concepts Course.md",
+    "FlexAI.md",
     "Call of Cthulhu.md",
     "Hub/Hub.md",
     "The Solo Adventurers Toolbox.md",
-    "FlexTale.md",
     "Untitled.md",
-    "FlexAI.md",
     "Thinking Like a Solo GM.md",
     "The Solo GM's Best Friend.md",
-    "templates/Note Template.md",
-    "Perilous Wilds.md"
+    "templates/Note Template.md"
   ]
 }

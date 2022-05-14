@@ -1,7 +1,10 @@
 ---
 title: "FlexTale"
 tags:
-- example-tag
+- dmtables
+- solo_gm_emulator
+- soloroleplaying
+- ttrpg
 ---
 
 # FlexTale
