@@ -1,6 +1,15 @@
 # Toad Boss
 [[Projects/Dungeon Breakers]]
 
+Spawn stuff on the field?
+
+Local earthquake - player is flung back and stunned
+
+tongue to pull in
+
+hit and change targets
+
+weapon break to knock off the rider - blue's idea
 
 
 jump on players head
