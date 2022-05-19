@@ -9,7 +9,7 @@ tongue to pull in
 
 hit and change targets
 
-weapon break to knock off the rider - blue's idea
+Weapon Break to knock off the rider - blue's idea
 
 
 jump on players head
