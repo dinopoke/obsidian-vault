@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music.md",
+            "file": "Toad Boss.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "music",
+                "query": "boss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Toad Boss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +126,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Toad Boss.md",
+    "Projects/Dungeon Breakers.md",
+    "Projects/Driftsurge.md",
     "Music.md",
     "FlexTale.md",
     "Game Design Concepts Course.md",
     "FlexAI.md",
     "Call of Cthulhu.md",
     "Hub/Hub.md",
-    "The Solo Adventurers Toolbox.md",
-    "Untitled.md",
-    "Thinking Like a Solo GM.md",
-    "The Solo GM's Best Friend.md"
+    "The Solo Adventurers Toolbox.md"
   ]
 }
