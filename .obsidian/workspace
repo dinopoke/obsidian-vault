@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "music",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -121,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
     "Toad Boss.md",
     "Projects/Dungeon Breakers.md",
+    "Untitled 1.md",
     "Projects/Driftsurge.md",
     "Music.md",
     "FlexTale.md",
     "Game Design Concepts Course.md",
     "FlexAI.md",
     "Call of Cthulhu.md",
-    "Hub/Hub.md",
-    "The Solo Adventurers Toolbox.md"
+    "Hub/Hub.md"
   ]
 }
