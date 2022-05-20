@@ -1,6 +1,27 @@
 # Toad Boss
 [[Projects/Dungeon Breakers]]
 
+## Toad + Rat
+The toad hops around. It hops onto a hero and then hops to another tile away. If another hero is within range, it chains and hops onto that hero instead. When it lands, the rat does a ranged attack which can be avoided by a QTE.
+
+The toad cannot hop onto adjacent tiles. Instead, the toad can slurp to reduce the player's attack.
+
+## Toad
+The toad hops around with a shorter range. It will try to tongue one of the heroes. When a hero is tongued, it is dragged straight to the toad. On the next attack. the toad will jump and damage heroes adjacent, knock them back and stun them. The rat can be tongued to get back onto the toad. If the toad tongues a pillar, it is flung towards that pillar instead and stunned.
+
+## Rat
+<u>The rat runs around. </u>
+
+- Stunned
+- Armorbreak = takes additional damage
+- Knockback
+- Unbalanced = reduces  movement
+- ??? - reduces attack
+- ??? - reduce defence
+- ??? - 
+
+
+
 Spawn stuff on the field?
 
 Local earthquake - player is flung back and stunned
