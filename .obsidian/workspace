@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Dungeon Breakers.md",
+            "file": "Toad Boss.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dungeon Breakers.md",
+                "file": "Toad Boss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,12 +121,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Projects/Dungeon Breakers.md",
     "Toad Boss.md",
+    "Projects/Dungeon Breakers.md",
     "Projects/Driftsurge.md",
     "Music.md",
     "FlexTale.md",

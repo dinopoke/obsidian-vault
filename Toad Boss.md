@@ -16,6 +16,13 @@ jump on players head
 tongue pull forward
 poison?
 
+need to find a way to telegraph attacks?
+defence not implemented
+
+the frog can suck up the rat
+
+if the frog uses its tongue on a blocked tile, the frog is flung towards the barrier
+
 ## Toad
 
 ## Rat
