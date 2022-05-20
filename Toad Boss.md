@@ -12,6 +12,7 @@ The toad hops around with a shorter range. It will try to tongue one of the hero
 ## Rat
 <u>The rat runs around. </u>
 
+Debuffs
 - Stunned
 - Armorbreak = takes additional damage
 - Knockback
@@ -20,6 +21,7 @@ The toad hops around with a shorter range. It will try to tongue one of the hero
 - ??? - reduce defence
 - ??? - 
 
+Buffs
 
 
 Spawn stuff on the field?
