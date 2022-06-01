@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "25e4083532389030",
+        "id": "6b2e9382fcad2397",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "25e4083532389030",
+  "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
+    "Interviews.md",
+    "Hub/Self.md",
+    "Is Killing an Inhibitor Worth It.md",
+    "The Solo GM's Best Friend.md",
+    "Thinking Like a Solo GM.md",
     "The Burning Wheel.md",
     "Genesis Rising.md",
     "Genesis Rising.md",
-    "FlexTale.md",
-    "_index.md",
-    "Toad Boss.md",
-    "Projects/Dungeon Breakers.md",
-    "Untitled 1.md",
-    "Projects/Driftsurge.md"
+    "FlexTale.md"
   ]
 }
