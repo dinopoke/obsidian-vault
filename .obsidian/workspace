@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "My first job interview in 2.5 years.. Here's some tips that helped me.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My first job interview in 2.5 years.. Here's some tips that helped me.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,8 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Genesis Rising.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Interviews.md",
     "Hub/Self.md",
@@ -132,8 +134,6 @@
     "The Solo GM's Best Friend.md",
     "Thinking Like a Solo GM.md",
     "The Burning Wheel.md",
-    "Genesis Rising.md",
-    "Genesis Rising.md",
     "FlexTale.md"
   ]
 }
