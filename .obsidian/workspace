@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "Interview Tips.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Interview Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "Interview Tips.md",
+    "FlexTale.md",
     "_index.md",
     "Toad Boss.md",
     "Projects/Dungeon Breakers.md",
     "Untitled 1.md",
     "Projects/Driftsurge.md",
     "Music.md",
-    "FlexTale.md",
     "Game Design Concepts Course.md",
-    "FlexAI.md",
-    "Call of Cthulhu.md"
+    "FlexAI.md"
   ]
 }
