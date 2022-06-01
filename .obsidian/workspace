@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Toad Boss.md",
+            "file": "_index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toad Boss.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
+    "_index.md",
     "Toad Boss.md",
     "Projects/Dungeon Breakers.md",
     "Untitled 1.md",
@@ -133,7 +133,6 @@
     "FlexTale.md",
     "Game Design Concepts Course.md",
     "FlexAI.md",
-    "Call of Cthulhu.md",
-    "Hub/Hub.md"
+    "Call of Cthulhu.md"
   ]
 }
