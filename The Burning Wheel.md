@@ -1,7 +1,9 @@
 ---
 title: "The Burning Wheel"
 tags:
-- example-tag
+- game
+- theburningwheel
+- ttrpg
 ---
 
 # The Burning Wheel

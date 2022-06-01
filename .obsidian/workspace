@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview Tips.md",
+            "file": "My first job interview in 2.5 years.. Here's some tips that helped me.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Tips.md",
+                "file": "My first job interview in 2.5 years.. Here's some tips that helped me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,15 +126,15 @@
   },
   "active": "25e4083532389030",
   "lastOpenFiles": [
-    "Interview Tips.md",
+    "My first job interview in 2.5 years.. Here's some tips that helped me.md",
+    "The Burning Wheel.md",
+    "Genesis Rising.md",
+    "Genesis Rising.md",
     "FlexTale.md",
     "_index.md",
     "Toad Boss.md",
     "Projects/Dungeon Breakers.md",
     "Untitled 1.md",
-    "Projects/Driftsurge.md",
-    "Music.md",
-    "Game Design Concepts Course.md",
-    "FlexAI.md"
+    "Projects/Driftsurge.md"
   ]
 }
