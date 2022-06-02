@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Things under $100 that Changed My Life.md",
+            "file": "Video Game Cartography.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Things under $100 that Changed My Life.md",
+                "file": "Video Game Cartography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +125,7 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Video Game Cartography.md",
     "10 Things under $100 that Changed My Life.md",
     "Genesis Rising.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
@@ -134,7 +134,6 @@
     "Is Killing an Inhibitor Worth It.md",
     "The Solo GM's Best Friend.md",
     "Thinking Like a Solo GM.md",
-    "The Burning Wheel.md",
-    "FlexTale.md"
+    "The Burning Wheel.md"
   ]
 }
