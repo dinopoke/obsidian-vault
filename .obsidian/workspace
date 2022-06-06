@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "tag:#website",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,6 +127,7 @@
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
     "Video Game Cartography.md",
+    "The Angry GM.md",
     "10 Things under $100 that Changed My Life.md",
     "Genesis Rising.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
@@ -133,7 +135,6 @@
     "Hub/Self.md",
     "Is Killing an Inhibitor Worth It.md",
     "The Solo GM's Best Friend.md",
-    "Thinking Like a Solo GM.md",
-    "The Burning Wheel.md"
+    "Thinking Like a Solo GM.md"
   ]
 }
