@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Video Game Cartography.md",
+            "file": "Notes/Vivid Encounters Notes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Game Cartography.md",
+                "file": "Notes/Vivid Encounters Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +125,15 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
-    "Video Game Cartography.md",
-    "Vivid Encounters.md",
+    "Notes/Vivid Encounters Notes.md",
+    "Notes/Toad Boss Notes.md",
+    "My first job interview in 2.5 years.. Here's some tips that helped me.md",
+    "Notes/DM Ideas.md",
+    "Notes/Creative Spaces Notes.md",
+    "Perilous Wilds.md",
     "Notes/2022-06-06.md",
+    "Video Game Cartography.md",
     "Projects/Dungeon Breakers.md",
-    "Hub/Game Playing.md",
-    "Hub/Game Making.md",
-    "Hub/Game Ideation.md",
-    "Hub/Game Community.md",
-    "Virtual Beer and Pixels.md",
-    "Virtual Beer and Pixels 17-06-22.md"
+    "Hub/Game Playing.md"
   ]
 }
