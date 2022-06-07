@@ -15,3 +15,8 @@ Bugs/Unimplemented
 - rat jockey doesn't drop a weapon at the moment
 - picking up the same weapon type doesn't refresh breaking blow
 - no way to leave weapon unpicked
+
+
+turn and tweak where 
+write copy for end game
+make a hard encounter
