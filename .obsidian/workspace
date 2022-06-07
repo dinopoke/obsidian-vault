@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vivid Encounters.md",
+            "file": "Video Game Cartography.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vivid Encounters.md",
+                "file": "Video Game Cartography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Video Game Cartography.md",
     "Vivid Encounters.md",
     "Notes/2022-06-06.md",
     "Projects/Dungeon Breakers.md",
@@ -134,7 +135,6 @@
     "Hub/Game Ideation.md",
     "Hub/Game Community.md",
     "Virtual Beer and Pixels.md",
-    "Virtual Beer and Pixels 17-06-22.md",
-    "Jira Notes.md"
+    "Virtual Beer and Pixels 17-06-22.md"
   ]
 }
