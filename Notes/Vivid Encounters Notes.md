@@ -2,6 +2,8 @@
 Change clearance swing to 2?
 punch 2 dmg
 
+Skill Effect Icon larger
+
 Turn 1
 - slash
 - rend
