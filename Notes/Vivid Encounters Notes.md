@@ -9,12 +9,6 @@ Skill Effect Icon larger
 
 breaking blow no AP needed
 
+reduce mage to 15
 
-
-Turn 1
-- slash
-- rend
-
-Turn 2
-- slash
-- should the first rat drop a weapon?
+rat jockey doesn't drop a weapon
