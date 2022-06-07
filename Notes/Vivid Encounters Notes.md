@@ -9,6 +9,9 @@ Skill Effect Icon larger
 
 breaking blow no AP needed
 
-reduce mage to 15
+reduce mage to 20
 
-rat jockey doesn't drop a weapon
+Bugs/Unimplemented
+- rat jockey doesn't drop a weapon at the moment
+- picking up the same weapon type doesn't refresh breaking blow
+- no way to leave weapon unpicked
