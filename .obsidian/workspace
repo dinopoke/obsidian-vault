@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Vivid Encounters Notes.md",
+            "file": "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example-tag",
+                "query": "tag:#video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 298.00281524658203
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Vivid Encounters Notes.md",
+                "file": "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,20 +122,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
+    "Richard Lemarchand's Recommended Reading List for Game Designers.md",
+    "Hub/Game Making.md",
+    "Notes/Game Production Notes.md",
     "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Notes/DM Ideas.md",
     "Notes/Creative Spaces Notes.md",
-    "Perilous Wilds.md",
-    "Notes/2022-06-06.md",
-    "Video Game Cartography.md",
-    "Projects/Dungeon Breakers.md",
-    "Hub/Game Playing.md"
+    "Perilous Wilds.md"
   ]
 }
