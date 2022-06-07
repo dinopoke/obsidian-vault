@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
+            "file": "Notes/Vivid Encounters Notes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
+                "file": "Notes/Vivid Encounters Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +126,11 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Notes/Vivid Encounters Notes.md",
     "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
     "Richard Lemarchand's Recommended Reading List for Game Designers.md",
     "Hub/Game Making.md",
     "Notes/Game Production Notes.md",
-    "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Notes/DM Ideas.md",
