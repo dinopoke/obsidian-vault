@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#video",
+                "query": "tag:#example-tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +67,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 298.00281524658203
+    "width": 300
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -127,14 +127,14 @@
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
     "Notes/Vivid Encounters Notes.md",
-    "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
-    "Richard Lemarchand's Recommended Reading List for Game Designers.md",
-    "Hub/Game Making.md",
-    "Notes/Game Production Notes.md",
     "Notes/Toad Boss Notes.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Notes/DM Ideas.md",
     "Notes/Creative Spaces Notes.md",
-    "Perilous Wilds.md"
+    "Perilous Wilds.md",
+    "Notes/2022-06-06.md",
+    "Video Game Cartography.md",
+    "Projects/Dungeon Breakers.md",
+    "Hub/Game Playing.md"
   ]
 }
