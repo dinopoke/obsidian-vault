@@ -14,6 +14,10 @@ Created: 2022-06-06 18:46
 ⦁	In Jira Software you can type `ga` from any screen to go the agile board
 ⦁	Type `/` to start searching
 
+- Workflows
+- Statuses and transistions
+- 
+
 
 ## References
 1. 

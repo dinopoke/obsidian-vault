@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Jira Notes",
+      "path": "Jira Notes.md"
+    },
+    {
+      "basename": "Game Production Notes",
+      "path": "Notes/Game Production Notes.md"
+    },
+    {
       "basename": "HarmoKnight GDD",
       "path": "HarmoKnight GDD.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Game Making",
       "path": "Hub/Game Making.md"
-    },
-    {
-      "basename": "Game Production Notes",
-      "path": "Notes/Game Production Notes.md"
     },
     {
       "basename": "Toad Boss Notes",
@@ -71,10 +75,6 @@
     {
       "basename": "Virtual Beer and Pixels 17-06-22",
       "path": "Virtual Beer and Pixels 17-06-22.md"
-    },
-    {
-      "basename": "Jira Notes",
-      "path": "Jira Notes.md"
     },
     {
       "basename": "The Angry GM",

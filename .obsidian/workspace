@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HarmoKnight GDD.md",
+            "file": "Jira Notes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6111b017a0eacac1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Game Production Notes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example-tag",
+                "query": "production",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HarmoKnight GDD.md",
+                "file": "Jira Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HarmoKnight GDD.md",
+                "file": "Jira Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +150,8 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Jira Notes.md",
+    "Notes/Game Production Notes.md",
     "HarmoKnight GDD.md",
     "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
@@ -143,8 +159,6 @@
     "Notes/DM Ideas.md",
     "Notes/Creative Spaces Notes.md",
     "Perilous Wilds.md",
-    "Notes/2022-06-06.md",
-    "Video Game Cartography.md",
-    "Projects/Dungeon Breakers.md"
+    "Notes/2022-06-06.md"
   ]
 }
