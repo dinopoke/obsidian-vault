@@ -16,7 +16,8 @@ Created: 2022-06-06 18:46
 
 - Workflows
 - Statuses and transistions
-- 
+- Links to Kanban board
+- When moved to a status with a screen, the screen pops up
 
 
 ## References
