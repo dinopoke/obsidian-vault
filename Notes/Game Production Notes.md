@@ -64,3 +64,5 @@ stand up 15 mins - how are we reaching our goal - Stefano
 
 new patch for live service games work like a mini production schedule
 
+
+conflict resolution - ask both sides

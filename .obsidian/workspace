@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "Notes/Game Production Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "Notes/Game Production Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b2e9382fcad2397",
+  "active": "6111b017a0eacac1",
   "lastOpenFiles": [
-    "Jira Notes.md",
     "Notes/Game Production Notes.md",
+    "Jira Notes.md",
     "HarmoKnight GDD.md",
     "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
