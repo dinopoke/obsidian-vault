@@ -19,6 +19,11 @@ Created: 2022-06-06 18:46
 - Links to Kanban board
 - When moved to a status with a screen, the screen pops up
 
+- Sprints
+- Filters
+- Dashboards
+- Workflows
+
 
 ## References
 1. 
