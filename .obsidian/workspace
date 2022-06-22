@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jira Notes.md",
+            "file": "A Game Design Approach to Stakeholder Management.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,13 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "A Game Design Approach to Stakeholder Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "A Game Design Approach to Stakeholder Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +150,8 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "A Game Design Approach to Stakeholder Management.md",
+    "How to be a Producer the Hard Way.md",
     "Jira Notes.md",
     "Notes/Game Production Notes.md",
     "HarmoKnight GDD.md",
@@ -159,8 +159,6 @@
     "Notes/Toad Boss Notes.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Notes/DM Ideas.md",
-    "Notes/Creative Spaces Notes.md",
-    "Perilous Wilds.md",
-    "Notes/2022-06-06.md"
+    "Notes/Creative Spaces Notes.md"
   ]
 }
