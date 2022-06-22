@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Game Design Approach to Stakeholder Management.md",
+            "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Game Design Approach to Stakeholder Management.md",
+                "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Game Design Approach to Stakeholder Management.md",
+                "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +150,15 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
     "A Game Design Approach to Stakeholder Management.md",
     "How to be a Producer the Hard Way.md",
-    "Jira Notes.md",
+    "Production 101.md",
     "Notes/Game Production Notes.md",
+    "Jira Notes.md",
     "HarmoKnight GDD.md",
     "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
-    "My first job interview in 2.5 years.. Here's some tips that helped me.md",
-    "Notes/DM Ideas.md",
-    "Notes/Creative Spaces Notes.md"
+    "My first job interview in 2.5 years.. Here's some tips that helped me.md"
   ]
 }
