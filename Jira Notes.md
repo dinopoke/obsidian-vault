@@ -29,6 +29,8 @@ Created: 2022-06-06 18:46
 - control chart
 - jira has it's own Kanban backlog - a screen to move
 
+- cumulative flow diagram - if bands are parallel, stable work, band narrow needs more work, band wide, 
+
 
 ## References
 1. 
