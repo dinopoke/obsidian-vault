@@ -66,3 +66,6 @@ new patch for live service games work like a mini production schedule
 
 
 conflict resolution - ask both sides
+
+what is your super power
+dream job

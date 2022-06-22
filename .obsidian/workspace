@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2e9382fcad2397",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Jira Notes.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e43cf645c3eb40c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jira Notes.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -105,13 +92,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2079f9ff4213efb0",
@@ -127,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "Notes/Game Production Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jira Notes.md",
+                "file": "Notes/Game Production Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b2e9382fcad2397",
+  "active": "eafbbd7ba5eb9e39",
   "lastOpenFiles": [
+    "Notes/Game Production Notes.md",
+    "Untitled.md",
     "Jira Notes.md",
     "How to be a Producer the Hard Way.md",
     "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
     "Producer Bootcamp - Production 101.md",
     "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
-    "Notes/Game Production Notes.md",
     "Building Our Resource Management Map.md",
     "A Game Design Approach to Stakeholder Management.md",
-    "HarmoKnight GDD.md",
-    "Notes/Vivid Encounters Notes.md"
+    "HarmoKnight GDD.md"
   ]
 }
