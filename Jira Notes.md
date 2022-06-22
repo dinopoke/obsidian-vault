@@ -31,6 +31,8 @@ Created: 2022-06-06 18:46
 
 - cumulative flow diagram - if bands are parallel, stable work, band narrow needs more work, band wide, 
 
+- control chart - provide external stakeholders
+
 
 ## References
 1. 
