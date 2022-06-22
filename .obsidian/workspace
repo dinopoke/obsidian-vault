@@ -9,6 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "347ede09072ef958",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Producer Bootcamp - Production 101.md",
             "mode": "source",
             "backlinks": false,
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Producer Bootcamp - Production 101.md",
+                "file": "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Producer Bootcamp - Production 101.md",
+                "file": "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +164,7 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
     "Producer Bootcamp - Production 101.md",
     "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
     "How to be a Producer the Hard Way.md",
@@ -159,7 +173,6 @@
     "A Game Design Approach to Stakeholder Management.md",
     "Jira Notes.md",
     "HarmoKnight GDD.md",
-    "Notes/Vivid Encounters Notes.md",
-    "Notes/Toad Boss Notes.md"
+    "Notes/Vivid Encounters Notes.md"
   ]
 }

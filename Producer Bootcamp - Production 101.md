@@ -24,7 +24,7 @@ What production is:
 - production isn't working on the game, deciding what the game, art direction or direction of any kind
 
 assets as a producer
-- crediblity
+- credibility
 	- understand your team
 	- share information with your team 
 	- be realistic with expections
@@ -33,7 +33,8 @@ assets as a producer
 	- use your previous experience
 - people knowing that you'll make their lives easier
 	- respect the team's time
-	- 
+
+Play to your strengths
 
 ## References
 1. https://www.gdcvault.com/play/1017680/Producer-Bootcamp-Production
