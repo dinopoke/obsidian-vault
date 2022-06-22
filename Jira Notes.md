@@ -25,7 +25,9 @@ Created: 2022-06-06 18:46
 - Workflows
 
 
-- velocity chart - 
+- velocity chart - bar graph for story points completed, assigned 
+- control chart
+- jira has it's own Kanban backlog - a screen to move
 
 
 ## References
