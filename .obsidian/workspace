@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
+            "file": "Producer Bootcamp - Production 101.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -17,7 +17,7 @@
         }
       },
       {
-        "id": "6111b017a0eacac1",
+        "id": "eafbbd7ba5eb9e39",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
+                "file": "Producer Bootcamp - Production 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
+                "file": "Producer Bootcamp - Production 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +151,15 @@
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
+    "Producer Bootcamp - Production 101.md",
     "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md",
-    "A Game Design Approach to Stakeholder Management.md",
     "How to be a Producer the Hard Way.md",
-    "Production 101.md",
     "Notes/Game Production Notes.md",
+    "Building Our Resource Management Map.md",
+    "A Game Design Approach to Stakeholder Management.md",
     "Jira Notes.md",
     "HarmoKnight GDD.md",
     "Notes/Vivid Encounters Notes.md",
-    "Notes/Toad Boss Notes.md",
-    "My first job interview in 2.5 years.. Here's some tips that helped me.md"
+    "Notes/Toad Boss Notes.md"
   ]
 }
