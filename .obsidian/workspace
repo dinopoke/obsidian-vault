@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HarmoKnight GDD.md",
+            "file": "Projects/Dungeon Breakers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,131 +20,109 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08f04a2b291d2608",
-    "type": "split",
+    "id": "c55c1c6d22ea493a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "62555d23b7af65db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d018f4ef139f61a5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "041b4f68d32a0612",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#example-tag",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "37491bae810262e1",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc92bb397dc6cdd4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "e078dcc5432da944",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "2ec865c07a3d9fd3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "caba07b8fd7d9d1a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "dog",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "af046172d4d7032a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dae2f68bbc4c16c2",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 2
   },
   "right": {
-    "id": "2079f9ff4213efb0",
-    "type": "split",
+    "id": "a86c6d177d000c9f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0bec91418ae64698",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b3675812a7ad277",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "HarmoKnight GDD.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "8a7483768994e526",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "17058c73f505be45",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "902ab4e91ede29e7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "HarmoKnight GDD.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "c681e848bc365bf3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Projects/Dungeon Breakers.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "5ee0025193ccc23a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Projects/Dungeon Breakers.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "6b2e9382fcad2397",
   "lastOpenFiles": [
-    "HarmoKnight GDD.md",
+    "Projects/Dungeon Breakers.md",
+    "Dog.md",
+    "GRUNND.md",
     "Notes/Vivid Encounters Notes.md",
     "Notes/Toad Boss Notes.md",
+    "Projects/Driftsurge.md",
+    "Unreal Sydney.md",
+    "HarmoKnight GDD.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
-    "Notes/DM Ideas.md",
-    "Notes/Creative Spaces Notes.md",
-    "Perilous Wilds.md",
-    "Notes/2022-06-06.md",
-    "Video Game Cartography.md",
-    "Projects/Dungeon Breakers.md"
+    "Notes/DM Ideas.md"
   ]
 }
