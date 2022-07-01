@@ -50,7 +50,7 @@ make sure your meetings have goals
 make things easy for people
 producer synthesize and communicate the vision
 roadmaps are made up and depend on the people - take them on a journey
-diffucult to find zero dependancies
+difficult to find zero dependencies
 sprint review videos and documentation
 trust equation
 don't the trust bottleneck
@@ -62,3 +62,10 @@ most important and refined at the top of backlog
 pbi - product backlog items
 stand up 15 mins - how are we reaching our goal - Stefano
 
+new patch for live service games work like a mini production schedule
+
+
+conflict resolution - ask both sides
+
+what is your super power
+dream job

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2e9382fcad2397",
+        "id": "e43cf645c3eb40c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -62,6 +62,47 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
+        "id": "62555d23b7af65db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d018f4ef139f61a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "041b4f68d32a0612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "production",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37491bae810262e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc92bb397dc6cdd4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         }
       },
@@ -106,13 +147,66 @@
             "file": "Projects/Dungeon Breakers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
+        "id": "0bec91418ae64698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3675812a7ad277",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Dungeon Breakers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8a7483768994e526",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17058c73f505be45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "902ab4e91ede29e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Dungeon Breakers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         }
       }
     ],
     "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6b2e9382fcad2397",
+  "active": "e43cf645c3eb40c3",
   "lastOpenFiles": [
     "Projects/Dungeon Breakers.md",
     "Dog.md",
@@ -124,5 +218,14 @@
     "HarmoKnight GDD.md",
     "My first job interview in 2.5 years.. Here's some tips that helped me.md",
     "Notes/DM Ideas.md"
+    "Notes/Vivid Encounters Notes.md",
+    "Notes/Toad Boss Notes.md",
+    "Notes/Note Making.md",
+    "Untitled.md",
+    "Notes/Game Production Notes.md",
+    "Producer Bootcamp - Production 101.md",
+    "Jira Notes.md",
+    "How to be a Producer the Hard Way.md",
+    "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md"
   ]
 }
