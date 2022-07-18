@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "2e376b7b13da147a",
+    "id": "4f18a0487a18acfd",
     "type": "split",
     "children": [
       {
-        "id": "e43cf645c3eb40c3",
+        "id": "e5003052c9e06b9b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Dungeon Breakers.md",
+            "file": "Production in AAA.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,53 +20,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c55c1c6d22ea493a",
-    "type": "mobile-drawer",
+    "id": "24af90fabdeef335",
+    "type": "split",
     "children": [
       {
-        "id": "e078dcc5432da944",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "2ec865c07a3d9fd3",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "caba07b8fd7d9d1a",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "dog",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
-        "id": "af046172d4d7032a",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-        "id": "62555d23b7af65db",
+        "id": "422cf433806313c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d018f4ef139f61a5",
+            "id": "eed03b0bd33e0753",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "81687d664d39aab5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,12 +44,12 @@
             }
           },
           {
-            "id": "041b4f68d32a0612",
+            "id": "56ea244a09f666bc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "production",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,86 +59,58 @@
             }
           },
           {
-            "id": "37491bae810262e1",
+            "id": "d59e0b5a12e523f1",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "cc92bb397dc6cdd4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        }
-      },
-      {
-        "id": "dae2f68bbc4c16c2",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 2
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "a86c6d177d000c9f",
-    "type": "mobile-drawer",
+    "id": "b32acb0683b1e0b1",
+    "type": "split",
     "children": [
       {
-        "id": "c681e848bc365bf3",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Projects/Dungeon Breakers.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "5ee0025193ccc23a",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Projects/Dungeon Breakers.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-        "id": "0bec91418ae64698",
+        "id": "becf3f50cac2fa02",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3675812a7ad277",
+            "id": "99ba524f799b4ed6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dungeon Breakers.md",
+                "file": "Production in AAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8a7483768994e526",
+            "id": "0a62e5ba12e0ef12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Production in AAA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8531ca2aa4c70068",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,55 +119,18 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "17058c73f505be45",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "902ab4e91ede29e7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Projects/Dungeon Breakers.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e43cf645c3eb40c3",
+  "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "Projects/Dungeon Breakers.md",
-    "Dog.md",
-    "GRUNND.md",
-    "Notes/Vivid Encounters Notes.md",
-    "Notes/Toad Boss Notes.md",
-    "Projects/Driftsurge.md",
-    "Unreal Sydney.md",
-    "HarmoKnight GDD.md",
-    "My first job interview in 2.5 years.. Here's some tips that helped me.md",
-    "Notes/DM Ideas.md"
-    "Notes/Vivid Encounters Notes.md",
-    "Notes/Toad Boss Notes.md",
-    "Notes/Note Making.md",
-    "Untitled.md",
+    "Production in AAA.md",
     "Notes/Game Production Notes.md",
-    "Producer Bootcamp - Production 101.md",
-    "Jira Notes.md",
-    "How to be a Producer the Hard Way.md",
-    "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md"
+    "Notes/2022-07-18.md"
   ]
 }
