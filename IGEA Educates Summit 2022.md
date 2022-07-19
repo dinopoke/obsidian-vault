@@ -10,7 +10,7 @@ Created: 2022-07-18 14:40
 Look for a learn and share mindset
 Looking for people who pass on their experience and expertise.
 
-Take improve classes
+Take improv classes
 
 Keep making games
 Your biggest critic would be the most you learn from
@@ -21,7 +21,10 @@ Use the same skill in your career
 Comes down to luck
 When you come into the industry - be kind
 
+## Networking
 
+Avoid going to events in large groups
+If you do know them acknowledge their work but don't geek out
 
 ## References
 1. 
