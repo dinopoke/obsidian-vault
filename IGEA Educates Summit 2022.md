@@ -39,6 +39,10 @@ send feedback email at the appropriate time
 
 Art - don't show everything you make
 Hana Jones
+Keep it simple - 4-5 pieces
+
+Design - show that how you are learning. Polish and perfection doesn't matter that much.
+
 
 ## References
 1. 
