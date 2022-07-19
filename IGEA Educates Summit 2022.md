@@ -31,6 +31,8 @@ If you do know them acknowledge their work but don't geek out
 STAR Situation Timeline Action Result
 Back up what you say with examples
 
+salary package pr bas
+
 
 ## References
 1. 
