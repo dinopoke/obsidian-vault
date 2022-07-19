@@ -28,6 +28,8 @@ If you do know them acknowledge their work but don't geek out
 
 ## Interview
 
+STAR Situation Timeline Action Result
+Back up what you say with examples
 
 
 ## References
