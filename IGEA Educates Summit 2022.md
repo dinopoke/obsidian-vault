@@ -35,6 +35,10 @@ salary package pr bas
 
 send feedback email at the appropriate time
 
+## Porfolio
+
+Art - don't show everything you make
+Hana Jones
 
 ## References
 1. 
