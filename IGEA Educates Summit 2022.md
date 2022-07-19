@@ -26,5 +26,9 @@ When you come into the industry - be kind
 Avoid going to events in large groups
 If you do know them acknowledge their work but don't geek out
 
+## Interview
+
+
+
 ## References
 1. 
