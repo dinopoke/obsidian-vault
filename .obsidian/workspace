@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,6 +129,7 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "Hub/Game Making.md",
     "Porfolio Review.md",
     "IGEA Educates Summit 2022.md",
     "Production in AAA.md",
