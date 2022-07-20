@@ -95,6 +95,8 @@ failed projects - doesn't have enough buy in
 
 looking for other PM tools monday.com , favero
 
+samuel.mc@playsidestudios.com
+
 
 
 ## References
