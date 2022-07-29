@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Porfolio Review.md",
+            "file": "Slotmania.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porfolio Review.md",
+                "file": "Slotmania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porfolio Review.md",
+                "file": "Slotmania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +127,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5003052c9e06b9b",
+  "active": "eed03b0bd33e0753",
   "lastOpenFiles": [
+    "Portfolio Review.md",
     "Hub/Game Making.md",
-    "Porfolio Review.md",
     "IGEA Educates Summit 2022.md",
     "Production in AAA.md",
     "Notes/Game Production Notes.md",
