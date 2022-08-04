@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slotmania.md",
+            "file": "When Cards Go Bad.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slotmania.md",
+                "file": "When Cards Go Bad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slotmania.md",
+                "file": "When Cards Go Bad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eed03b0bd33e0753",
+  "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "Slotmania.md",
     "Portfolio Review.md",
     "Hub/Game Making.md",
     "IGEA Educates Summit 2022.md",
