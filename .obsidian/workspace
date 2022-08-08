@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "When Cards Go Bad.md",
+            "file": "Portfolio Review.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When Cards Go Bad.md",
+                "file": "Portfolio Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "When Cards Go Bad.md",
+                "file": "Portfolio Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +129,8 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "When Cards Go Bad.md",
     "Slotmania.md",
     "Portfolio Review.md",
     "Hub/Game Making.md",
