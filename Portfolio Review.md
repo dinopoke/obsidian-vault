@@ -100,6 +100,7 @@ samuel.mc@playsidestudios.com
 
 can you work solo
 economy systems
+web3 chnge how to make games
 
 ## References
 1. 
