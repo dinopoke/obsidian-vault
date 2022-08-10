@@ -98,6 +98,8 @@ looking for other PM tools monday.com , favero
 samuel.mc@playsidestudios.com
 
 
+solo work
+
 
 ## References
 1. 
