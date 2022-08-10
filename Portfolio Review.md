@@ -98,8 +98,8 @@ looking for other PM tools monday.com , favero
 samuel.mc@playsidestudios.com
 
 
-solo work
-
+can you work solo
+economy systems
 
 ## References
 1. 
