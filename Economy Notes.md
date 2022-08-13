@@ -49,4 +49,27 @@ designer effect the market and trading price by
 - controlling placement of stores
 - controlling the property of the items
 
+targeting the market
+getting as many players into the **funnel**
+players are ramped out by increasing game difficulty
+
+old adage - you can always lower prices but not raise them
+
+inflation
+
+supply-side inflation
+gold farmers make an dramatic oversupply of gold
+needed to raise prices or create money sinks
+
+demand-side inflation
+demand changes can change when there is
+- a game balance change
+- new content introduced
+- a new strategy or exploit discovered
+
+positive sum economy creates inflation
+
+negative sum element
+
+measure the average gold per player and see if it is growing or shrinking over time
 
