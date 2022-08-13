@@ -73,3 +73,10 @@ negative sum element
 
 measure the average gold per player and see if it is growing or shrinking over time
 
+open and closed economies
+
+balancing open economies 
+- limiting spending
+- limiting power
+- proving competitive gates (ELO)
+- survival of the richest - pay to win, pay to rush
