@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economy Notes.md",
+            "file": "Guild of Guardians.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy Notes.md",
+                "file": "Guild of Guardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy Notes.md",
+                "file": "Guild of Guardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +129,8 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "Economy Notes.md",
+    "Guild of Guardians.md",
     "Portfolio Review.md",
     "Untitled 1.md",
     "When Cards Go Bad.md",
@@ -137,7 +138,6 @@
     "Hub/Game Making.md",
     "IGEA Educates Summit 2022.md",
     "Production in AAA.md",
-    "Notes/Game Production Notes.md",
-    "Notes/2022-07-18.md"
+    "Notes/Game Production Notes.md"
   ]
 }

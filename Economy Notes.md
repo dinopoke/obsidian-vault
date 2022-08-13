@@ -80,3 +80,6 @@ balancing open economies
 - limiting power
 - proving competitive gates (ELO)
 - survival of the richest - pay to win, pay to rush
+
+power creep
+new mechanics to bypass the creep - genshin shields bleed
