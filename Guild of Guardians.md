@@ -15,6 +15,7 @@ vote on important game decisions
 
 rewards pool - what does it mean?
 
+buy heroes instead of gacha
 
 
 ## References
