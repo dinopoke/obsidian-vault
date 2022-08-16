@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guild of Guardians.md",
+            "file": "How Web3 Games Work (and Sadly Don't).md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "How Web3 Games Work (and Sadly Don't).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "How Web3 Games Work (and Sadly Don't).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +130,8 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "Economy Notes.md",
     "Guild of Guardians.md",
+    "Economy Notes.md",
     "Portfolio Review.md",
     "Untitled 1.md",
     "When Cards Go Bad.md",
