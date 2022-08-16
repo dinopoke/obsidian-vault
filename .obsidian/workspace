@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guild of Guardians.md",
+            "file": "Economy Notes.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "Economy Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "Economy Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +129,10 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "How Web3 Games Work (and Sadly Don't).md",
-    "Guild of Guardians.md",
-    "Economy Notes.md",
     "Portfolio Review.md",
+    "Guild of Guardians.md",
+    "How Web3 Games Work (and Sadly Don't).md",
+    "Economy Notes.md",
     "Untitled 1.md",
     "When Cards Go Bad.md",
     "Slotmania.md",

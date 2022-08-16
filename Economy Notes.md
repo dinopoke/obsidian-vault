@@ -1,3 +1,12 @@
+---
+title: "Economy Notes"
+tags:
+- example-tag
+---
+
+# Economy Notes
+Created: 2022-08-16 16:41  
+
 gameplay 
 
 game design - game economy
@@ -83,3 +92,6 @@ balancing open economies
 
 power creep
 new mechanics to bypass the creep - genshin shields bleed
+
+## References
+1. 
