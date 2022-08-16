@@ -11,6 +11,7 @@ byzantine fault tolerance
 give the players back control of the game
 proof of stake vs proof of worth
 dark forest game
+virtual economies book vili vierta
 
 ## References
 1. 
