@@ -42,5 +42,7 @@ gems are distributed daily
 
 maximum of 1 billion gems
 
+the gem cost of minting a particular nft will increase with each nft minted
+
 ## References
 1. 
