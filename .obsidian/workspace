@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5003052c9e06b9b",
+  "active": "eed03b0bd33e0753",
   "lastOpenFiles": [
     "Guild of Guardians.md",
     "Economy Notes.md",
