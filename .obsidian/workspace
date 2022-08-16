@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How Web3 Games Work (and Sadly Don't).md",
+            "file": "Guild of Guardians.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Web3 Games Work (and Sadly Don't).md",
+                "file": "Guild of Guardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Web3 Games Work (and Sadly Don't).md",
+                "file": "Guild of Guardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +127,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eed03b0bd33e0753",
+  "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "How Web3 Games Work (and Sadly Don't).md",
     "Guild of Guardians.md",
     "Economy Notes.md",
     "Portfolio Review.md",
@@ -137,7 +138,6 @@
     "Slotmania.md",
     "Hub/Game Making.md",
     "IGEA Educates Summit 2022.md",
-    "Production in AAA.md",
-    "Notes/Game Production Notes.md"
+    "Production in AAA.md"
   ]
 }
