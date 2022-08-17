@@ -45,5 +45,7 @@ everyone wanted them, so players deleted to increase demand
 why we exchange
 anticipation - levelling up
 
+abnegation 
+
 ## References
 1. 
