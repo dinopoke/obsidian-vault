@@ -73,5 +73,9 @@ open economy competes with others
 
 quality is higher due to competition
 
+news rewards to the leaderboard
+
+just only user growth is not sustainable
+
 ## References
 1. 
