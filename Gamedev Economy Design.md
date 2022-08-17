@@ -35,5 +35,15 @@ get some of what you need and something else but not two in perfect balance
 
 money rich, time poor 
 
+colombo effect
+we know the mystery but colombo discovers it - we need to work out how he solved it
+they know what we have done and we know that they know
+
+runescape party hats
+everyone wanted them, so players deleted to increase demand
+
+why we exchange
+anticipation - levelling up
+
 ## References
 1. 
