@@ -50,5 +50,7 @@ play and earn instead of play to earn
 
 can equipment be rerolled
 
+inflation with heroes?
+
 ## References
 1. 
