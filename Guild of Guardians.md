@@ -52,5 +52,19 @@ can equipment be rerolled
 
 inflation with heroes?
 
+immutable x is a layer 2 scaling solution
+no gas fee
+
+risks
+general compliance regulatory
+scrutiny of the tokens
+security
+how to securely own
+community already exists
+building products outside of the game - marketplace
+having everything tradable
+
+dao
+
 ## References
 1. 
