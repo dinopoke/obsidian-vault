@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How Video Game Economies are Designed.md",
+            "file": "Guild of Guardians.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Video Game Economies are Designed.md",
+                "file": "Guild of Guardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Video Game Economies are Designed.md",
+                "file": "Guild of Guardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,6 +130,7 @@
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
     "Economy Notes.md",
+    "How Video Game Economies are Designed.md",
     "How Web3 Games Work (and Sadly Don't).md",
     "Guild of Guardians.md",
     "Portfolio Review.md",
@@ -138,7 +138,6 @@
     "When Cards Go Bad.md",
     "Slotmania.md",
     "Hub/Game Making.md",
-    "IGEA Educates Summit 2022.md",
-    "Production in AAA.md"
+    "IGEA Educates Summit 2022.md"
   ]
 }

@@ -93,5 +93,7 @@ balancing open economies
 power creep
 new mechanics to bypass the creep - genshin shields bleed
 
+play and earn has taps
+
 ## References
 1. 

@@ -44,5 +44,11 @@ maximum of 1 billion gems
 
 the gem cost of minting a particular nft will increase with each nft minted
 
+the players can choose what to do with their items
+
+play and earn instead of play to earn
+
+can equipment be rerolled
+
 ## References
 1. 
