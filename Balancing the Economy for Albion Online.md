@@ -31,5 +31,7 @@ building relationships
 salvage and transmute, resource and silver
 overflow and underflow we can balance
 
+excel table
+
 ## References
 1. 
