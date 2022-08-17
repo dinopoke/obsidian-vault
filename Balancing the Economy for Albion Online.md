@@ -20,5 +20,13 @@ extrinsic - what players do
 economy is all extrinsic
 
 most intrinsic part of the game should be the most extrinsic
+
+building relationships
+- incentivize the best part of the game
+- allow everyone to compete
+- maintain stable price ranges
+- maximize enjoyment of non-core audiences
+- keep the math simple
+
 ## References
 1. 
