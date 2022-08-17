@@ -68,5 +68,10 @@ dao
 
 active staking
 
+no way to restrict players from leaving the economy
+open economy competes with others
+
+quality is higher due to competition
+
 ## References
 1. 
