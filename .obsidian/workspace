@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Economy Notes.md",
+            "file": "How Video Game Economies are Designed.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy Notes.md",
+                "file": "How Video Game Economies are Designed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy Notes.md",
+                "file": "How Video Game Economies are Designed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +130,10 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "Portfolio Review.md",
-    "Guild of Guardians.md",
-    "How Web3 Games Work (and Sadly Don't).md",
     "Economy Notes.md",
+    "How Web3 Games Work (and Sadly Don't).md",
+    "Guild of Guardians.md",
+    "Portfolio Review.md",
     "Untitled 1.md",
     "When Cards Go Bad.md",
     "Slotmania.md",
