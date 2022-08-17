@@ -28,7 +28,12 @@ types of exchange
 - resource
 - anchor - exchanges I cannot make directly but only through very specific features - vip system through in game tokens
 - ratchet - conditional gears that cannot be reversed. Open up more content
-- 
+
+hot dog economics
+6 bread, 8 sausages
+get some of what you need and something else but not two in perfect balance
+
+money rich, time poor 
 
 ## References
 1. 
