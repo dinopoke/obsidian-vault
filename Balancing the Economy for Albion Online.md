@@ -28,5 +28,8 @@ building relationships
 - maximize enjoyment of non-core audiences
 - keep the math simple
 
+salvage and transmute, resource and silver
+overflow and underflow we can balance
+
 ## References
 1. 
