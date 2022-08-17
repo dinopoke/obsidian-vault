@@ -66,5 +66,7 @@ having everything tradable
 
 dao
 
+active staking
+
 ## References
 1. 
