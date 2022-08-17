@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gamedev Economy Design.md",
+            "file": "Balancing the Economy for Albion Online.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamedev Economy Design.md",
+                "file": "Balancing the Economy for Albion Online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamedev Economy Design.md",
+                "file": "Balancing the Economy for Albion Online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +130,8 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "Notes/2022-08-17.md",
     "Gamedev Economy Design.md",
+    "Notes/2022-08-17.md",
     "Economy Notes.md",
     "Guild of Guardians.md",
     "How Video Game Economies are Designed.md",
