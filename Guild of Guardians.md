@@ -20,6 +20,7 @@ buy heroes instead of gacha
 combo attack system - skilled players that dodge and time attacks
 
 summoning - summon shards currency
+selling heroes vs summoning
 
 hero class determine equipment
 elemental system - weaknesses
