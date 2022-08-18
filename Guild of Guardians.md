@@ -77,5 +77,15 @@ news rewards to the leaderboard
 
 just only user growth is not sustainable
 
+
+what is the culture of immutable
+what is it like for a day as a economy
+balance between game design and economy
+what cublets are for
+inflation with upper tier heroes
+junior
+what does macro mean
+
+
 ## References
 1. 
