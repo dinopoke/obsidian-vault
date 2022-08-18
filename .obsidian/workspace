@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What I did in Eco.md",
+            "file": "Balancing the Economy for Albion Online.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What I did in Eco.md",
+                "file": "Balancing the Economy for Albion Online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What I did in Eco.md",
+                "file": "Balancing the Economy for Albion Online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +129,7 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "What I did in Eco.md",
     "Economy Notes.md",
     "Guild of Guardians.md",
     "Gamedev Economy Design.md",
@@ -138,7 +138,6 @@
     "How Video Game Economies are Designed.md",
     "How Web3 Games Work (and Sadly Don't).md",
     "Portfolio Review.md",
-    "Untitled 1.md",
-    "When Cards Go Bad.md"
+    "Untitled 1.md"
   ]
 }
