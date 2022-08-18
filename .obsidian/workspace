@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guild of Guardians.md",
+            "file": "What I did in Eco.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "What I did in Eco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guild of Guardians.md",
+                "file": "What I did in Eco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,10 +129,10 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
+    "Guild of Guardians.md",
     "Economy Notes.md",
     "Balancing the Economy for Albion Online.md",
     "What I did in Eco.md",
-    "Guild of Guardians.md",
     "Gamedev Economy Design.md",
     "Notes/2022-08-17.md",
     "How Video Game Economies are Designed.md",
