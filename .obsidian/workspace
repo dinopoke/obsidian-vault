@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Balancing the Economy for Albion Online.md",
+            "file": "Guild of Guardians.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Balancing the Economy for Albion Online.md",
+                "file": "Guild of Guardians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Balancing the Economy for Albion Online.md",
+                "file": "Guild of Guardians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,11 +129,11 @@
   },
   "active": "e5003052c9e06b9b",
   "lastOpenFiles": [
-    "What I did in Eco.md",
     "Economy Notes.md",
+    "Balancing the Economy for Albion Online.md",
+    "What I did in Eco.md",
     "Guild of Guardians.md",
     "Gamedev Economy Design.md",
-    "Balancing the Economy for Albion Online.md",
     "Notes/2022-08-17.md",
     "How Video Game Economies are Designed.md",
     "How Web3 Games Work (and Sadly Don't).md",

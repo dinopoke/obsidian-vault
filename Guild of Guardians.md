@@ -85,6 +85,9 @@ what cublets are for
 inflation with upper tier heroes
 junior
 what does macro mean
+what skills are missing
+onboarding process
+what is your favourite part of working ghere
 
 
 ## References
