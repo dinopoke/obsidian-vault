@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60778651bb76875e",
-        "type": "split",
+        "id": "27304bfbcb3640b5",
+        "type": "tabs",
         "children": [
           {
-            "id": "e5003052c9e06b9b",
+            "id": "e6fb60932ebffb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy Notes.md",
+                "file": "Watch Dogs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "14b62c88905f0031",
+            "id": "1d6f0c27fb5c6951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guild of Guardians.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6648c3c0e8ab34c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamedev Economy Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea8f8c304f73cab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What I did in Eco.md",
+                "file": "Grand Theft Auto IV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +60,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -112,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What I did in Eco.md",
+                "file": "Grand Theft Auto IV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What I did in Eco.md",
+                "file": "Grand Theft Auto IV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea8f8c304f73cab5",
+  "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
-    "Balancing the Economy for Albion Online.md",
+    "Watch Dogs.md",
+    "Economy Notes.md",
     "What I did in Eco.md",
+    "Balancing the Economy for Albion Online.md",
     "Gamedev Economy Design.md",
     "Guild of Guardians.md",
-    "Economy Notes.md",
     "Notes/2022-08-17.md",
     "How Video Game Economies are Designed.md",
     "How Web3 Games Work (and Sadly Don't).md",
-    "Portfolio Review.md",
-    "Untitled 1.md"
+    "Portfolio Review.md"
   ]
 }
