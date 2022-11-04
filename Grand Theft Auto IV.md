@@ -13,3 +13,8 @@ interior
 Liberty Rush - requires new game
 
 IV radios
+
+assassination
+
+dialogue system
+drunk ped

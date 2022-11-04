@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6fb60932ebffb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch Dogs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d6f0c27fb5c6951",
             "type": "leaf",
             "state": {
@@ -32,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d97ba96aa4a596e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b32acb0683b1e0b1",
@@ -160,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d97ba96aa4a596e",
+  "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
     "Watch Dogs.md",
     "Economy Notes.md",
