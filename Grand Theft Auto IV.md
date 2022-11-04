@@ -10,7 +10,7 @@ https://gtaforums.com/topic/915206-iveflc-sweet-autumn/
 
 GRIM
 Responsive plus
-Realism Traffic/Pedestrian Mini-Mod
+Realism Traffic/Pedestrian Mini-Mod - no need
 
 https://gtaforums.com/topic/976318-various-pedestrian-actions/
 https://gtaforums.com/topic/945227-iveflc-potential-grim/
