@@ -8,8 +8,9 @@ ENB Ice
 https://www.gtainside.com/en/gta4/mods/135841-icenhancer-3-0-natural/
 https://gtaforums.com/topic/915206-iveflc-sweet-autumn/
 
-GRIM
 Responsive plus
+improved animations
+
 Realism Traffic/Pedestrian Mini-Mod - no need
 
 https://gtaforums.com/topic/976318-various-pedestrian-actions/
