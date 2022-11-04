@@ -18,3 +18,6 @@ assassination
 
 dialogue system
 drunk ped
+
+weapon spread
+weapon recoil
