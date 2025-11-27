@@ -4,7 +4,6 @@ tags:
 - example-tag
 ---
 
-# {{title}}
 Created: {{date}} {{time}}  
 
 

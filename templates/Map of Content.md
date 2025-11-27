@@ -4,5 +4,4 @@ tags:
 - example-tag
 ---
 
-# {{Title}}
 - 

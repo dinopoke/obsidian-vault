@@ -4,7 +4,6 @@ tags:
 - reading
 - todo
 ---
-# Literature
 ## Reading List
 
 - Graphic Design, The New Basics by Ellen Lupton

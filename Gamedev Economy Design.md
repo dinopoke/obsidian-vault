@@ -4,7 +4,6 @@ tags:
 - video
 ---
 
-# Gamedev Economy Design
 Created: 2022-08-17 14:58  
 
 interconnectivity between every exchange in the game

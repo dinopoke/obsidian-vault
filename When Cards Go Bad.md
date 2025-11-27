@@ -4,7 +4,6 @@ tags:
 - example-tag
 ---
 
-# When Cards Go Bad
 Created: 2022-08-03 00:59  
 
 

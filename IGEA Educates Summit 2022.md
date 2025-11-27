@@ -4,7 +4,6 @@ tags:
 - example-tag
 ---
 
-# IGEA Educates Summit 2022
 Created: 2022-07-18 14:40  
 
 Look for a learn and share mindset

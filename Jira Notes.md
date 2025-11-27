@@ -5,7 +5,6 @@ tags:
 - jira
 ---
 
-# Jira Notes
 Created: 2022-06-06 18:46  
 
 ⦁	Company vs Team managed Projects

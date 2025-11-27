@@ -3,8 +3,6 @@ title: "Portfolio Review"
 tags:
 - example-tag
 ---
-
-# Portfolio Review
 Created: 2022-07-20 11:50  
 
 be more specific with the design work

@@ -6,7 +6,6 @@ tags:
 - ttrpg
 ---
 
-# The Solo Adventurers Toolbox
 Created: 2022-05-13 16:54  
 
 Designed for 5e

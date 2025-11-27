@@ -4,8 +4,6 @@ tags:
 - boardgame
 ---
 
-# Board Games
-
 [[Deception Murder in Hong Kong]]  
 [[Pandemic Legacy]]  
 [[Mage Knight]]  

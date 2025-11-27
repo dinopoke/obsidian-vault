@@ -4,7 +4,6 @@ tags:
 - example-tag
 ---
 
-# How Video Game Economies are Designed
 Created: 2022-08-17 11:53  
 
 Taps generate new resources into the economy

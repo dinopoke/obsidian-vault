@@ -5,7 +5,6 @@ tags:
 - ttrpg
 ---
 
-# Call of Cthulhu
 Created: 2022-05-08 13:47  
 
 ## Quickstart  

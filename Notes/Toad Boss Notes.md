@@ -1,5 +1,5 @@
 # Toad Boss
-[[Projects/Dungeon Breakers]]
+[[Dungeon Breakers]]
 
 ## Toad + Rat
 The toad hops around. It hops onto a hero and then hops to another tile away. If another hero is within range, it chains and hops onto that hero instead. When it lands, the rat does a ranged attack which can be avoided by a QTE.

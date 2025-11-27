@@ -1,7 +1,6 @@
 ---
 title: "Recreation"
 ---
-# Recreation
 - [[Music]]
 - [[Film]]
 - [[Television]]

@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Theft Auto IV.md",
+                "file": "When Cards Go Bad.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "When Cards Go Bad"
             }
           }
         ]
@@ -34,21 +36,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eed03b0bd33e0753",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "81687d664d39aab5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,24 +60,36 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "d59e0b5a12e523f1",
+            "id": "410d78349c4fd1aa",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5a7508531b4574bf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b32acb0683b1e0b1",
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grand Theft Auto IV.md",
+                "file": "When Cards Go Bad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for When Cards Go Bad"
             }
           },
           {
@@ -113,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grand Theft Auto IV.md",
+                "file": "When Cards Go Bad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from When Cards Go Bad"
             }
           },
           {
@@ -126,8 +139,41 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "906f80d2b42486dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3ca1b5164460f9bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "When Cards Go Bad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of When Cards Go Bad"
             }
           }
         ]
@@ -137,17 +183,56 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
   "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
-    "Watch Dogs.md",
-    "Economy Notes.md",
+    "Web Comics.md",
     "What I did in Eco.md",
-    "Balancing the Economy for Albion Online.md",
-    "Gamedev Economy Design.md",
-    "Guild of Guardians.md",
-    "Notes/2022-08-17.md",
-    "How Video Game Economies are Designed.md",
-    "How Web3 Games Work (and Sadly Don't).md",
-    "Portfolio Review.md"
+    "Watch Dogs.md",
+    "Virtual Beer and Pixels 17-06-22.md",
+    "Virtual Beer and Pixels.md",
+    "Video Game Cartography.md",
+    "Untitled.base",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Unreal Sydney.md",
+    "Untitled.md",
+    "Ultimate Toolbox.md",
+    "Tragedy Looper.md",
+    "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
+    "Thousand Year Old Vampire.md",
+    "Thinking Like a Solo GM.md",
+    "The Solo GM's Best Friend.md",
+    "The Solo Adventurers Toolbox.md",
+    "The Quiet Year.md",
+    "The Burning Wheel.md",
+    "The Angry GM.md",
+    "Television.md",
+    "Tabletop Role Playing Games.md",
+    "Sydney Games Studios.md",
+    "Sydney Game Events.md",
+    "Spyfall.md",
+    "Untitled",
+    "dinopoke's vault/Untitled",
+    "dinopoke's vault/templates",
+    "dinopoke's vault/Projects",
+    "dinopoke's vault/private",
+    "dinopoke's vault/Notes",
+    "dinopoke's vault/Hub",
+    "dinopoke's vault/Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png",
+    "dinopoke's vault/Attachments/mu Essentials.jpg",
+    "dinopoke's vault/Attachments",
+    "dinopoke's vault"
   ]
 }

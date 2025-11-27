@@ -1,7 +1,6 @@
 ---
 title: "Game Collective Notes"
 ---
-# Game Collective Notes
 Created: 2022-05-06 00:06
 
 Diverse games means diverse creators  

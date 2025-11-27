@@ -3,8 +3,6 @@ title: "Production 101"
 tags:
 - example-tag
 ---
-
-# Producer Bootcamp - Production 101
 Created: 2022-06-22 12:50  
 
 What production is:

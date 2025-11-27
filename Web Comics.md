@@ -4,8 +4,6 @@ tags:
 - reading
 - webcomic
 ---
-# Web Comics  
-
 [[Literature]]
 
 - [http://achewood.com/](http://achewood.com/)

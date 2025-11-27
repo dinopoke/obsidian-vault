@@ -3,8 +3,6 @@ title: "Music"
 tags:
 - todo
 ---
-# Music
-
 [My RYM profile](https://rateyourmusic.com/~dinopoke)
 
 ## TODO  

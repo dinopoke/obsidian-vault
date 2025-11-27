@@ -6,7 +6,6 @@ tags:
 - videogametheory
 - todo
 ---
-# Is Killing an Inhibitor Worth It?
 Created: 2022-05-03 21:40  
 
 - A video from Richard Clayton to watch

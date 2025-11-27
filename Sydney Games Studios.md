@@ -4,7 +4,6 @@ tags:
 - gamestudio
 - sydney
 ---
-# Sydney Games Studios
 Created: 2022-05-05 15:38  
 
 [[Hub/Game Community]]

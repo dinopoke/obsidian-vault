@@ -6,8 +6,6 @@ tags:
 - ttrpg
 - video
 ---
-
-# The Solo GM's Best Friend
 Created: 2022-05-12 16:32  
 
 Have an anchor point to tether to narrative or some kind of advancement in the story.  

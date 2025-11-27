@@ -4,7 +4,6 @@ tags:
 - example-tag
 ---
 
-# Guild of Guardians
 Created: 2022-08-13 18:10  
 
 In game currency - ERC-20/ Gems
