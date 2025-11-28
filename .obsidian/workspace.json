@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hub/dino's pokey palace.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dino's pokey palace"
+              "title": "_index"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "_index.md",
+    "Untitled.base",
+    "Hub/dino's pokey palace.md",
     "When Cards Go Bad.md",
     "Web Comics.md",
     "What I did in Eco.md",
@@ -203,7 +207,6 @@
     "Virtual Beer and Pixels 17-06-22.md",
     "Virtual Beer and Pixels.md",
     "Video Game Cartography.md",
-    "Untitled.base",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -220,9 +223,6 @@
     "The Burning Wheel.md",
     "The Angry GM.md",
     "Television.md",
-    "Tabletop Role Playing Games.md",
-    "Sydney Games Studios.md",
-    "Sydney Game Events.md",
     "Untitled",
     "dinopoke's vault/Untitled",
     "dinopoke's vault/templates",
@@ -232,7 +232,6 @@
     "dinopoke's vault/Hub",
     "dinopoke's vault/Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png",
     "dinopoke's vault/Attachments/mu Essentials.jpg",
-    "dinopoke's vault/Attachments",
-    "dinopoke's vault"
+    "dinopoke's vault/Attachments"
   ]
 }

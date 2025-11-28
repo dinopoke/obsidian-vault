@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 🏰 dino's pokey palace 🏰
 ---
 
 - [[Game Ideation]]  
