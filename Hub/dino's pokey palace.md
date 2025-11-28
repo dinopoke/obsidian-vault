@@ -1,5 +1,5 @@
 ---
-title: Hub
+title: Home
 ---
 
 - [[Game Ideation]]  
