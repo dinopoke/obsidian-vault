@@ -1,6 +1,7 @@
 ---
 title: "Game Writing"
 ---
+# Game Writing 
 ## Mini Summaries
 [[Deception Murder in Hong Kong]]  
 [[Pandemic Legacy]]  

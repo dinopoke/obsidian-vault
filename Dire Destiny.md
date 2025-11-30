@@ -4,6 +4,7 @@ tags:
 - game
 - videogame
 ---
+# Dire Destiny
 Created: 2022-05-05 15:44  
 
 Priest Boss notes

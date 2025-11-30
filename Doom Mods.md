@@ -1,12 +1,3 @@
----
-title: Doom Mods
-tags:
-  - game
-  - mod
----
-
-
-Created: 2025-11-27 13:48  
 
 https://www.youtube.com/watch?v=Cpsm9pcnQ2s
 
@@ -70,6 +61,3 @@ transfer character
 pda weapon and amour
 
 corruption earthquake
-
-## References
-1. 

@@ -5,6 +5,7 @@ tags:
 - videogame
 ---
 
+# Genesis Rising
 Created: 2022-06-01 23:18  
 
 ![][https://cdn.cloudflare.steamstatic.com/steam/apps/3230/capsule_616x353.jpg]

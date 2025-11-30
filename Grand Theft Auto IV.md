@@ -1,12 +1,3 @@
----
-title: "Grand Theft Auto IV"
-tags:
-- example-tag
----
-
-Created: 2025-11-27 13:50  
-
-
 
 ## Mods
 
@@ -46,6 +37,3 @@ assassination
 
 weapon spread
 weapon recoil
-
-## References
-1. 

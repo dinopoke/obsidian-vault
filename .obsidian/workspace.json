@@ -4,25 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "27304bfbcb3640b5",
+        "id": "95edefc0f2278c91",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6f0c27fb5c6951",
+            "id": "63a1195980f4dc3d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/mu Essentials.jpg"
+              }
+            }
+          },
+          {
+            "id": "10afa4e1a4bc4ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Notes/Random Games.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b1c112253b09ce5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "46c89acc1accc453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meetings.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "939d1071f03859e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hub/Hub.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd849aa399c23402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -36,16 +94,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "eed03b0bd33e0753",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "81687d664d39aab5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -60,32 +123,27 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
-            "id": "410d78349c4fd1aa",
+            "id": "d59e0b5a12e523f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "592e9cf461ab753e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "5a7508531b4574bf",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When Cards Go Bad.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +171,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for When Cards Go Bad"
+              }
             }
           },
           {
@@ -124,12 +180,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "When Cards Go Bad.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from When Cards Go Bad"
+              }
             }
           },
           {
@@ -139,41 +193,18 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
-            "id": "906f80d2b42486dd",
+            "id": "15b0c790481d6d8d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "3ca1b5164460f9bb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "When Cards Go Bad.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of When Cards Go Bad"
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -191,47 +222,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d6f0c27fb5c6951",
+  "active": "fd849aa399c23402",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "_index.md",
-    "Untitled.base",
-    "Hub/dino's pokey palace.md",
-    "When Cards Go Bad.md",
-    "Web Comics.md",
-    "What I did in Eco.md",
+    "Hub/Hub.md",
+    "Notes.md",
+    "Meetings.md",
+    "Notes/Random AIE Notes.md",
+    "Notes/Programming Notes.md",
+    "Notes/Note Making.md",
+    "Notes/Game Production Notes.md",
+    "Notes/Game Collective Notes.md",
+    "Notes/Doable Game Ideas.md",
+    "Notes/DM Ideas.md",
+    "Notes/World of Warcraft.md",
+    "Attachments/mu Essentials.jpg",
+    "Balancing the Economy for Albion Online.md",
+    "Alone Among The Stars.md",
+    "A Game Design Approach to Stakeholder Management.md",
+    "A Fake Artist Goes To New York.md",
+    "Sydney Game Events.md",
+    "Doom Mods.md",
+    "Projects/Dungeon Breakers.md",
+    "Company Setup.md",
+    "Dingoo.md",
+    "Untitled.canvas",
+    "Notes/Random DungeonBreakers Notes.md",
+    "10 Things under $100 that Changed My Life.md",
+    "Notes/2022-12-09.md",
+    "Grand Theft Auto IV.md",
     "Watch Dogs.md",
-    "Virtual Beer and Pixels 17-06-22.md",
-    "Virtual Beer and Pixels.md",
-    "Video Game Cartography.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Unreal Sydney.md",
-    "Untitled.md",
-    "Ultimate Toolbox.md",
-    "Tragedy Looper.md",
-    "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
-    "Thousand Year Old Vampire.md",
-    "Thinking Like a Solo GM.md",
-    "The Solo GM's Best Friend.md",
-    "The Solo Adventurers Toolbox.md",
-    "The Quiet Year.md",
-    "The Burning Wheel.md",
-    "The Angry GM.md",
-    "Television.md",
-    "Untitled",
-    "dinopoke's vault/Untitled",
-    "dinopoke's vault/templates",
-    "dinopoke's vault/Projects",
-    "dinopoke's vault/private",
-    "dinopoke's vault/Notes",
-    "dinopoke's vault/Hub",
-    "dinopoke's vault/Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png",
-    "dinopoke's vault/Attachments/mu Essentials.jpg",
-    "dinopoke's vault/Attachments"
+    "Economy Notes.md"
   ]
 }

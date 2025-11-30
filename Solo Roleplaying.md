@@ -4,6 +4,7 @@ tags:
   - soloroleplaying
   - ttrpg
 ---
+# Solo Roleplaying
 Created: 2022-05-04 17:00  
 
 [[Tabletop Role Playing Games]]

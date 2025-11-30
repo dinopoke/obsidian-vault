@@ -3,6 +3,8 @@ title: "My first job interview in 2.5 years.. Here's some tips that helped me"
 tags:
 - video
 ---
+
+# My first job interview in 2.5 years.. Here's some tips that helped me
 Created: 2022-06-01 12:03  
 
 [[Interviews]]

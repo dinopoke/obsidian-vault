@@ -4,6 +4,7 @@ tags:
 - example-tag
 ---
 
+# Building Our Resource Management Map
 Created: 2022-06-22 13:01  
 
 

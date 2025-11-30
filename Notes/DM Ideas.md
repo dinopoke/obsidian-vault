@@ -5,6 +5,7 @@ tags:
 - ttrpg
 ---
 
+# DM Ideas
 Created: 2022-05-08 17:27  
 
 -   SCP World

@@ -1,9 +1,10 @@
 ---
-title: Economy Notes
+title: "Economy Notes"
 tags:
-  - gamedesign
+- example-tag
 ---
 
+# Economy Notes
 Created: 2022-08-16 16:41  
 
 gameplay 

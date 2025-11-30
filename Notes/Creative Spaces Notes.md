@@ -1,6 +1,7 @@
 ---
 title: "Creative Spaces Notes"
 ---
+# Creative Spaces Notes
 Created: 2022-05-05 15:37
 
 Creative Spaces  
