@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Alone Among The Stars",
+      "path": "Alone Among The Stars.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.base"
+    },
+    {
+      "basename": "A Game Design Approach to Stakeholder Management",
+      "path": "A Game Design Approach to Stakeholder Management.md"
+    },
+    {
+      "basename": "10 Things under $100 that Changed My Life",
+      "path": "10 Things under $100 that Changed My Life.md"
+    },
+    {
       "basename": "_index",
       "path": "_index.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Jira Notes",
       "path": "Jira Notes.md"
-    },
-    {
-      "basename": "Is Killing an Inhibitor Worth It",
-      "path": "Is Killing an Inhibitor Worth It.md"
-    },
-    {
-      "basename": "Ironsworn",
-      "path": "Ironsworn.md"
-    },
-    {
-      "basename": "Interviews",
-      "path": "Interviews.md"
-    },
-    {
-      "basename": "IGEA Educates Summit 2022",
-      "path": "IGEA Educates Summit 2022.md"
     }
   ],
   "omittedPaths": [],

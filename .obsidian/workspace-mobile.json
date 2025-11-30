@@ -11,10 +11,15 @@
             "id": "b2db94ee9f927180",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Alone Among The Stars.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Alone Among The Stars"
             }
           }
         ]
@@ -108,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Alone Among The Stars.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Alone Among The Stars.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Alone Among The Stars.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -146,9 +154,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "2bbf3f3f6ef5d90a",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,5 +181,9 @@
     }
   },
   "active": "b2db94ee9f927180",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled 2.base",
+    "A Game Design Approach to Stakeholder Management.md",
+    "10 Things under $100 that Changed My Life.md"
+  ]
 }
