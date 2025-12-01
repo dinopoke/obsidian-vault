@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "10 Things under $100 that Changed My Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "10 Things under $100 that Changed My Life"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "When Cards Go Bad.md",
+                "file": "10 Things under $100 that Changed My Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for When Cards Go Bad"
+              "title": "Backlinks for 10 Things under $100 that Changed My Life"
             }
           },
           {
@@ -180,11 +180,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,42 +196,42 @@
   },
   "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "_index.md",
-    "Untitled.base",
+    "A Fake Artist Goes To New York.md",
+    "Untitled 4.base",
+    "Notes/Notes.md",
     "Hub/dino's pokey palace.md",
+    "Dungeon Breakers.md",
+    "Dingoo A320.md",
+    "A Game Design Approach to Stakeholder Management.md",
+    "10 Things under $100 that Changed My Life.md",
+    "Untitled 3.base",
+    "_index.md",
+    "conflict-files-obsidian-git.md",
+    "What I did in Eco.md",
+    "Untitled.md",
+    "Untitled 2.base",
+    "Untitled 1.md",
+    "Dingoo.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "When Cards Go Bad.md",
     "Web Comics.md",
-    "What I did in Eco.md",
     "Watch Dogs.md",
     "Virtual Beer and Pixels 17-06-22.md",
     "Virtual Beer and Pixels.md",
     "Video Game Cartography.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Unreal Sydney.md",
-    "Untitled.md",
     "Ultimate Toolbox.md",
     "Tragedy Looper.md",
     "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
-    "Thousand Year Old Vampire.md",
-    "Thinking Like a Solo GM.md",
-    "The Solo GM's Best Friend.md",
-    "The Solo Adventurers Toolbox.md",
-    "The Quiet Year.md",
-    "The Burning Wheel.md",
-    "The Angry GM.md",
-    "Television.md",
     "Untitled",
     "dinopoke's vault/Untitled",
     "dinopoke's vault/templates",
     "dinopoke's vault/Projects",
     "dinopoke's vault/private",
-    "dinopoke's vault/Notes",
-    "dinopoke's vault/Hub",
     "dinopoke's vault/Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png",
-    "dinopoke's vault/Attachments/mu Essentials.jpg",
-    "dinopoke's vault/Attachments"
+    "dinopoke's vault/Attachments/mu Essentials.jpg"
   ]
 }

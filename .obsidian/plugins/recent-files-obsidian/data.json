@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 Things under $100 that Changed My Life",
+      "path": "10 Things under $100 that Changed My Life.md"
+    },
+    {
+      "basename": "A Fake Artist Goes To New York",
+      "path": "A Fake Artist Goes To New York.md"
+    },
+    {
       "basename": "_index",
       "path": "_index.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Ironsworn",
       "path": "Ironsworn.md"
-    },
-    {
-      "basename": "Interviews",
-      "path": "Interviews.md"
-    },
-    {
-      "basename": "IGEA Educates Summit 2022",
-      "path": "IGEA Educates Summit 2022.md"
     }
   ],
   "omittedPaths": [],
