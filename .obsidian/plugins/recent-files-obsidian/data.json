@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
+      "basename": "Board Games",
+      "path": "Board Games.md"
+    },
+    {
+      "basename": "Building Our Resource Management Map",
+      "path": "Building Our Resource Management Map.md"
+    },
+    {
+      "basename": "A Game Design Approach to Stakeholder Management",
+      "path": "A Game Design Approach to Stakeholder Management.md"
+    },
+    {
       "basename": "10 Things under $100 that Changed My Life",
       "path": "10 Things under $100 that Changed My Life.md"
     },
     {
       "basename": "A Fake Artist Goes To New York",
       "path": "A Fake Artist Goes To New York.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.base"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.base"
     },
     {
       "basename": "dino's pokey palace",
@@ -183,22 +187,6 @@
     {
       "basename": "Note Making",
       "path": "Notes/Note Making.md"
-    },
-    {
-      "basename": "Literature",
-      "path": "Literature.md"
-    },
-    {
-      "basename": "Jira Notes",
-      "path": "Jira Notes.md"
-    },
-    {
-      "basename": "Is Killing an Inhibitor Worth It",
-      "path": "Is Killing an Inhibitor Worth It.md"
-    },
-    {
-      "basename": "Ironsworn",
-      "path": "Ironsworn.md"
     }
   ],
   "omittedPaths": [],
