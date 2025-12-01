@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Quartz",
-      "path": "Quartz.md"
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
+      "basename": "Camel Up",
+      "path": "Camel Up.md"
+    },
+    {
+      "basename": "Alone Among The Stars",
+      "path": "Alone Among The Stars.md"
     },
     {
       "basename": "Game Collective Notes",
@@ -11,10 +19,6 @@
     {
       "basename": "Programming Notes",
       "path": "Notes/Programming Notes.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
     },
     {
       "basename": "Board Games",
@@ -195,10 +199,6 @@
     {
       "basename": "Notes",
       "path": "Notes/Notes.md"
-    },
-    {
-      "basename": "Note Making",
-      "path": "Notes/Note Making.md"
     }
   ],
   "omittedPaths": [],
