@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Trauma Games",
+      "path": "Trauma Games.md"
+    },
+    {
       "basename": "_index",
       "path": "_index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Love Letter",
       "path": "Love Letter.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
     }
   ],
   "omittedPaths": [],
