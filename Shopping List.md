@@ -29,3 +29,6 @@
 | The Witch and the Hundred Knight - Revival Edition | PS4      |     | https://au.webuy.com/product-detail?id=813633016337   |     |
 | Infamous: Second Son                               | PS4      | 8   | Hornsby                                               |     |
 | Infamous: First Light                              | PS4      | 15  | Hornsby                                               |     |
+| Blast Works                                        | Wii      | 28  | https://au.webuy.com/product-detail/?id=5060136650413 |     |
+| Castlevania Judgement                              | Wii      | 35  | Hornsby                                               |     |
+| Conduit 2                                          | Wii      | 25  | Hornsby                                               |     |
