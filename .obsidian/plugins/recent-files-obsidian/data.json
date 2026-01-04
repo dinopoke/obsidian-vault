@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Trauma Games",
       "path": "Trauma Games.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mage Knight",
       "path": "Mage Knight.md"
-    },
-    {
-      "basename": "Love Letter",
-      "path": "Love Letter.md"
     }
   ],
   "omittedPaths": [],
