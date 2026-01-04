@@ -16,4 +16,4 @@
 | Project Sylpheed               | 360      | https://au.webuy.com/product-detail/?id=S360PROE001   |
 | Rise of Nightmares             | 360      |                                                       |
 | Tenchu Z                       | 360      | https://au.webuy.com/product-detail/?id=882224438490  |
-|                                |          |                                                       |
+| Banjo-Kazooie Nuts & Bolts     | 360      |                                                       |
