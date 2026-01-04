@@ -60,3 +60,4 @@
 | Tales Of Symphonia Chronicles                      | PS3      | 25  | Erina                                                                     |     |
 | Vampire Rain                                       | 360      | 5   |                                                                           |     |
 | Zone Of The Enders HD Collection                   | 360      | 38  | Burwood                                                                   |     |
+| God of war Collection                              | PS3      | 64  | Eastgardens                                                               |     |
