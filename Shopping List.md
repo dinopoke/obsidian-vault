@@ -32,3 +32,4 @@
 | Blast Works                                        | Wii      | 28  | https://au.webuy.com/product-detail/?id=5060136650413 |     |
 | Castlevania Judgement                              | Wii      | 35  | Hornsby                                               |     |
 | Conduit 2                                          | Wii      | 25  | Hornsby                                               |     |
+| Cooking Mama                                       | Wii      |     |                                                       |     |
