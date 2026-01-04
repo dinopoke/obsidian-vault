@@ -34,3 +34,4 @@
 | Ninety-Nine Nights 2                               | 360      | 55  |                                                       |     |
 | Gravity Rush Remastered                            | PS4      | 70  |                                                       |     |
 | Gravity Rush 2                                     | PS4      | 75  |                                                       |     |
+| Wet                                                | 360      | 25  |                                                       |     |
