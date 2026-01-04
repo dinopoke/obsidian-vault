@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
+      "basename": "Game Playing",
+      "path": "Hub/Game Playing.md"
+    },
+    {
+      "basename": "Self",
+      "path": "Hub/Self.md"
+    },
+    {
+      "basename": "Recreation",
+      "path": "Hub/Recreation.md"
+    },
+    {
       "basename": "Game Collective Notes",
       "path": "Notes/Game Collective Notes.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "My first job interview in 2.5 years.. Here's some tips that helped me",
       "path": "My first job interview in 2.5 years.. Here's some tips that helped me.md"
-    },
-    {
-      "basename": "Music",
-      "path": "Music.md"
-    },
-    {
-      "basename": "Mage Knight",
-      "path": "Mage Knight.md"
-    },
-    {
-      "basename": "Love Letter",
-      "path": "Love Letter.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
     }
   ],
   "omittedPaths": [],
