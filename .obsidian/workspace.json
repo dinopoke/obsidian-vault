@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Game Collective Notes.md",
+                "file": "Quartz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Game Collective Notes"
+              "title": "Backlinks for Quartz"
             }
           },
           {
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,23 @@
   },
   "active": "1d6f0c27fb5c6951",
   "lastOpenFiles": [
+    "Quartz.md",
+    "What I did in Eco.md",
+    "Untitled.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.md",
+    "Untitled 1.base",
+    "Slotmania.md",
+    "Projects/Dungeon Breakers.md",
+    "Notes.md",
+    "Meetings.md",
+    "Hub/Hub.md",
+    "Dingoo.md",
+    "Notes/Game Collective Notes.md",
     "Notes/Programming Notes.md",
     "_index.md",
-    "Untitled.base",
     "Untitled 3.base",
-    "Untitled 1.base",
     "Board Games.md",
     "Building Our Resource Management Map.md",
     "A Game Design Approach to Stakeholder Management.md",
@@ -212,21 +225,9 @@
     "Dungeon Breakers.md",
     "Dingoo A320.md",
     "conflict-files-obsidian-git.md",
-    "What I did in Eco.md",
-    "Untitled.md",
-    "Untitled 2.base",
-    "Untitled 1.md",
-    "Slotmania.md",
-    "Projects/Dungeon Breakers.md",
-    "Notes.md",
-    "Meetings.md",
-    "Hub/Hub.md",
-    "Dingoo.md",
     "A Fake Artist Goes To New York.md",
     "Untitled 4.base",
     "When Cards Go Bad.md",
-    "Web Comics.md",
-    "Watch Dogs.md",
     "Untitled",
     "dinopoke's vault/Untitled",
     "dinopoke's vault/templates",
