@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Hub/Game Playing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Game Playing"
             }
           }
         ]
@@ -180,8 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2db94ee9f927180",
+  "active": "2bbf3f3f6ef5d90a",
   "lastOpenFiles": [
+    "Shopping List.md",
+    "/Shopping List.md",
+    "_index.md",
+    "conflict-files-obsidian-git.md",
+    "Trauma Games.md",
     "Camel Up.md",
     "Alone Among The Stars.md",
     "10 Things under $100 that Changed My Life.md",
@@ -204,11 +209,6 @@
     "/Tragedy Looper.md",
     "/To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
     "/Thousand Year Old Vampire.md",
-    "/Thinking Like a Solo GM.md",
-    "/The Solo GM's Best Friend.md",
-    "/The Solo Adventurers Toolbox.md",
-    "/The Quiet Year.md",
-    "/The Burning Wheel.md",
     "/Projects",
     "/Notes",
     "/Hub",
