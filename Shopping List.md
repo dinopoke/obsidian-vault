@@ -9,22 +9,22 @@
 | Army of Two: 40th Day                              | 360      | 10  |                                                                           |     |
 | Army of Two: The Devils Cartel                     | 360      | 18  |                                                                           |     |
 | Nier                                               | 360      | 22  |                                                                           |     |
-| Lost Odyssey                                       | 360      | 25  |                                                                           |     |
+| Lost Odyssey                                       | 360      | 25  | Tuggerah                                                                  |     |
 | Forza Horizon                                      | 360      | 25  |                                                                           |     |
 | Ridge Racer 6                                      | 360      | 28  |                                                                           |     |
 | Beautiful Katamari                                 | 360      | 38  |                                                                           |     |
 | Bomberman Act Zero                                 | 360      | 42  |                                                                           |     |
 | Ninety-Nine Nights 2                               | 360      | 55  |                                                                           |     |
-| Wet                                                | 360      | 25  |                                                                           |     |
+| Wet                                                | 360      | 25  | Erina                                                                     |     |
 | Asura's Wrath                                      | 360      | 42  |                                                                           |     |
-| Bodycount                                          | 360      | 12  |                                                                           |     |
+| Bodycount                                          | 360      | 12  | Erina                                                                     |     |
 | Call of Duty 3                                     | 360      | 18  |                                                                           |     |
 | Child of Eden                                      | 360      | 3   |                                                                           |     |
 | Conan                                              | 360      | 10  |                                                                           |     |
 | Dante's Inferno                                    | 360      | 12  |                                                                           |     |
 | Fuse                                               | 360      | 12  |                                                                           |     |
 | Lollipop Chainsaw                                  | 360      | 60  |                                                                           |     |
-| Ninja Gaiden 3                                     | 360      | 12  |                                                                           |     |
+| Ninja Gaiden 3                                     | 360      | 12  | Erina                                                                     |     |
 | The Bourne Conspiracy                              | 360      | 6   |                                                                           |     |
 | Sonic the Hedgehog                                 | 360      | 62  |                                                                           |     |
 | Sonic Unleashed                                    | 360      |     |                                                                           |     |
@@ -51,22 +51,15 @@
 | Firewall Zero Hour                                 | PS4      | 10  | Burwood                                                                   |     |
 | God of War Collection                              | PS3      | 64  | Eastgardens                                                               |     |
 | Tales Of Symphonia Chronicles                      | PS3      | 25  | Erina                                                                     |     |
-| Ninja Blade                                        | 360      | 12  | Hornsby                                                                   |     |
-| Tenchu Z                                           | 360      | 15  | Hornsby                                                                   |     |
 | Project Sylpheed                                   | 360      | 18  | Hornsby                                                                   |     |
-| Shadows Of The Damned                              | 360      | 15  | Hornsby                                                                   |     |
+| Shadows Of The Damned                              | 360      | 15  | Erina                                                                     |     |
 | Infamous: Second Son                               | PS4      | 8   | Hornsby                                                                   |     |
 | Infamous: First Light                              | PS4      | 15  | Hornsby                                                                   |     |
-| Red Steel                                          | Wii      | 4   | Hornsby                                                                   |     |
-| Conduit 2                                          | Wii      | 25  | Hornsby                                                                   |     |
 | Castlevania Judgement                              | Wii      | 35  | Hornsby                                                                   |     |
-| Iron Man VR                                        | PS4      | 22  | Hornsby                                                                   |     |
-| Farpoint                                           | PS4      | 4   | Hornsby                                                                   |     |
-| Until Dawn: Rush of Blood                          | PS4      | 8   | Hornsby                                                                   |     |
 | The Witch and the Hundred Knight - Revival Edition | PS4      |     | https://au.webuy.com/product-detail?id=813633016337                       |     |
 | Banjo-Kazooie Nuts & Bolts                         | 360      | 6   | Erina                                                                     |     |
 | Star Ocean: The Last Hope                          | 360      | 32  | https://au.webuy.com/product-detail?id=5060121825451                      |     |
 | Ace Combat 6                                       | 360      | 30  | https://au.webuy.com/product-detail/?id=3296580804252                     |     |
 | Blast Works                                        | Wii      | 28  | https://au.webuy.com/product-detail/?id=5060136650413                     |     |
 | Quantum Theory                                     | 360      | 24  | https://www.ebgames.com.au/product/xbox360/149379-quantum-theory-preowned |     |
-| Days Gone                                          | PS4      |     |                                                                           |     |
+| Ninja Blade                                        | 360      |     |                                                                           |     |
