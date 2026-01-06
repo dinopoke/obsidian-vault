@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hub/Game Playing.md",
+                "file": "Shopping List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Game Playing"
+              "title": "Shopping List"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bbf3f3f6ef5d90a",
+  "active": "b2db94ee9f927180",
   "lastOpenFiles": [
-    "Shopping List.md",
     "/Shopping List.md",
+    "Hub/Game Playing.md",
+    "Shopping List.md",
     "_index.md",
     "conflict-files-obsidian-git.md",
     "Trauma Games.md",
@@ -208,7 +209,6 @@
     "/Ultimate Toolbox.md",
     "/Tragedy Looper.md",
     "/To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md",
-    "/Thousand Year Old Vampire.md",
     "/Projects",
     "/Notes",
     "/Hub",
