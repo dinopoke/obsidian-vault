@@ -5,6 +5,14 @@
       "path": "Shopping List.md"
     },
     {
+      "basename": "Game Playing",
+      "path": "Hub/Game Playing.md"
+    },
+    {
+      "basename": "dino's pokey palace",
+      "path": "Hub/dino's pokey palace.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "A Fake Artist Goes To New York",
       "path": "A Fake Artist Goes To New York.md"
-    },
-    {
-      "basename": "dino's pokey palace",
-      "path": "Hub/dino's pokey palace.md"
     },
     {
       "basename": "When Cards Go Bad",
@@ -195,10 +199,6 @@
     {
       "basename": "Music",
       "path": "Music.md"
-    },
-    {
-      "basename": "Mage Knight",
-      "path": "Mage Knight.md"
     }
   ],
   "omittedPaths": [],
