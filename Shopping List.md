@@ -64,3 +64,6 @@
 | Army of Two: 40th Day                              | 360      | 10  | Woden                                                                     |     |
 | Child of Eden                                      | 360      | 3   | Woden                                                                     |     |
 | Blast Works                                        | Wii      | 28  | Woden                                                                     |     |
+| Ghost Recon                                        | Wii      | 8   |                                                                           |     |
+| Ghost Recon: Advance Warfighter                    | 360      | 1.5 | Tuggerah                                                                  |     |
+| Ghost Recon: Advance Warfighter 2                  | 360      | 2.5 | Tuggerah                                                                  |     |
