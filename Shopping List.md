@@ -14,7 +14,6 @@
 | Lollipop Chainsaw                                  | 360      | 60  |                                                                           |     |
 | Sonic the Hedgehog                                 | 360      | 62  |                                                                           |     |
 | Sonic Unleashed                                    | 360      | 40  |                                                                           |     |
-| Splatterhouse                                      | 360      | 70  |                                                                           |     |
 | Folklore                                           | PS3      |     |                                                                           |     |
 | El Shaddai                                         | PS3      | 70  |                                                                           |     |
 | Ninja Gaiden 3: Razors Edge                        | PS3      | 40  |                                                                           |     |
@@ -44,7 +43,6 @@
 | No More Heroes                                     | Wii      | 20  | Erina                                                                     |     |
 | Tales Of Symphonia Chronicles                      | PS3      | 25  | Erina                                                                     |     |
 | Shadows Of The Damned                              | 360      | 15  | Erina                                                                     |     |
-| Banjo-Kazooie Nuts & Bolts                         | 360      | 6   | Erina                                                                     |     |
 | Project Sylpheed                                   | 360      | 18  | Hornsby                                                                   |     |
 | Infamous: Second Son                               | PS4      | 8   | Hornsby                                                                   |     |
 | Infamous: First Light                              | PS4      | 15  | Hornsby                                                                   |     |
