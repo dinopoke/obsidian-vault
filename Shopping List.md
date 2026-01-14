@@ -32,9 +32,6 @@
 | Eat Lead                                           | 360      | 12  | Burwood                                                                   |     |
 | Zone Of The Enders HD Collection                   | 360      | 38  | Burwood                                                                   |     |
 | Sonic Unleashed                                    | Wii      | 18  | Burwood                                                                   |     |
-| Resident Evil 7                                    | PS4      | 20  | Burwood                                                                   |     |
-| Firewall Zero Hour                                 | PS4      | 10  | Burwood                                                                   |     |
-| Fable: The Journey                                 | 360      | 2.5 | Burwood                                                                   |     |
 | God of War Collection                              | PS3      | 64  | Eastgardens                                                               |     |
 | Rise of Nightmares                                 | 360      | 8   | Erina                                                                     |     |
 | Wet                                                | 360      | 25  | Erina                                                                     |     |
@@ -45,7 +42,6 @@
 | Shadows Of The Damned                              | 360      | 15  | Erina                                                                     |     |
 | Project Sylpheed                                   | 360      | 18  | Hornsby                                                                   |     |
 | Infamous: Second Son                               | PS4      | 8   | Hornsby                                                                   |     |
-| Infamous: First Light                              | PS4      | 15  | Hornsby                                                                   |     |
 | Castlevania Judgement                              | Wii      | 35  | Hornsby                                                                   |     |
 | The Witch and the Hundred Knight - Revival Edition | PS4      | 38  | https://au.webuy.com/product-detail?id=813633016337                       |     |
 | Star Ocean: The Last Hope                          | 360      | 32  | https://au.webuy.com/product-detail?id=5060121825451                      |     |
