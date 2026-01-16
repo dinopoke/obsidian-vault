@@ -10,8 +10,6 @@
 | Bomberman Act Zero                                 | 360      | 42  |                                                                           |     |
 | Ninety-Nine Nights 2                               | 360      | 55  |                                                                           |     |
 | Asura's Wrath                                      | 360      | 42  |                                                                           |     |
-| Conan                                              | 360      | 10  |                                                                           |     |
-| Lollipop Chainsaw                                  | 360      | 60  |                                                                           |     |
 | Sonic the Hedgehog                                 | 360      | 62  |                                                                           |     |
 | Sonic Unleashed                                    | 360      | 40  |                                                                           |     |
 | Folklore                                           | PS3      |     |                                                                           |     |
@@ -23,15 +21,11 @@
 | Ninja Blade                                        | 360      | 12  |                                                                           |     |
 | Ghost Recon                                        | Wii      | 8   |                                                                           |     |
 | 3D Dot Heroes                                      | PS3      |     |                                                                           |     |
-| Army of Two: The Devils Cartel                     | 360      | 18  | Bankstown                                                                 |     |
-| Call of Duty 3                                     | 360      | 18  | Bankstown                                                                 |     |
-| Vampire Rain                                       | 360      | 5   | Bankstown                                                                 |     |
-| RIGS: Mechanized Combat League                     | PS4      | 5   | Belconnen                                                                 |     |
-| The Inpatient                                      | PS4      | 15  | Blacktown                                                                 |     |
+| Vampire Rain                                       | 360      | 5   | Bankstown, Mt Druitt                                                      |     |
 | Astro Bot Rescue Mission                           | PS4      | 24  | Blacktown                                                                 |     |
-| Eat Lead                                           | 360      | 12  | Burwood                                                                   |     |
 | Zone Of The Enders HD Collection                   | 360      | 38  | Burwood                                                                   |     |
-| Sonic Unleashed                                    | Wii      | 18  | Burwood                                                                   |     |
+| Eat Lead                                           | 360      | 12  | Burwood, Bankstown                                                        |     |
+| Sonic Unleashed                                    | Wii      | 18  | Burwood, Nepean                                                           |     |
 | God of War Collection                              | PS3      | 64  | Eastgardens                                                               |     |
 | Rise of Nightmares                                 | 360      | 8   | Erina                                                                     |     |
 | Wet                                                | 360      | 25  | Erina                                                                     |     |
@@ -46,20 +40,17 @@
 | The Witch and the Hundred Knight - Revival Edition | PS4      | 38  | https://au.webuy.com/product-detail?id=813633016337                       |     |
 | Star Ocean: The Last Hope                          | 360      | 32  | https://au.webuy.com/product-detail?id=5060121825451                      |     |
 | Quantum Theory                                     | 360      | 24  | https://www.ebgames.com.au/product/xbox360/149379-quantum-theory-preowned |     |
-| Fuse                                               | 360      | 12  | Penrith EB                                                                |     |
-| Shadowrun                                          | 360      | 2   | Tuggerah                                                                  |     |
+| Blue Dragon                                        | 360      | 40  | Mt Druitt , Blacktown, Tuggeranong                                        |     |
+| Super Paper Mario                                  | Wii      | 30  | Nepean - was 25                                                           |     |
+| Lollipop Chainsaw                                  | 360      | 55  | Nepean, Blacktown                                                         |     |
+| Conan                                              | 360      | 10  | Nepean, Warringah                                                         |     |
 | Lost Odyssey                                       | 360      | 25  | Tuggerah                                                                  |     |
 | Dante's Inferno                                    | 360      | 12  | Tuggerah                                                                  |     |
 | Knack 2                                            | PS4      | 30  | Tuggerah                                                                  |     |
 | Everybody's Golf                                   | PS4      | 12  | Tuggerah                                                                  |     |
 | Cooking Mama                                       | Wii      | 12  | Tuggerah                                                                  |     |
-| Metroid Prime 3: Corruption                        | Wii      | 20  | Tuggerah                                                                  |     |
 | Ghost Recon: Advance Warfighter                    | 360      | 1.5 | Tuggerah                                                                  |     |
 | Ghost Recon: Advance Warfighter 2                  | 360      | 2.5 | Tuggerah                                                                  |     |
-| Blue Dragon                                        | 360      | 42  | Tuggeranong                                                               |     |
-| The Bourne Conspiracy                              | 360      | 6   | Warringah                                                                 |     |
 | Ace Combat 6                                       | 360      | 30  | Warringah                                                                 |     |
-| Army of Two: 40th Day                              | 360      | 10  | Woden                                                                     |     |
-| Child of Eden                                      | 360      | 3   | Woden                                                                     |     |
+| Child of Eden                                      | 360      | 3   | Warringah, Woden                                                          |     |
 | Blast Works                                        | Wii      | 28  | Woden                                                                     |     |
-| Snack World                                        | Switch   | 12  | Parramatta                                                                |     |
