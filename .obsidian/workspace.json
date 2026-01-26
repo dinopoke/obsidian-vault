@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Shopping List"
             }
+          },
+          {
+            "id": "284a08eb33d0395d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc279bd1f0c87ed6",
+  "active": "284a08eb33d0395d",
   "lastOpenFiles": [
     "Hub/Game Playing.md",
     "Hub/dino's pokey palace.md",
