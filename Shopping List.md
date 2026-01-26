@@ -21,7 +21,6 @@
 | Ninja Blade                                        | 360      | 12  |                                                                           |     |
 | Ghost Recon                                        | Wii      | 8   |                                                                           |     |
 | 3D Dot Heroes                                      | PS3      |     |                                                                           |     |
-| Vampire Rain                                       | 360      | 5   | Bankstown, Mt Druitt                                                      |     |
 | Astro Bot Rescue Mission                           | PS4      | 24  | Blacktown                                                                 |     |
 | Batman - The Brave & Bold                          | Wii      | 20  | Blacktown, Tuggeranong                                                    |     |
 | Zone Of The Enders HD Collection                   | 360      | 38  | Burwood                                                                   |     |
