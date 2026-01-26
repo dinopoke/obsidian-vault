@@ -57,3 +57,7 @@
 | True Crime: Streets of LA                          | PS2      | 6   | Burwood, Tuggerah                                                         |     |
 | True Crime: New York City                          | PS2      | 22  | Burwood, Tuggerah                                                         |     |
 | Dead To Rights: Retribution                        | 360      | 20  | Nepean, Mt Druitt                                                         |     |
+| Goldeneye 007                                      | Wii      | 10  | Burwood, Erina, Tuggerah                                                  |     |
+| Marvel Ultimate Alliance                           | Wii      | 10  | Hornsby                                                                   |     |
+| Batman - The Brave & Bold                          | Wii      | 20  | Blacktown, Tuggeranong                                                    |     |
+| Boom Blox: Bash Party                              | Wii      | 5   | Erina                                                                     |     |
