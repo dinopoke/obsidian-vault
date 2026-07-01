@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "Shopping List",
       "path": "Shopping List.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "dino's pokey palace",
       "path": "Hub/dino's pokey palace.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Trauma Games",
@@ -195,10 +195,6 @@
     {
       "basename": "My first job interview in 2.5 years.. Here's some tips that helped me",
       "path": "My first job interview in 2.5 years.. Here's some tips that helped me.md"
-    },
-    {
-      "basename": "Music",
-      "path": "Music.md"
     }
   ],
   "omittedPaths": [],

@@ -65,19 +65,24 @@
             }
           },
           {
-            "id": "eada4dc74534e510",
+            "id": "f2ad82af296deeab",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 92.99999880146338,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,13 +236,23 @@
               "icon": "lucide-list",
               "title": "Outline of When Cards Go Bad"
             }
+          },
+          {
+            "id": "891932a3409994ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +266,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "04f2308c48ea1a8b",
+  "active": "f2ad82af296deeab",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
     "Hub/Game Playing.md",
     "Hub/dino's pokey palace.md",
     "Shopping List.md",
@@ -281,8 +298,6 @@
     "A Game Design Approach to Stakeholder Management.md",
     "Call of Cthulhu.md",
     "Balancing the Economy for Albion Online.md",
-    "10 Things under $100 that Changed My Life.md",
-    "Notes/Notes.md",
     "Untitled 4.base",
     "Untitled",
     "dinopoke's vault/Untitled",
