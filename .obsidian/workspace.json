@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "04f2308c48ea1a8b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "eada4dc74534e510",
             "type": "leaf",
             "state": {
@@ -129,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -239,7 +251,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "eada4dc74534e510",
+  "active": "04f2308c48ea1a8b",
   "lastOpenFiles": [
     "Hub/Game Playing.md",
     "Hub/dino's pokey palace.md",

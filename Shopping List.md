@@ -60,3 +60,4 @@
 | Ace Combat 6                                       | 360      | 30  | Warringah                                                                 |     |
 | Child of Eden                                      | 360      | 3   | Warringah, Woden                                                          |     |
 | Blast Works                                        | Wii      | 28  | Woden                                                                     |     |
+| Donkey Kong Jungle Beat                            | Wii      | 8   | Hornsby                                                                   |     |
