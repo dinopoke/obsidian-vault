@@ -80,9 +80,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "65e3a624c31d6fd0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,8 +157,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,7 +277,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2ad82af296deeab",
+  "active": "81687d664d39aab5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
