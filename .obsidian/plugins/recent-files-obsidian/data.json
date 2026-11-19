@@ -1,36 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Shopping List",
-      "path": "Shopping List.md"
+      "basename": "What I did in Eco",
+      "path": "What I did in Eco.md"
     },
     {
       "basename": "Untitled",
-      "path": "Untitled.canvas"
+      "path": "Untitled.base"
     },
     {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "Class Notes",
-      "path": "Class Notes.md"
+      "basename": "Unreal Sydney",
+      "path": "Unreal Sydney.md"
     },
     {
-      "basename": "Game Playing",
-      "path": "Hub/Game Playing.md"
-    },
-    {
-      "basename": "dino's pokey palace",
-      "path": "Hub/dino's pokey palace.md"
+      "basename": "_index",
+      "path": "_index.md"
     },
     {
       "basename": "Trauma Games",
       "path": "Trauma Games.md"
     },
     {
-      "basename": "_index",
-      "path": "_index.md"
+      "basename": "dino's pokey palace",
+      "path": "Hub/dino's pokey palace.md"
+    },
+    {
+      "basename": "Game Playing",
+      "path": "Hub/Game Playing.md"
+    },
+    {
+      "basename": "Encouraging People To Play Games Canvas",
+      "path": "Encouraging People To Play Games Canvas.canvas"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
+      "basename": "Shopping List - Board Games",
+      "path": "Shopping List - Board Games.md"
     },
     {
       "basename": "Camel Up",
@@ -87,10 +99,6 @@
     {
       "basename": "Video Game Cartography",
       "path": "Video Game Cartography.md"
-    },
-    {
-      "basename": "Unreal Sydney",
-      "path": "Unreal Sydney.md"
     },
     {
       "basename": "Ultimate Toolbox",
@@ -191,14 +199,6 @@
     {
       "basename": "Perilous Wilds",
       "path": "Perilous Wilds.md"
-    },
-    {
-      "basename": "Pandemic Legacy",
-      "path": "Pandemic Legacy.md"
-    },
-    {
-      "basename": "One Night Werewolf",
-      "path": "One Night Werewolf.md"
     }
   ],
   "omittedPaths": [],

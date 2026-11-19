@@ -1,5 +1,4 @@
 ---
 title: "Game Playing"
 ---
-[[Shopping List]]
-1. 
+[[Shopping List - Video Games]]
