@@ -3,6 +3,7 @@ title: Shopping List - Board Games
 tags:
   - shopping
 ---
+Price Comparison: https://www.boardgameoracle.com/en-AU
 
 | Game                                 | Price | Link                                                                                         |
 | ------------------------------------ | ----- | -------------------------------------------------------------------------------------------- |
