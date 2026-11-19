@@ -1,7 +1,6 @@
 ---
-title: "Balancing the Economy for Albion Online"
+title: Balancing the Economy for Albion Online
 tags:
-- example-tag
 ---
 
 Created: 2022-08-17 16:59  

@@ -1,7 +1,6 @@
 ---
-title: "How Video Game Economies are Designed"
+title: How Video Game Economies are Designed
 tags:
-- example-tag
 ---
 
 Created: 2022-08-17 11:53  

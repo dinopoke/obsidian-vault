@@ -1,7 +1,6 @@
 ---
-title: "Company Setup"
+title: Company Setup
 tags:
-- example-tag
 ---
 
 Created: 2023-02-23 09:42  

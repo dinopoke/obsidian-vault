@@ -1,7 +1,6 @@
 ---
-title: "Dingoo"
+title: Dingoo
 tags:
-- example-tag
 ---
 
 # Dingoo

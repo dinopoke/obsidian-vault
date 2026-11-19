@@ -1,7 +1,6 @@
 ---
-title: "Production 101"
+title: Production 101
 tags:
-- example-tag
 ---
 Created: 2022-06-22 12:50  
 

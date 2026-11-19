@@ -1,7 +1,6 @@
 ---
-title: "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development"
+title: Risk Roadmapping for Game Development   Risk Roadmapping for Game Development
 tags:
-- example-tag
 ---
 Created: 2022-06-22 12:53  
 

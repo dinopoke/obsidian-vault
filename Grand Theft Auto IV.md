@@ -1,7 +1,6 @@
 ---
-title: "Grand Theft Auto IV"
+title: Grand Theft Auto IV
 tags:
-- example-tag
 ---
 
 Created: 2025-11-27 13:50  

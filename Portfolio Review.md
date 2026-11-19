@@ -1,7 +1,6 @@
 ---
-title: "Portfolio Review"
+title: Portfolio Review
 tags:
-- example-tag
 ---
 Created: 2022-07-20 11:50  
 

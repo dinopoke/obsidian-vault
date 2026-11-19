@@ -1,7 +1,6 @@
 ---
-title: "Building Our Resource Management Map"
+title: Building Our Resource Management Map
 tags:
-- example-tag
 ---
 
 Created: 2022-06-22 13:01  

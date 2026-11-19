@@ -1,7 +1,6 @@
 ---
-title: "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions"
+title: To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions
 tags:
-- example-tag
 ---
 
 Created: 2022-06-22 13:40  

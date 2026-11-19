@@ -1,7 +1,6 @@
 ---
-title: "How Web3 Games Work (and Sadly Don't)"
+title: How Web3 Games Work (and Sadly Don't)
 tags:
-- example-tag
 ---
 
 Created: 2022-08-16 13:39  

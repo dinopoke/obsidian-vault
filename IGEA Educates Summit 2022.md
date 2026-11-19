@@ -1,7 +1,6 @@
 ---
-title: "IGEA Educates Summit 2022"
+title: IGEA Educates Summit 2022
 tags:
-- example-tag
 ---
 
 Created: 2022-07-18 14:40  

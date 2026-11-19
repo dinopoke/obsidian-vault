@@ -1,7 +1,6 @@
 ---
 title: Meetings
 tags:
-  - example-tag
 ---
 
 # Meetings

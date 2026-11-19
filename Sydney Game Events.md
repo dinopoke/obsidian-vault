@@ -1,7 +1,6 @@
 ---
-title: "Sydney Game Events"
+title: Sydney Game Events
 tags:
-- example-tag
 ---
 Created: 2023-05-30 17:37  
 

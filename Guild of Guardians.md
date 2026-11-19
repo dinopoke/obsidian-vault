@@ -1,7 +1,6 @@
 ---
-title: "Guild of Guardians"
+title: Guild of Guardians
 tags:
-- example-tag
 ---
 
 Created: 2022-08-13 18:10  

@@ -1,7 +1,6 @@
 ---
-title: "Slotmania"
+title: Slotmania
 tags:
-- example-tag
 ---
 
 # Slotmania

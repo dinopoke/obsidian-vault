@@ -1,7 +1,6 @@
 ---
-title: "Random DungeonBreakers Notes"
+title: Random DungeonBreakers Notes
 tags:
-- example-tag
 ---
 Created: 2023-02-23 09:43  
 

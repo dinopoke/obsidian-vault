@@ -1,3 +1,8 @@
+---
+title: Shopping List
+tags:
+  - shopping
+---
 
 ### [[Shopping List - Video Games]]
 

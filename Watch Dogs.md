@@ -1,7 +1,6 @@
 ---
-title: "Watch Dogs"
+title: Watch Dogs
 tags:
-- example-tag
 ---
 
 Created: 2025-11-27 13:56  

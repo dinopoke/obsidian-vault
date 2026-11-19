@@ -1,7 +1,6 @@
 ---
-title: "Trauma Games"
+title: Trauma Games
 tags:
-- example-tag
 ---
 
 Created: 2025-12-05 09:38  

@@ -1,7 +1,6 @@
 ---
-title: "When Cards Go Bad"
+title: When Cards Go Bad
 tags:
-- example-tag
 ---
 
 Created: 2022-08-03 00:59  
