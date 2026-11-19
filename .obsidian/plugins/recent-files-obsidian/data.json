@@ -9,6 +9,26 @@
       "path": "Watch Dogs.md"
     },
     {
+      "basename": "Company Setup",
+      "path": "Company Setup.md"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
+      "basename": "Shopping List - Board Games",
+      "path": "Shopping List - Board Games.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Trauma Games",
       "path": "Trauma Games.md"
     },
@@ -89,10 +109,6 @@
       "path": "Dingoo.md"
     },
     {
-      "basename": "Company Setup",
-      "path": "Company Setup.md"
-    },
-    {
       "basename": "Building Our Resource Management Map",
       "path": "Building Our Resource Management Map.md"
     },
@@ -103,14 +119,6 @@
     {
       "basename": "A Game Design Approach to Stakeholder Management",
       "path": "A Game Design Approach to Stakeholder Management.md"
-    },
-    {
-      "basename": "Shopping List - Board Games",
-      "path": "Shopping List - Board Games.md"
-    },
-    {
-      "basename": "Shopping List",
-      "path": "Shopping List.md"
     },
     {
       "basename": "Shopping List - Video Games",
@@ -131,14 +139,6 @@
     {
       "basename": "What I did in Eco",
       "path": "What I did in Eco.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.base"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Unreal Sydney",
