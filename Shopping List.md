@@ -1,4 +1,6 @@
 
+### Video Games
+
 | Game                                               | Platform |     |                                                                           |     |
 | -------------------------------------------------- | -------- | --- | ------------------------------------------------------------------------- | --- |
 | MagnaCarta2                                        | 360      |     |                                                                           |     |
@@ -59,3 +61,10 @@
 | True Crime: New York City                          | PS2      | 22  | Burwood, Tuggerah                                                         |     |
 | Dead To Rights: Retribution                        | 360      | 20  | Nepean, Mt Druitt                                                         |     |
 | Boom Blox: Bash Party                              | Wii      | 5   | Erina                                                                     |     |
+
+### Board Games
+
+| Magic Foundations Starter Collection |     |     |
+| ------------------------------------ | --- | --- |
+| Magic Jumpstart 2020                 |     |     |
+| Jisogi                               |     |     |
