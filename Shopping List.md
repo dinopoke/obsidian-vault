@@ -54,11 +54,8 @@
 | Ace Combat 6                                       | 360      | 30  | Warringah                                                                 |     |
 | Child of Eden                                      | 360      | 3   | Warringah, Woden                                                          |     |
 | Blast Works                                        | Wii      | 28  | Woden                                                                     |     |
-<<<<<<< HEAD
 | Donkey Kong Jungle Beat                            | Wii      | 8   | Hornsby                                                                   |     |
-=======
 | True Crime: Streets of LA                          | PS2      | 6   | Burwood, Tuggerah                                                         |     |
 | True Crime: New York City                          | PS2      | 22  | Burwood, Tuggerah                                                         |     |
 | Dead To Rights: Retribution                        | 360      | 20  | Nepean, Mt Druitt                                                         |     |
 | Boom Blox: Bash Party                              | Wii      | 5   | Erina                                                                     |     |
->>>>>>> origin/main
