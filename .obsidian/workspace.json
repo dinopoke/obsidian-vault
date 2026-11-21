@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping List - Board Games.md",
+                "file": "Shopping List - Video Games.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shopping List - Board Games"
+              "title": "Shopping List - Video Games"
             }
           }
         ],
@@ -240,8 +240,8 @@
   },
   "active": "284a08eb33d0395d",
   "lastOpenFiles": [
-    "Shopping List - Video Games.md",
     "Shopping List - Board Games.md",
+    "Shopping List - Video Games.md",
     "Shopping List.md",
     "What I did in Eco.md",
     "When Cards Go Bad.md",
