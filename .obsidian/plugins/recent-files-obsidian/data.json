@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Art References",
-      "path": "Art References.md"
+      "basename": "Agile Cheat Sheet",
+      "path": "Agile Cheat Sheet.md"
     },
     {
       "basename": "Game Art",
       "path": "Game Art.md"
+    },
+    {
+      "basename": "Economy Notes",
+      "path": "Economy Notes.md"
+    },
+    {
+      "basename": "Leveling Systems",
+      "path": "Leveling Systems.md"
+    },
+    {
+      "basename": "Brainstorming",
+      "path": "Brainstorming.md"
+    },
+    {
+      "basename": "Systems Design",
+      "path": "Systems Design.md"
+    },
+    {
+      "basename": "Immersive Sim",
+      "path": "Immersive Sim.md"
+    },
+    {
+      "basename": "Level Design",
+      "path": "Level Design.md"
+    },
+    {
+      "basename": "Colour Theory",
+      "path": "Colour Theory.md"
+    },
+    {
+      "basename": "Game Music",
+      "path": "Game Music.md"
+    },
+    {
+      "basename": "Random AIE Notes",
+      "path": "Notes/Random AIE Notes.md"
+    },
+    {
+      "basename": "Agile Cheat sheet",
+      "path": "file:/Users/dinopoke/Downloads/Agile Cheat sheet.md"
+    },
+    {
+      "basename": "Random DungeonBreakers Notes",
+      "path": "Notes/Random DungeonBreakers Notes.md"
+    },
+    {
+      "basename": "Random Game Mini Projects",
+      "path": "Notes/Random Game Mini Projects.md"
+    },
+    {
+      "basename": "Random Game Writing Notes",
+      "path": "Notes/Random Game Writing Notes.md"
+    },
+    {
+      "basename": "Random Games",
+      "path": "Notes/Random Games.md"
+    },
+    {
+      "basename": "Programming Notes",
+      "path": "Notes/Programming Notes.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Game Writing",
+      "path": "Hub/Game Writing.md"
+    },
+    {
+      "basename": "Song Analysis",
+      "path": "Attachments/Song Analysis.png"
+    },
+    {
+      "basename": "Song Analysis",
+      "path": "Song Analysis.md"
+    },
+    {
+      "basename": "Animation",
+      "path": "Animation.md"
+    },
+    {
+      "basename": "Art Inspiration",
+      "path": "Art Inspiration.md"
+    },
+    {
+      "basename": "Art References",
+      "path": "Art References.md"
     },
     {
       "basename": "Lighting",
@@ -17,52 +105,16 @@
       "path": "Game Design Resources.md"
     },
     {
-      "basename": "Level Design",
-      "path": "Level Design.md"
-    },
-    {
-      "basename": "Immersive Sim",
-      "path": "Immersive Sim.md"
-    },
-    {
-      "basename": "Systems Design",
-      "path": "Systems Design.md"
-    },
-    {
-      "basename": "Brainstorming",
-      "path": "Brainstorming.md"
-    },
-    {
       "basename": "Note Template",
       "path": "templates/Note Template.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
-      "basename": "Programming Notes",
-      "path": "Notes/Programming Notes.md"
     },
     {
       "basename": "post",
       "path": "templates/post.md"
     },
     {
-      "basename": "Leveling Systems",
-      "path": "Leveling Systems.md"
-    },
-    {
       "basename": "Gritty System Designs for Retention",
       "path": "Gritty System Designs for Retention.md"
-    },
-    {
-      "basename": "Economy Notes",
-      "path": "Economy Notes.md"
-    },
-    {
-      "basename": "Colour Palettes",
-      "path": "Colour Palettes.md"
     },
     {
       "basename": "HarmoKnight GDD",
@@ -147,58 +199,6 @@
     {
       "basename": "So, You Wanna Be a Game Designer?",
       "path": "Clippings/So, You Wanna Be a Game Designer?.md"
-    },
-    {
-      "basename": "Map of Content",
-      "path": "templates/Map of Content.md"
-    },
-    {
-      "basename": "Courage And Spirit",
-      "path": "Projects/Courage And Spirit.md"
-    },
-    {
-      "basename": "Watch Dogs",
-      "path": "Watch Dogs.md"
-    },
-    {
-      "basename": "Virtual Beer and Pixels",
-      "path": "Virtual Beer and Pixels.md"
-    },
-    {
-      "basename": "Virtual Beer and Pixels 17-06-22",
-      "path": "Virtual Beer and Pixels 17-06-22.md"
-    },
-    {
-      "basename": "Driftsurge",
-      "path": "Projects/Driftsurge.md"
-    },
-    {
-      "basename": "The Master Is Dead",
-      "path": "Projects/The Master Is Dead.md"
-    },
-    {
-      "basename": "Company Setup",
-      "path": "Company Setup.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Trauma Games",
-      "path": "Trauma Games.md"
-    },
-    {
-      "basename": "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions",
-      "path": "To Ace Your Next Interview for a Management Position, Be Ready to Answer These 10 Questions.md"
-    },
-    {
-      "basename": "Sydney Game Events",
-      "path": "Sydney Game Events.md"
-    },
-    {
-      "basename": "Slotmania",
-      "path": "Slotmania.md"
     }
   ],
   "omittedPaths": [],
