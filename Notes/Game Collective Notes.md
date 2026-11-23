@@ -9,11 +9,10 @@ created: 2022-05-06
 Diverse games means diverse creators  
 The games you make a valid  
 Everyone can be a game maker  
-People who are scared of politics  
-Every deserves a second chance  
+Everybody deserves a second chance  
 Only exclude those who act in bad faith  
 Direct those who need safe spaces  
-Acceptance of those who can change  does not mean endorsement  
+Acceptance of those who can change does not mean endorsement  
 Encourage those to use their unique voice  
 
 Collective soft launch  

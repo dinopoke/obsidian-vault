@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Jam.md",
+                "file": "Notes/Game Collective Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Game Jam"
+              "title": "Game Collective Notes"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Jam.md",
+                "file": "Notes/Game Collective Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +270,7 @@
   },
   "active": "76dae24dc83ed703",
   "lastOpenFiles": [
+    "Game Jam.md",
     "Notes/Unreal VR Notes.md",
     "Notes/Programming Notes.md",
     "Portfolio Review.md",
@@ -295,7 +296,6 @@
     "DungeonBreakers - Toad Boss.md",
     "Dungeon Breakers 1.md",
     "Notes/World of Warcraft.md",
-    "Unreal Sydney.md",
     "Attachments/Song Analysis.png",
     "Attachments/fleshcloud.png",
     "Attachments/rooftypes.jpg",
