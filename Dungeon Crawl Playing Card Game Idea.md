@@ -4,7 +4,7 @@ tags:
   - projects
   - gameideas
   - gamedesign
-  - boardgame
+  - cardgame
 created: 2026-11-24T00:14:00
 ---
 Diamond - party
