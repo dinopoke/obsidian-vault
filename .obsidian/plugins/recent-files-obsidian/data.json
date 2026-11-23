@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Australian Video Games",
+      "path": "Australian Video Games.md"
+    },
+    {
       "basename": "Unreal VR Notes",
       "path": "Notes/Unreal VR Notes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10 Things under $100 that Changed My Life",
       "path": "10 Things under $100 that Changed My Life.md"
-    },
-    {
-      "basename": "Push Design",
-      "path": "Push Design.md"
     }
   ],
   "omittedPaths": [],
