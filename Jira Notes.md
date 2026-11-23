@@ -3,6 +3,8 @@ title: Jira Notes
 tags:
   - jira
   - gamemaking
+  - notes
+created: 2022-06-06
 ---
 
 Created: 2022-06-06 18:46  

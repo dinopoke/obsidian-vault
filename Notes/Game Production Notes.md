@@ -3,6 +3,7 @@ title: Game Production Notes
 tags:
   - gamemaking
   - gameproduction
+  - notes
 created: 2022-05-05
 ---
 Risk Roadmap

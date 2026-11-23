@@ -1,8 +1,9 @@
 ---
-title: "DM Ideas"
+title: DM Ideas
 tags:
-- gamemaster
-- ttrpg
+  - gamemaster
+  - ttrpg
+  - notes
 ---
 
 Created: 2022-05-08 17:27  

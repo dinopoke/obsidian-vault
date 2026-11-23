@@ -2,6 +2,7 @@
 title: Random Game Mini Projects
 tags:
   - projects
+  - notes
 created: 2022-05-05
 ---
 

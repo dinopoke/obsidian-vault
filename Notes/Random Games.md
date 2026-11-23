@@ -3,6 +3,7 @@ title: Random Games
 tags:
   - game
   - videogame
+  - notes
 created: 2022-05-05
 ---
 

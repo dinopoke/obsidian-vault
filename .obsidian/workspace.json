@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Courage And Spirit.md",
+                "file": "Notes/Unreal VR Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Courage And Spirit"
+              "title": "Unreal VR Notes"
             }
           }
         ],
@@ -148,7 +148,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Courage And Spirit.md",
+                "file": "Notes/Unreal VR Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -268,34 +269,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81687d664d39aab5",
+  "active": "891932a3409994ab",
   "lastOpenFiles": [
-    "Projects/Driftsurge.md",
-    "Projects/The Master Is Dead.md",
-    "Notes/Unreal VR Notes.md",
-    "Notes/Notes.md",
     "Notes/Programming Notes.md",
+    "Portfolio Review.md",
+    "Notes/Notes.md",
+    "Notes.md",
+    "Jira Notes.md",
+    "Dungeon Breakers.md",
+    "Dire Destiny.md",
+    "DungeonBreakers Notes.md",
+    "Notes/Creative Spaces Notes.md",
+    "AIE Notes.md",
+    "Notes/Note Making.md",
+    "Notes/Game Production Notes.md",
+    "Notes/Game Collective Notes.md",
+    "Notes/Doable Game Ideas.md",
+    "Notes/DM Ideas.md",
     "Notes/Game Writing Notes.md",
     "Notes/Game Mini Projects.md",
-    "Notes/AIE Notes.md",
     "Notes/Random Games.md",
+    "Notes/Unreal VR Notes.md",
+    "Projects/Courage And Spirit.md",
+    "Projects/Driftsurge.md",
+    "Projects/The Master Is Dead.md",
     "DungeonBreakers - Toad Boss.md",
-    "Notes/DungeonBreakers Notes.md",
-    "Dungeon Breakers.md",
     "Dungeon Breakers 1.md",
-    "Notes/Creative Spaces Notes.md",
-    "Notes/DM Ideas.md",
-    "Notes/Doable Game Ideas.md",
-    "Notes/Note Making.md",
-    "Notes/Game Collective Notes.md",
-    "Notes/Game Production Notes.md",
     "Notes/World of Warcraft.md",
     "Unreal Sydney.md",
-    "Richard Lemarchand's Recommended Reading List for Game Designers.md",
-    "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
-    "Production in AAA.md",
-    "Jira Notes.md",
-    "Game Jam.md",
     "Attachments/Song Analysis.png",
     "Attachments/fleshcloud.png",
     "Attachments/rooftypes.jpg",

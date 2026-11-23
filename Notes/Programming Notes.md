@@ -1,7 +1,10 @@
 ---
-title: "Programming Notes"
+title: Programming Notes
+tags:
+  - notes
+  - programming
+created: 2022-05-05
 ---
-Created: 2022-05-05 16:20
 
 [[Hub/Game Making]]
 

@@ -1,7 +1,10 @@
 ---
-title: "Random AIE Notes"
+title: Random AIE Notes
+tags:
+  - notes
+created: 2022-05-05
 ---
-Created: 2022-05-05 16:09
+
 
 heavy and lighten stone
 the SHADOW

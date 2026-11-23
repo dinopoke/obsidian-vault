@@ -1,5 +1,7 @@
 ---
 title: Note Making
+tags:
+  - notes
 created: 2022-05-05
 ---
 

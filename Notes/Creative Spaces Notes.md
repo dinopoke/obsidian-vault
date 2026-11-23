@@ -3,6 +3,7 @@ title: Creative Spaces Notes
 tags:
   - gamemaking
   - gamecommunity
+  - notes
 created: 2022-05-05
 ---
 

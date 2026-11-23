@@ -3,6 +3,7 @@ title: Game Collective Notes
 tags:
   - gamecommunity
   - gamemaking
+  - notes
 created: 2022-05-06
 ---
 Diverse games means diverse creators  
