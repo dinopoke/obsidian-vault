@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mental Health Notes.md",
+                "file": "Shopping List - Board Games.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mental Health Notes"
+              "title": "Shopping List - Board Games"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shopp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,8 +193,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -314,15 +313,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56ea244a09f666bc",
+  "active": "81687d664d39aab5",
   "lastOpenFiles": [
-    "Attachments/lit Starter Kit.jpg",
+    "Shopping List.md",
     "GRUNND.md",
+    "Notes/Mental Health Notes.md",
+    "Attachments/lit Starter Kit.jpg",
     "Go.md",
     "Music.md",
     "Is Killing an Inhibitor Worth It.md",
     "Literature.md",
-    "Notes/Mental Health Notes.md",
     "Untitled 1.md",
     "Dungeon Crawl Playing Card Game Idea.md",
     "Board Game Idea.md",

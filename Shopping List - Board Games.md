@@ -11,5 +11,5 @@ Price Comparison: https://www.boardgameoracle.com/en-AU
 | Magic Jumpstart 2020                 | 215   | https://www.thegamescorner.com.au/products/mtg-jumpstart-booster-box-release-date-17-07-2020 |
 | Jisogi                               |       |                                                                                              |
 | Jaipur                               |       |                                                                                              |
-| Radlands                             |       |                                                                                              |
+| Radlands Complete Collectors         | 99    | https://www.gameology.com.au/products/radlands-collectors-complete-edition                   |
 |                                      |       |                                                                                              |

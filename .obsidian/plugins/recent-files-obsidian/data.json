@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Shopping List - Board Games",
+      "path": "Shopping List - Board Games.md"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
+      "basename": "GRUNND",
+      "path": "GRUNND.md"
+    },
+    {
       "basename": "Mental Health Notes",
       "path": "Notes/Mental Health Notes.md"
     },
     {
       "basename": "lit Starter Kit",
       "path": "Attachments/lit Starter Kit.jpg"
-    },
-    {
-      "basename": "GRUNND",
-      "path": "GRUNND.md"
     },
     {
       "basename": "Go",
@@ -191,14 +199,6 @@
     {
       "basename": "Note Template",
       "path": "templates/Note Template.md"
-    },
-    {
-      "basename": "Map of Content",
-      "path": "templates/Map of Content.md"
-    },
-    {
-      "basename": "post",
-      "path": "templates/post.md"
     }
   ],
   "omittedPaths": [],
