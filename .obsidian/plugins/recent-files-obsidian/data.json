@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Courage And Spirit",
+      "path": "Projects/Courage And Spirit.md"
+    },
+    {
+      "basename": "Driftsurge",
+      "path": "Projects/Driftsurge.md"
+    },
+    {
+      "basename": "The Master Is Dead",
+      "path": "Projects/The Master Is Dead.md"
+    },
+    {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
       "basename": "Shopping List - Video Games",
       "path": "Shopping List - Video Games.md"
     },
     {
       "basename": "Shopping List - Board Games",
       "path": "Shopping List - Board Games.md"
-    },
-    {
-      "basename": "Shopping List",
-      "path": "Shopping List.md"
     },
     {
       "basename": "What I did in Eco",
@@ -133,8 +145,8 @@
       "path": "Hub/dino's pokey palace.md"
     },
     {
-      "basename": "Dungeon Breakers",
-      "path": "Projects/Dungeon Breakers.md"
+      "basename": "Dungeon Breakers 1",
+      "path": "Dungeon Breakers 1.md"
     },
     {
       "basename": "private-note",
@@ -187,18 +199,6 @@
     {
       "basename": "Virtual Beer and Pixels 17-06-22",
       "path": "Virtual Beer and Pixels 17-06-22.md"
-    },
-    {
-      "basename": "Virtual Beer and Pixels",
-      "path": "Virtual Beer and Pixels.md"
-    },
-    {
-      "basename": "Video Game Cartography",
-      "path": "Video Game Cartography.md"
-    },
-    {
-      "basename": "Ultimate Toolbox",
-      "path": "Ultimate Toolbox.md"
     }
   ],
   "omittedPaths": [],
