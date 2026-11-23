@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Dungeon Crawl Playing Card Game Idea",
+      "path": "Dungeon Crawl Playing Card Game Idea.md"
+    },
+    {
+      "basename": "Board Game Idea",
+      "path": "Board Game Idea.md"
+    },
+    {
+      "basename": "The Master Is Dead",
+      "path": "The Master Is Dead.md"
+    },
+    {
       "basename": "2D Art Notes",
       "path": "Notes/2D Art Notes.md"
     },
@@ -91,10 +103,6 @@
     {
       "basename": "Driftsurge",
       "path": "Projects/Driftsurge.md"
-    },
-    {
-      "basename": "The Master Is Dead",
-      "path": "Projects/The Master Is Dead.md"
     },
     {
       "basename": "DungeonBreakers - Toad Boss",
@@ -191,14 +199,6 @@
     {
       "basename": "Immersive Sim",
       "path": "Immersive Sim.md"
-    },
-    {
-      "basename": "Colour Theory",
-      "path": "Colour Theory.md"
-    },
-    {
-      "basename": "Game Music",
-      "path": "Game Music.md"
     }
   ],
   "omittedPaths": [],
