@@ -6,6 +6,7 @@ tags:
 created: 2026-11-24T00:14:00
 ---
 # AGILE CHEAT SHEET
+by Anthony Palaj
 
 # PROJECT PLANNING
 

@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Unreal VR Notes",
+      "path": "Notes/Unreal VR Notes.md"
+    },
+    {
+      "basename": "Programming Notes",
+      "path": "Notes/Programming Notes.md"
+    },
+    {
+      "basename": "So, You Wanna Be a Game Designer?",
+      "path": "Clippings/So, You Wanna Be a Game Designer?.md"
+    },
+    {
+      "basename": "Unreal VR Notes",
+      "path": "file:/Users/dinopoke/Downloads/Unreal VR Notes.md"
+    },
+    {
+      "basename": "UX In Motion",
+      "path": "UX In Motion.md"
+    },
+    {
+      "basename": "User Interface",
+      "path": "User Interface.md"
+    },
+    {
+      "basename": "CodeStyleConventions",
+      "path": "CodeStyleConventions.md"
+    },
+    {
+      "basename": "Source Control",
+      "path": "Source Control.md"
+    },
+    {
+      "basename": "CodeStyleConventions.doc",
+      "path": "file:/Users/dinopoke/Downloads/CodeStyleConventions.doc.md"
+    },
+    {
+      "basename": "Note Template",
+      "path": "templates/Note Template.md"
+    },
+    {
+      "basename": "Map of Content",
+      "path": "templates/Map of Content.md"
+    },
+    {
+      "basename": "post",
+      "path": "templates/post.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Programming.md"
+    },
+    {
       "basename": "Agile Cheat Sheet",
       "path": "Agile Cheat Sheet.md"
     },
@@ -65,14 +121,6 @@
       "path": "Notes/Random Games.md"
     },
     {
-      "basename": "Programming Notes",
-      "path": "Notes/Programming Notes.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
       "basename": "Game Writing",
       "path": "Hub/Game Writing.md"
     },
@@ -103,14 +151,6 @@
     {
       "basename": "Game Design Resources",
       "path": "Game Design Resources.md"
-    },
-    {
-      "basename": "Note Template",
-      "path": "templates/Note Template.md"
-    },
-    {
-      "basename": "post",
-      "path": "templates/post.md"
     },
     {
       "basename": "Gritty System Designs for Retention",
@@ -159,46 +199,6 @@
     {
       "basename": "Push Design",
       "path": "Push Design.md"
-    },
-    {
-      "basename": "Game Juice Notes",
-      "path": "Game Juice Notes.md"
-    },
-    {
-      "basename": "Shopping List",
-      "path": "Shopping List.md"
-    },
-    {
-      "basename": "What I did in Eco",
-      "path": "What I did in Eco.md"
-    },
-    {
-      "basename": "When Cards Go Bad",
-      "path": "When Cards Go Bad.md"
-    },
-    {
-      "basename": "Game Playing",
-      "path": "Hub/Game Playing.md"
-    },
-    {
-      "basename": "Shopping List - Video Games",
-      "path": "Shopping List - Video Games.md"
-    },
-    {
-      "basename": "Shopping List - Board Games",
-      "path": "Shopping List - Board Games.md"
-    },
-    {
-      "basename": "Music",
-      "path": "Music.md"
-    },
-    {
-      "basename": "Richard-Lemarchand-Project-Phases-Freeplay-2019",
-      "path": "Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png"
-    },
-    {
-      "basename": "So, You Wanna Be a Game Designer?",
-      "path": "Clippings/So, You Wanna Be a Game Designer?.md"
     }
   ],
   "omittedPaths": [],
