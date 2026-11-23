@@ -1,8 +1,8 @@
 ---
-title: "Literature"
+title: Literature
 tags:
-- reading
-- todo
+  - literature
+  - todo
 ---
 ## Reading List
 
@@ -14,3 +14,5 @@ tags:
 - Summa: Part 1
 - Sallust
 - Thucydides
+
+![[Attachments/1365475090228.jpg]]

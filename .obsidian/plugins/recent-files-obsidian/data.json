@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature",
+      "path": "Literature.md"
+    },
+    {
+      "basename": "Mental Health Notes",
+      "path": "Notes/Mental Health Notes.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "Dungeon Crawl Playing Card Game Idea",
       "path": "Dungeon Crawl Playing Card Game Idea.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Leveling Systems",
       "path": "Leveling Systems.md"
-    },
-    {
-      "basename": "Brainstorming",
-      "path": "Brainstorming.md"
-    },
-    {
-      "basename": "Systems Design",
-      "path": "Systems Design.md"
-    },
-    {
-      "basename": "Immersive Sim",
-      "path": "Immersive Sim.md"
     }
   ],
   "omittedPaths": [],
