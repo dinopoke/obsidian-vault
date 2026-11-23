@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "The Art Of Screenshake",
+      "path": "The Art Of Screenshake.md"
+    },
+    {
+      "basename": "Note Template",
+      "path": "templates/Note Template.md"
+    },
+    {
+      "basename": "post",
+      "path": "templates/post.md"
+    },
+    {
+      "basename": "Shopping List - Board Games",
+      "path": "Shopping List - Board Games.md"
+    },
+    {
       "basename": "Courage And Spirit",
       "path": "Projects/Courage And Spirit.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Shopping List - Video Games",
       "path": "Shopping List - Video Games.md"
-    },
-    {
-      "basename": "Shopping List - Board Games",
-      "path": "Shopping List - Board Games.md"
     },
     {
       "basename": "What I did in Eco",
@@ -77,16 +89,8 @@
       "path": "Producer Bootcamp - Production 101.md"
     },
     {
-      "basename": "post",
-      "path": "templates/post.md"
-    },
-    {
       "basename": "Portfolio Review",
       "path": "Portfolio Review.md"
-    },
-    {
-      "basename": "Note Template",
-      "path": "templates/Note Template.md"
     },
     {
       "basename": "Meetings",
@@ -195,10 +199,6 @@
     {
       "basename": "Web Comics",
       "path": "Web Comics.md"
-    },
-    {
-      "basename": "Virtual Beer and Pixels 17-06-22",
-      "path": "Virtual Beer and Pixels 17-06-22.md"
     }
   ],
   "omittedPaths": [],

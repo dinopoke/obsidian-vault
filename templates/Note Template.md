@@ -1,10 +1,10 @@
 ---
 title: "{{title}}"
 tags:
-- example-tag
+  - example-tag
+created: "{{date}} {{time}}"
 ---
 
-Created: {{date}} {{time}}  
 
 
 
