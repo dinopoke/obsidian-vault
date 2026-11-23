@@ -2,7 +2,7 @@
 title: "{{title}}"
 tags:
   - example-tag
-created: "{{date}} {{time}}"
+created: 2026-11-24T00:14:00
 ---
 
 

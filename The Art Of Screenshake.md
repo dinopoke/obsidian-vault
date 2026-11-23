@@ -5,7 +5,7 @@ tags:
   - gamedesign
   - vlambeer
   - gamejuice
-created: 2026-11-23 23:43
+created: 2026-11-23
 ---
 # Jan Willem Nijman - Vlambeer - "The art of screenshake" at INDIGO Classes 2013
 

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "So, You Wanna Be a Game Designer?",
+      "path": "Clippings/So, You Wanna Be a Game Designer?.md"
+    },
+    {
       "basename": "Push Design",
       "path": "Push Design.md"
     },
     {
+      "basename": "Shopping List",
+      "path": "Shopping List.md"
+    },
+    {
+      "basename": "Shopping List - Video Games",
+      "path": "Shopping List - Video Games.md"
+    },
+    {
+      "basename": "Shopping List - Board Games",
+      "path": "Shopping List - Board Games.md"
+    },
+    {
+      "basename": "The Art Of Screenshake",
+      "path": "The Art Of Screenshake.md"
+    },
+    {
       "basename": "Game Juice Notes",
       "path": "Game Juice Notes.md"
+    },
+    {
+      "basename": "Note Template",
+      "path": "templates/Note Template.md"
+    },
+    {
+      "basename": "post",
+      "path": "templates/post.md"
+    },
+    {
+      "basename": "Map of Content",
+      "path": "templates/Map of Content.md"
+    },
+    {
+      "basename": "What I did in Eco",
+      "path": "What I did in Eco.md"
+    },
+    {
+      "basename": "Courage And Spirit",
+      "path": "Projects/Courage And Spirit.md"
     },
     {
       "basename": "The Solo GM's Best Friend",
@@ -27,38 +67,6 @@
     {
       "basename": "When Cards Go Bad",
       "path": "When Cards Go Bad.md"
-    },
-    {
-      "basename": "The Art Of Screenshake",
-      "path": "The Art Of Screenshake.md"
-    },
-    {
-      "basename": "What I did in Eco",
-      "path": "What I did in Eco.md"
-    },
-    {
-      "basename": "Shopping List",
-      "path": "Shopping List.md"
-    },
-    {
-      "basename": "Shopping List - Video Games",
-      "path": "Shopping List - Video Games.md"
-    },
-    {
-      "basename": "Shopping List - Board Games",
-      "path": "Shopping List - Board Games.md"
-    },
-    {
-      "basename": "Note Template",
-      "path": "templates/Note Template.md"
-    },
-    {
-      "basename": "post",
-      "path": "templates/post.md"
-    },
-    {
-      "basename": "Courage And Spirit",
-      "path": "Projects/Courage And Spirit.md"
     },
     {
       "basename": "Driftsurge",
@@ -115,10 +123,6 @@
     {
       "basename": "Meetings",
       "path": "Meetings.md"
-    },
-    {
-      "basename": "Map of Content",
-      "path": "templates/Map of Content.md"
     },
     {
       "basename": "IGEA Educates Summit 2022",
@@ -195,10 +199,6 @@
     {
       "basename": "Camel Up",
       "path": "Camel Up.md"
-    },
-    {
-      "basename": "Alone Among The Stars",
-      "path": "Alone Among The Stars.md"
     }
   ],
   "omittedPaths": [],

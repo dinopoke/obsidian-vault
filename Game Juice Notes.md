@@ -3,7 +3,7 @@ title: Game Juice Notes
 tags:
   - gamedesign
   - gamejuice
-created: 2026-11-23 23:49
+created: 2026-11-23
 ---
 Colour
 Tweening / Easing
