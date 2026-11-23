@@ -116,12 +116,15 @@
             "id": "a3d26284e874d0c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/lit Starter Kit.jpg"
+                "file": "Notes/Mental Health Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "lit Starter Kit"
+              "icon": "lucide-file",
+              "title": "Mental Health Notes"
             }
           }
         ],
@@ -190,7 +193,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/lit Starter Kit.jpg",
+                "file": "Notes/Mental Health Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -310,14 +314,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81687d664d39aab5",
+  "active": "56ea244a09f666bc",
   "lastOpenFiles": [
+    "Attachments/lit Starter Kit.jpg",
     "GRUNND.md",
     "Go.md",
     "Music.md",
     "Is Killing an Inhibitor Worth It.md",
     "Literature.md",
-    "Attachments/lit Starter Kit.jpg",
     "Notes/Mental Health Notes.md",
     "Untitled 1.md",
     "Dungeon Crawl Playing Card Game Idea.md",
@@ -338,7 +342,6 @@
     "Jira Notes.md",
     "Dire Destiny.md",
     "DungeonBreakers Notes.md",
-    "AIE Notes.md",
     "Attachments/Song Analysis.png",
     "Attachments/fleshcloud.png",
     "Attachments/rooftypes.jpg",
