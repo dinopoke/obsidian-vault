@@ -2,6 +2,7 @@
 title: Economy Notes
 tags:
   - gamedesign
+  - gameeconomy
 ---
 
 Created: 2022-08-16 16:41  
@@ -95,4 +96,6 @@ new mechanics to bypass the creep - genshin shields bleed
 play and earn has taps
 
 ## References
-1. 
+1. [http://ncase.me/loopy/](http://ncase.me/loopy/)
+2. [http://www.jorisdormans.nl/machinations/](http://www.jorisdormans.nl/machinations/)
+3. [https://www.machinations.io/](https://www.machinations.io/)

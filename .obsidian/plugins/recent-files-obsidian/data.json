@@ -1,20 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "Game Art",
-      "path": "Game Art.md"
+      "basename": "Gritty System Designs for Retention",
+      "path": "Gritty System Designs for Retention.md"
+    },
+    {
+      "basename": "Leveling Systems",
+      "path": "Leveling Systems.md"
+    },
+    {
+      "basename": "Note Template",
+      "path": "templates/Note Template.md"
+    },
+    {
+      "basename": "post",
+      "path": "templates/post.md"
+    },
+    {
+      "basename": "Economy Notes",
+      "path": "Economy Notes.md"
     },
     {
       "basename": "Colour Palettes",
       "path": "Colour Palettes.md"
     },
     {
-      "basename": "Game Playing",
-      "path": "Hub/Game Playing.md"
+      "basename": "HarmoKnight GDD",
+      "path": "HarmoKnight GDD.md"
+    },
+    {
+      "basename": "AWG Intro to Writing & Narrative Design",
+      "path": "AWG Intro to Writing & Narrative Design.md"
+    },
+    {
+      "basename": "Game Art",
+      "path": "Game Art.md"
+    },
+    {
+      "basename": "The Art Of Screenshake",
+      "path": "The Art Of Screenshake.md"
+    },
+    {
+      "basename": "Thinking Like a Solo GM",
+      "path": "Thinking Like a Solo GM.md"
+    },
+    {
+      "basename": "The Solo GM's Best Friend",
+      "path": "The Solo GM's Best Friend.md"
+    },
+    {
+      "basename": "Richard Lemarchand - How to Build a Healthy, Happy Game",
+      "path": "Richard Lemarchand - How to Build a Healthy, Happy Game.md"
+    },
+    {
+      "basename": "My first job interview in 2.5 years.. Here's some tips that helped me",
+      "path": "My first job interview in 2.5 years.. Here's some tips that helped me.md"
+    },
+    {
+      "basename": "Is Killing an Inhibitor Worth It",
+      "path": "Is Killing an Inhibitor Worth It.md"
+    },
+    {
+      "basename": "Gamedev Economy Design",
+      "path": "Gamedev Economy Design.md"
+    },
+    {
+      "basename": "10 Things under $100 that Changed My Life",
+      "path": "10 Things under $100 that Changed My Life.md"
+    },
+    {
+      "basename": "Push Design",
+      "path": "Push Design.md"
+    },
+    {
+      "basename": "Game Juice Notes",
+      "path": "Game Juice Notes.md"
     },
     {
       "basename": "Shopping List",
       "path": "Shopping List.md"
+    },
+    {
+      "basename": "What I did in Eco",
+      "path": "What I did in Eco.md"
+    },
+    {
+      "basename": "When Cards Go Bad",
+      "path": "When Cards Go Bad.md"
+    },
+    {
+      "basename": "Game Playing",
+      "path": "Hub/Game Playing.md"
     },
     {
       "basename": "Shopping List - Video Games",
@@ -23,18 +99,6 @@
     {
       "basename": "Shopping List - Board Games",
       "path": "Shopping List - Board Games.md"
-    },
-    {
-      "basename": "The Art Of Screenshake",
-      "path": "The Art Of Screenshake.md"
-    },
-    {
-      "basename": "Game Juice Notes",
-      "path": "Game Juice Notes.md"
-    },
-    {
-      "basename": "Push Design",
-      "path": "Push Design.md"
     },
     {
       "basename": "Music",
@@ -49,28 +113,12 @@
       "path": "Clippings/So, You Wanna Be a Game Designer?.md"
     },
     {
-      "basename": "Note Template",
-      "path": "templates/Note Template.md"
-    },
-    {
-      "basename": "post",
-      "path": "templates/post.md"
-    },
-    {
       "basename": "Map of Content",
       "path": "templates/Map of Content.md"
     },
     {
-      "basename": "What I did in Eco",
-      "path": "What I did in Eco.md"
-    },
-    {
       "basename": "Courage And Spirit",
       "path": "Projects/Courage And Spirit.md"
-    },
-    {
-      "basename": "The Solo GM's Best Friend",
-      "path": "The Solo GM's Best Friend.md"
     },
     {
       "basename": "Watch Dogs",
@@ -83,10 +131,6 @@
     {
       "basename": "Virtual Beer and Pixels 17-06-22",
       "path": "Virtual Beer and Pixels 17-06-22.md"
-    },
-    {
-      "basename": "When Cards Go Bad",
-      "path": "When Cards Go Bad.md"
     },
     {
       "basename": "Driftsurge",
@@ -155,50 +199,6 @@
     {
       "basename": "How Video Game Economies are Designed",
       "path": "How Video Game Economies are Designed.md"
-    },
-    {
-      "basename": "How to be a Producer the Hard Way",
-      "path": "How to be a Producer the Hard Way.md"
-    },
-    {
-      "basename": "HarmoKnight GDD",
-      "path": "HarmoKnight GDD.md"
-    },
-    {
-      "basename": "Guild of Guardians",
-      "path": "Guild of Guardians.md"
-    },
-    {
-      "basename": "Grand Theft Auto IV",
-      "path": "Grand Theft Auto IV.md"
-    },
-    {
-      "basename": "Dingoo",
-      "path": "Dingoo.md"
-    },
-    {
-      "basename": "Building Our Resource Management Map",
-      "path": "Building Our Resource Management Map.md"
-    },
-    {
-      "basename": "Balancing the Economy for Albion Online",
-      "path": "Balancing the Economy for Albion Online.md"
-    },
-    {
-      "basename": "A Game Design Approach to Stakeholder Management",
-      "path": "A Game Design Approach to Stakeholder Management.md"
-    },
-    {
-      "basename": "dino's pokey palace",
-      "path": "Hub/dino's pokey palace.md"
-    },
-    {
-      "basename": "Dungeon Breakers 1",
-      "path": "Dungeon Breakers 1.md"
-    },
-    {
-      "basename": "private-note",
-      "path": "private/private-note.md"
     }
   ],
   "omittedPaths": [],

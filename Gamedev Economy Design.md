@@ -1,7 +1,6 @@
 ---
-title: "Gamedev Economy Design"
+title: Gamedev Economy Design
 tags:
-- video
 ---
 
 Created: 2022-08-17 14:58  

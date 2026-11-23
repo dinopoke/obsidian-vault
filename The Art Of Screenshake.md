@@ -9,8 +9,6 @@ created: 2026-11-23
 ---
 # Jan Willem Nijman - Vlambeer - "The art of screenshake" at INDIGO Classes 2013
 
-
-
 1. Less enemy health
 2. Higher rate of fire
 3. More enemies   
@@ -38,6 +36,8 @@ created: 2026-11-23
 25. Bigger explosions
 26. Even more permanence - smoke
 27. Meaning - lose states
+
+![](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 
 ## References
 1. https://www.youtube.com/watch?v=AJdEqssNZ-U

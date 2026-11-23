@@ -1,9 +1,10 @@
 ---
-title: "Richard Lemarchand - How to Build a Healthy, Happy Game"
+title: Richard Lemarchand - How to Build a Healthy, Happy Game
 tags:
-- gamedev
-- gameproduction
-- video
+  - gamedev
+  - gameproduction
+  - video
+  - freeplay
 ---
 
 Created: 2022-06-07 17:45  
