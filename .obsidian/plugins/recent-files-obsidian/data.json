@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Business Card Games",
+      "path": "Business Card Games.md"
+    },
+    {
+      "basename": "Dungeon Breakers",
+      "path": "Dungeon Breakers.md"
+    },
+    {
+      "basename": "Level Design",
+      "path": "Level Design.md"
+    },
+    {
       "basename": "Creative Spaces Notes",
       "path": "Notes/Creative Spaces Notes.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Jira Notes",
       "path": "Jira Notes.md"
-    },
-    {
-      "basename": "Dungeon Breakers",
-      "path": "Dungeon Breakers.md"
     },
     {
       "basename": "Dire Destiny",
@@ -181,10 +189,6 @@
       "path": "Immersive Sim.md"
     },
     {
-      "basename": "Level Design",
-      "path": "Level Design.md"
-    },
-    {
       "basename": "Colour Theory",
       "path": "Colour Theory.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Agile Cheat sheet",
       "path": "file:/Users/dinopoke/Downloads/Agile Cheat sheet.md"
-    },
-    {
-      "basename": "Game Writing",
-      "path": "Hub/Game Writing.md"
     }
   ],
   "omittedPaths": [],
