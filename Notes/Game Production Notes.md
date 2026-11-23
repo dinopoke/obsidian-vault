@@ -1,8 +1,10 @@
 ---
-title: "Game Production Notes"
+title: Game Production Notes
+tags:
+  - gamemaking
+  - gameproduction
+created: 2022-05-05
 ---
-Created: 2022-05-05 15:12
-
 Risk Roadmap
 T shirt sizes
 push and pull factors

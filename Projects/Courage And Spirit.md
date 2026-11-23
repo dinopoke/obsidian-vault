@@ -1,3 +1,9 @@
+---
+title: Courage And Spirit
+tags:
+  - projects
+created: 2026-11-24T00:14:00
+---
 Courage - main currency
 
 Find Courage

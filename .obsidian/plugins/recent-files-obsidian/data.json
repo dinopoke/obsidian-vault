@@ -1,32 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Game Production Notes",
-      "path": "Notes/Game Production Notes.md"
+      "basename": "Courage And Spirit",
+      "path": "Projects/Courage And Spirit.md"
     },
     {
-      "basename": "Game Collective Notes",
-      "path": "Notes/Game Collective Notes.md"
+      "basename": "Driftsurge",
+      "path": "Projects/Driftsurge.md"
     },
     {
-      "basename": "Doable Game Ideas",
-      "path": "Notes/Doable Game Ideas.md"
+      "basename": "The Master Is Dead",
+      "path": "Projects/The Master Is Dead.md"
     },
     {
-      "basename": "DM Ideas",
-      "path": "Notes/DM Ideas.md"
+      "basename": "Unreal VR Notes",
+      "path": "Notes/Unreal VR Notes.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Programming Notes",
+      "path": "Notes/Programming Notes.md"
+    },
+    {
+      "basename": "Game Writing Notes",
+      "path": "Notes/Game Writing Notes.md"
+    },
+    {
+      "basename": "Game Mini Projects",
+      "path": "Notes/Game Mini Projects.md"
+    },
+    {
+      "basename": "AIE Notes",
+      "path": "Notes/AIE Notes.md"
+    },
+    {
+      "basename": "Random Games",
+      "path": "Notes/Random Games.md"
+    },
+    {
+      "basename": "DungeonBreakers - Toad Boss",
+      "path": "DungeonBreakers - Toad Boss.md"
+    },
+    {
+      "basename": "DungeonBreakers Notes",
+      "path": "Notes/DungeonBreakers Notes.md"
+    },
+    {
+      "basename": "Dungeon Breakers",
+      "path": "Dungeon Breakers.md"
     },
     {
       "basename": "Creative Spaces Notes",
       "path": "Notes/Creative Spaces Notes.md"
     },
     {
-      "basename": "DungeonBreakers - Toad Boss",
-      "path": "Notes/DungeonBreakers - Toad Boss.md"
+      "basename": "DM Ideas",
+      "path": "Notes/DM Ideas.md"
     },
     {
-      "basename": "Unreal VR Notes",
-      "path": "Notes/Unreal VR Notes.md"
+      "basename": "Doable Game Ideas",
+      "path": "Notes/Doable Game Ideas.md"
+    },
+    {
+      "basename": "Note Making",
+      "path": "Notes/Note Making.md"
+    },
+    {
+      "basename": "Game Collective Notes",
+      "path": "Notes/Game Collective Notes.md"
+    },
+    {
+      "basename": "Game Production Notes",
+      "path": "Notes/Game Production Notes.md"
     },
     {
       "basename": "Unreal Sydney",
@@ -55,10 +103,6 @@
     {
       "basename": "Australian Video Games",
       "path": "Australian Video Games.md"
-    },
-    {
-      "basename": "Programming Notes",
-      "path": "Notes/Programming Notes.md"
     },
     {
       "basename": "So, You Wanna Be a Game Designer?",
@@ -99,10 +143,6 @@
     {
       "basename": "post",
       "path": "templates/post.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
     },
     {
       "basename": "Programming",
@@ -149,28 +189,8 @@
       "path": "Game Music.md"
     },
     {
-      "basename": "Random AIE Notes",
-      "path": "Notes/Random AIE Notes.md"
-    },
-    {
       "basename": "Agile Cheat sheet",
       "path": "file:/Users/dinopoke/Downloads/Agile Cheat sheet.md"
-    },
-    {
-      "basename": "Random DungeonBreakers Notes",
-      "path": "Notes/Random DungeonBreakers Notes.md"
-    },
-    {
-      "basename": "Random Game Mini Projects",
-      "path": "Notes/Random Game Mini Projects.md"
-    },
-    {
-      "basename": "Random Game Writing Notes",
-      "path": "Notes/Random Game Writing Notes.md"
-    },
-    {
-      "basename": "Random Games",
-      "path": "Notes/Random Games.md"
     },
     {
       "basename": "Game Writing",
@@ -179,26 +199,6 @@
     {
       "basename": "Song Analysis",
       "path": "Attachments/Song Analysis.png"
-    },
-    {
-      "basename": "Song Analysis",
-      "path": "Song Analysis.md"
-    },
-    {
-      "basename": "Animation",
-      "path": "Animation.md"
-    },
-    {
-      "basename": "Art Inspiration",
-      "path": "Art Inspiration.md"
-    },
-    {
-      "basename": "Art References",
-      "path": "Art References.md"
-    },
-    {
-      "basename": "Lighting",
-      "path": "Lighting.md"
     }
   ],
   "omittedPaths": [],

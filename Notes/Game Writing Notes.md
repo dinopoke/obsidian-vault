@@ -1,7 +1,8 @@
 ---
-title: "Random Game Writing Projects"
+title: Random Game Writing Projects
+created: 2022-05-05
 ---
-Created: 2022-05-05 16:12
+
 
 -   Vidya Journalism Twine
 -   Theme Park

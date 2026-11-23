@@ -1,9 +1,10 @@
 ---
-title: "Random Game Mini Projects"
+title: Random Game Mini Projects
 tags:
   - projects
+created: 2022-05-05
 ---
-Created: 2022-05-05 16:04  
+
 
 Alpha Protocol tweaks
 STALKER Mod compilation

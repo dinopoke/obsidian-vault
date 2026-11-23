@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game Production Notes.md",
+                "file": "Projects/Courage And Spirit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Game Production Notes"
+              "title": "Courage And Spirit"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Game Production Notes.md",
+                "file": "Projects/Courage And Spirit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,34 +268,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76dae24dc83ed703",
+  "active": "81687d664d39aab5",
   "lastOpenFiles": [
+    "Projects/Driftsurge.md",
+    "Projects/The Master Is Dead.md",
+    "Notes/Unreal VR Notes.md",
+    "Notes/Notes.md",
+    "Notes/Programming Notes.md",
+    "Notes/Game Writing Notes.md",
+    "Notes/Game Mini Projects.md",
+    "Notes/AIE Notes.md",
+    "Notes/Random Games.md",
+    "DungeonBreakers - Toad Boss.md",
+    "Notes/DungeonBreakers Notes.md",
+    "Dungeon Breakers.md",
+    "Dungeon Breakers 1.md",
+    "Notes/Creative Spaces Notes.md",
+    "Notes/DM Ideas.md",
+    "Notes/Doable Game Ideas.md",
+    "Notes/Note Making.md",
     "Notes/Game Collective Notes.md",
     "Notes/Game Production Notes.md",
-    "Notes/Doable Game Ideas.md",
-    "Notes/DM Ideas.md",
-    "Notes/Creative Spaces Notes.md",
-    "Notes/DungeonBreakers - Toad Boss.md",
     "Notes/World of Warcraft.md",
-    "Notes/Unreal VR Notes.md",
     "Unreal Sydney.md",
     "Richard Lemarchand's Recommended Reading List for Game Designers.md",
     "Richard Lemarchand - How to Build a Healthy, Happy Game.md",
     "Production in AAA.md",
     "Jira Notes.md",
     "Game Jam.md",
-    "Australian Video Games.md",
-    "Notes/Programming Notes.md",
-    "Clippings/So, You Wanna Be a Game Designer?.md",
-    "file:/Users/dinopoke/Downloads/Unreal VR Notes.md",
-    "UX In Motion.md",
-    "User Interface.md",
-    "CodeStyleConventions.md",
-    "Source Control.md",
-    "file:/Users/dinopoke/Downloads/CodeStyleConventions.doc.md",
-    "templates/Note Template.md",
-    "templates/Map of Content.md",
-    "templates/post.md",
     "Attachments/Song Analysis.png",
     "Attachments/fleshcloud.png",
     "Attachments/rooftypes.jpg",

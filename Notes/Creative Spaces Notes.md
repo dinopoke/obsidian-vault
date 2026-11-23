@@ -1,7 +1,10 @@
 ---
-title: "Creative Spaces Notes"
+title: Creative Spaces Notes
+tags:
+  - gamemaking
+  - gamecommunity
+created: 2022-05-05
 ---
-Created: 2022-05-05 15:37
 
 Creative Spaces  
 Pot luck collective space  

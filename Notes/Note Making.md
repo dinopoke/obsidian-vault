@@ -1,7 +1,7 @@
 ---
-title: "Note Making"
+title: Note Making
+created: 2022-05-05
 ---
-Created: 2022-05-05 15:34
 
 Game Notes
 -   Pros and Cons
