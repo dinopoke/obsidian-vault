@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2D Art Notes",
+      "path": "Notes/2D Art Notes.md"
+    },
+    {
       "basename": "Business Card Games",
       "path": "Business Card Games.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Game Music",
       "path": "Game Music.md"
-    },
-    {
-      "basename": "Agile Cheat sheet",
-      "path": "file:/Users/dinopoke/Downloads/Agile Cheat sheet.md"
     }
   ],
   "omittedPaths": [],
