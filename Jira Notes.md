@@ -1,8 +1,8 @@
 ---
-title: "Jira Notes"
+title: Jira Notes
 tags:
-- gamedev
-- jira
+  - jira
+  - gamemaking
 ---
 
 Created: 2022-06-06 18:46  

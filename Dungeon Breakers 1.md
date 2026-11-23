@@ -4,5 +4,5 @@ tags:
   - projects
 ---
 # Dungeon Breakers
-1. [[Notes/Toad Boss Notes]]
+1. [[Notes/DungeonBreakers - Toad Boss]]
 2. [[Notes/Random DungeonBreakers Notes]]

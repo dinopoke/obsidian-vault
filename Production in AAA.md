@@ -1,8 +1,8 @@
 ---
-title: "Production in AAA"
+title: Production in AAA
 tags:
-- gameproduction
-- gamedev
+  - gameproduction
+  - gamemaking
 ---
 
 Created: 2022-07-18 13:29  

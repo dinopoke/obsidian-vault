@@ -1,11 +1,10 @@
 ---
-title: "Unreal Sydney"
+title: Unreal Sydney
 tags:
-- unreal
-- sydneygamedev 
+  - unreal
+  - sydneygamesscene
+created: 2022-06-29
 ---
-
-Created: 2022-06-29 18:58  
 
 E Q right click up and down
 V vertex snapping

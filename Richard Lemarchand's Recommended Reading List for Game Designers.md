@@ -1,8 +1,8 @@
 ---
-title: "Richard Lemarchand's Recommended Reading List for Game Designers"
+title: Richard Lemarchand's Recommended Reading List for Game Designers
 tags:
-- gamedev
-- reading
+  - reading
+  - gamemaking
 ---
 
 Created: 2022-06-07 17:50  

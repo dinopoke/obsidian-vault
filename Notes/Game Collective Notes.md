@@ -1,8 +1,10 @@
 ---
-title: "Game Collective Notes"
+title: Game Collective Notes
+tags:
+  - gamecommunity
+  - gamemaking
+created: 2022-05-06
 ---
-Created: 2022-05-06 00:06
-
 Diverse games means diverse creators  
 The games you make a valid  
 Everyone can be a game maker  
