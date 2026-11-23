@@ -1,15 +1,15 @@
 ---
-title: "GRUNND"
+title: GRUNND
 tags:
-- game
-- todo
-- videogame 
+  - game
+  - todo
+  - videogame
+created: 2022-06-29
 ---
 
-Created: 2022-06-29 23:16  
 
 Check out the demo 
 
 
 ## References
-1. 
+1. https://store.steampowered.com/app/1449920/GRUNND/

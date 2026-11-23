@@ -1,10 +1,9 @@
 ---
-title: "Is Killing an Inhibitor Worth It?"
+title: Is Killing an Inhibitor Worth It?
 tags:
-- video
-- leagueoflegends
-- videogametheory
-- todo
+  - video
+  - leagueoflegends
+  - videogametheory
 ---
 Created: 2022-05-03 21:40  
 

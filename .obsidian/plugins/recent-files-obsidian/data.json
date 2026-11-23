@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "lit Starter Kit",
+      "path": "Attachments/lit Starter Kit.jpg"
+    },
+    {
+      "basename": "GRUNND",
+      "path": "GRUNND.md"
+    },
+    {
+      "basename": "Go",
+      "path": "Go.md"
+    },
+    {
+      "basename": "Music",
+      "path": "Music.md"
+    },
+    {
+      "basename": "Is Killing an Inhibitor Worth It",
+      "path": "Is Killing an Inhibitor Worth It.md"
+    },
+    {
       "basename": "Literature",
       "path": "Literature.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "post",
       "path": "templates/post.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Programming.md"
-    },
-    {
-      "basename": "Agile Cheat Sheet",
-      "path": "Agile Cheat Sheet.md"
-    },
-    {
-      "basename": "Game Art",
-      "path": "Game Art.md"
-    },
-    {
-      "basename": "Economy Notes",
-      "path": "Economy Notes.md"
-    },
-    {
-      "basename": "Leveling Systems",
-      "path": "Leveling Systems.md"
     }
   ],
   "omittedPaths": [],

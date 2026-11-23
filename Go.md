@@ -1,10 +1,11 @@
 ---
-title: "Go"
+title: Go
 tags:
-- game
-- todo
+  - game
+  - todo
+  - boardgame
+created: 2022-05-05
 ---
-Created: 2022-05-05 16:02  
 
 
 ## References

@@ -15,4 +15,4 @@ tags:
 - Sallust
 - Thucydides
 
-![[Attachments/1365475090228.jpg]]
+![[Attachments/lit Starter Kit.jpg]]
