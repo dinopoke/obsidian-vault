@@ -5,6 +5,7 @@ tags:
   - gameeconomy
 created: 2026-11-24T00:14:00
 ---
+[[Gritty System Designs for Retention]]
 
 A leveling system is essentially a series of goals and rewards for the player
 - Rewards should be meaningful

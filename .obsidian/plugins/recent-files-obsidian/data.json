@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Gritty System Designs for Retention",
-      "path": "Gritty System Designs for Retention.md"
+      "basename": "Systems Design",
+      "path": "Systems Design.md"
     },
     {
-      "basename": "Leveling Systems",
-      "path": "Leveling Systems.md"
+      "basename": "Brainstorming",
+      "path": "Brainstorming.md"
     },
     {
       "basename": "Note Template",
       "path": "templates/Note Template.md"
     },
     {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    },
+    {
+      "basename": "Programming Notes",
+      "path": "Notes/Programming Notes.md"
+    },
+    {
       "basename": "post",
       "path": "templates/post.md"
+    },
+    {
+      "basename": "Leveling Systems",
+      "path": "Leveling Systems.md"
+    },
+    {
+      "basename": "Gritty System Designs for Retention",
+      "path": "Gritty System Designs for Retention.md"
     },
     {
       "basename": "Economy Notes",
@@ -145,10 +161,6 @@
       "path": "Company Setup.md"
     },
     {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Meetings",
       "path": "Meetings.md"
-    },
-    {
-      "basename": "IGEA Educates Summit 2022",
-      "path": "IGEA Educates Summit 2022.md"
-    },
-    {
-      "basename": "How Web3 Games Work (and Sadly Don't)",
-      "path": "How Web3 Games Work (and Sadly Don't).md"
-    },
-    {
-      "basename": "How Video Game Economies are Designed",
-      "path": "How Video Game Economies are Designed.md"
     }
   ],
   "omittedPaths": [],
