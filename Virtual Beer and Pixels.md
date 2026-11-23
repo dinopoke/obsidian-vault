@@ -1,7 +1,7 @@
 ---
-title: "Virtual Beer and Pixels"
+title: Virtual Beer and Pixels
 tags:
-- BeerAndPixels
+  - BeerAndPixels
 ---
 
 Created: 2022-06-06 18:51  

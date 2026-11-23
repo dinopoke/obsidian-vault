@@ -4,11 +4,12 @@ tags:
   - video
   - gamedesign
   - vlambeer
+  - gamejuice
 created: 2026-11-23 23:43
 ---
 # Jan Willem Nijman - Vlambeer - "The art of screenshake" at INDIGO Classes 2013
 
-https://www.youtube.com/watch?v=AJdEqssNZ-U
+
 
 1. Less enemy health
 2. Higher rate of fire
@@ -39,4 +40,4 @@ https://www.youtube.com/watch?v=AJdEqssNZ-U
 27. Meaning - lose states
 
 ## References
-1. 
+1. https://www.youtube.com/watch?v=AJdEqssNZ-U

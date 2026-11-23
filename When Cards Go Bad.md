@@ -1,9 +1,11 @@
 ---
 title: When Cards Go Bad
 tags:
+  - magicthegathering
+  - tcg
+created: 2022-08-03 00:59
 ---
 
-Created: 2022-08-03 00:59  
 
 
 
