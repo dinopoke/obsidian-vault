@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game Collective Notes.md",
+                "file": "Notes/Creative Spaces Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Game Collective Notes"
+              "title": "Creative Spaces Notes"
             }
           }
         ],
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Game Collective Notes.md",
+                "file": "Notes/Creative Spaces Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,6 +270,7 @@
   },
   "active": "76dae24dc83ed703",
   "lastOpenFiles": [
+    "Notes/Game Collective Notes.md",
     "Game Jam.md",
     "Notes/Unreal VR Notes.md",
     "Notes/Programming Notes.md",
@@ -284,7 +285,6 @@
     "AIE Notes.md",
     "Notes/Note Making.md",
     "Notes/Game Production Notes.md",
-    "Notes/Game Collective Notes.md",
     "Notes/Doable Game Ideas.md",
     "Notes/DM Ideas.md",
     "Notes/Game Writing Notes.md",
