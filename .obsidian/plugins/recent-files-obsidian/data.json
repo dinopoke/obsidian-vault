@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "So, You Wanna Be a Game Designer?",
-      "path": "Clippings/So, You Wanna Be a Game Designer?.md"
+      "basename": "Game Art",
+      "path": "Game Art.md"
     },
     {
-      "basename": "Push Design",
-      "path": "Push Design.md"
+      "basename": "Colour Palettes",
+      "path": "Colour Palettes.md"
+    },
+    {
+      "basename": "Game Playing",
+      "path": "Hub/Game Playing.md"
     },
     {
       "basename": "Shopping List",
@@ -27,6 +31,22 @@
     {
       "basename": "Game Juice Notes",
       "path": "Game Juice Notes.md"
+    },
+    {
+      "basename": "Push Design",
+      "path": "Push Design.md"
+    },
+    {
+      "basename": "Music",
+      "path": "Music.md"
+    },
+    {
+      "basename": "Richard-Lemarchand-Project-Phases-Freeplay-2019",
+      "path": "Attachments/Richard-Lemarchand-Project-Phases-Freeplay-2019.png"
+    },
+    {
+      "basename": "So, You Wanna Be a Game Designer?",
+      "path": "Clippings/So, You Wanna Be a Game Designer?.md"
     },
     {
       "basename": "Note Template",
@@ -179,26 +199,6 @@
     {
       "basename": "private-note",
       "path": "private/private-note.md"
-    },
-    {
-      "basename": "Unreal Sydney",
-      "path": "Unreal Sydney.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
-    },
-    {
-      "basename": "Game Playing",
-      "path": "Hub/Game Playing.md"
-    },
-    {
-      "basename": "Encouraging People To Play Games Canvas",
-      "path": "Encouraging People To Play Games Canvas.canvas"
-    },
-    {
-      "basename": "Camel Up",
-      "path": "Camel Up.md"
     }
   ],
   "omittedPaths": [],
