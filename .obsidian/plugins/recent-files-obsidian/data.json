@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Level Design",
+      "path": "Level Design.md"
+    },
+    {
+      "basename": "Immersive Sim",
+      "path": "Immersive Sim.md"
+    },
+    {
       "basename": "Systems Design",
       "path": "Systems Design.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Producer Bootcamp - Production 101",
       "path": "Producer Bootcamp - Production 101.md"
-    },
-    {
-      "basename": "Portfolio Review",
-      "path": "Portfolio Review.md"
-    },
-    {
-      "basename": "Meetings",
-      "path": "Meetings.md"
     }
   ],
   "omittedPaths": [],
