@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Art References",
+      "path": "Art References.md"
+    },
+    {
+      "basename": "Game Art",
+      "path": "Game Art.md"
+    },
+    {
+      "basename": "Lighting",
+      "path": "Lighting.md"
+    },
+    {
+      "basename": "Game Design Resources",
+      "path": "Game Design Resources.md"
+    },
+    {
       "basename": "Level Design",
       "path": "Level Design.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "AWG Intro to Writing & Narrative Design",
       "path": "AWG Intro to Writing & Narrative Design.md"
-    },
-    {
-      "basename": "Game Art",
-      "path": "Game Art.md"
     },
     {
       "basename": "The Art Of Screenshake",
@@ -187,18 +199,6 @@
     {
       "basename": "Slotmania",
       "path": "Slotmania.md"
-    },
-    {
-      "basename": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development",
-      "path": "Risk Roadmapping for Game Development   Risk Roadmapping for Game Development.md"
-    },
-    {
-      "basename": "Random DungeonBreakers Notes",
-      "path": "Notes/Random DungeonBreakers Notes.md"
-    },
-    {
-      "basename": "Producer Bootcamp - Production 101",
-      "path": "Producer Bootcamp - Production 101.md"
     }
   ],
   "omittedPaths": [],

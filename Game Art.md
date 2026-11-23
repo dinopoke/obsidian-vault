@@ -15,6 +15,9 @@ created: 2026-11-24T00:14:00
 
 # [[Colour Palettes]]
 
+# [[Lighting]]
+
+# [[Art References]]
 
 ## References
 1. 
